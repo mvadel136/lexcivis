@@ -1,0 +1,12 @@
+status: citizen wording mapped to the wording of the procedure titles in data/procedures.json; each entry checked against the record titles
+phrases:
+  رسم عقاري: ملكية الأرض سند ملكية
+  الرسم العقاري: ملكية الأرض سند ملكية
+  رخصة القيادة: رخصة السياقة
+  بطاقة الهوية: بطاقة التعريف
+  السجل العدلي: صحيفة السوابق العدلية
+  السجل الجنائي: صحيفة السوابق العدلية
+  titre de propriété: titre foncier
+  extrait de casier: bulletin casier judiciaire
+  carte nationale: carte d'identité
+  extrait d'acte de naissance: extrait de naissance

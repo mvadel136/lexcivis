@@ -1,0 +1,123 @@
+{
+ "system": "SANAD v1",
+ "run_utc": "2026-11-10T01:22:39+00:00",
+ "log_records": 45,
+ "log_head_sha256": "753084d88e3dc073613cb0ea4dff09fcddab183a2b4bfb74c25cdc8ee89ffb6f",
+ "log_file_sha256": "9d4339c778027e4be8d1014e7e12243163ba833abfa6836bb51cfd25c3b9f68c",
+ "answers": [
+  {
+   "stage": "S1",
+   "lang": "fr",
+   "question": "Quels sont les documents requis pour obtenir un passeport ordinaire ?",
+   "refused": false,
+   "answer": "### 📄 Documents requis\n- **Présenter le numéro national de la personne concernée**  \n- **Soumettre la demande par le représentant légal** si la demande concerne un mineur  \n\n### 💰 Coût\n- **3 000 MRU** pour un passeport ordinaire  \n\n### 📍 Où s'adresser\n- **Centre d'accueil des citoyens** (réception et remise du passeport)  \n\nPour confirmation, contactez directement l'administration compétente.",
+   "retrieved": [
+    "Demande d'obtention de passeport pour la première fois (Titres sécurisés)",
+    "Envoi d'un passeport par la valise diplomatique",
+    "Demande de renouvellement de passeport (Titres sécurisés)",
+    "Formalité d'obtention de visas d'entrée",
+    "Ecotourisme - Parc National Diawling"
+   ]
+  },
+  {
+   "stage": "S1",
+   "lang": "ar",
+   "question": "ما هي الوثائق المطلوبة لاستخراج بطاقة التعريف الوطنية؟",
+   "refused": true,
+   "answer": "لم أجد معلومات موثوقة حول هذا الموضوع في قاعدة الإجراءات.",
+   "retrieved": [
+    "Dépistage Vaccination Orientation Institut National d’Hépato-Virologie (INHV)",
+    "Forfait Obstétrical",
+    "Ecotourisme - Parc National Diawling",
+    "Le certificat d’individualité ou de concordance ou de conformité",
+    "Le coût forfaitaire de grossesse"
+   ]
+  },
+  {
+   "stage": "S2",
+   "lang": "fr",
+   "question": "Combien coûte le timbre pour obtenir des renseignements sur un titre foncier ?",
+   "refused": true,
+   "answer": "RÉPONSE SUSPENDUE / الإجابة معلقة — Les versions officielles française et arabe ne donnent pas la même valeur. L'administration concernée doit confirmer avant toute réponse.\n- Renseignements sur un Titre Foncier (fee): FR « Timbre: 50 MRU » / AR « الطابع: 20 أوقية جديدة »\n- Création d'un Titre Foncier (après arrêté de cession définitive) (fee): FR « Timbre 50 MRU/Page arrêté, 2% du prix du terrain (PO), Tirage calque: Bordereau: 28 MRU » / AR « ختم 20 أوقية جديدة / صفحة متوقفة ، 2٪ من ثمن الأرض ، طباعة تتبع: 150 أوقية جديدة ، الحدود: 28 أوقية جديدة ، نسخة من أمر الامتياز »\n- Morcellement d'un Titre Foncier (fee): FR « Timbre: 50 MRU . - Droits: 2,09% pour la Conservation et 2 % pour l'Enregistrement. - Bordereau: 20 MRU. » / AR « - الطابع: 20 أوقية جديدة . - الرسوم: 1.2٪. - الانزلاق: 280 أوقية جديدة . - الانزلاق: 280أوقية جديدة . »\n- Carte grise (Pour les Immatriculations des véhicules neufs) (fee): FR « Timbres fiscaux (VL:1 500 ou 2 500 (7pl), Bus: 3 500 MRU, V4X4: 4 500 MRU,VU: 5 500 MRU, Cam 8T: 5 500 MRU, Cam 8-12T: 6 500 MRU et Cam≥12T: 7 500 MRU) » / AR « (سيارة صغيرة: 1,500 - 2,500 أوقية جديدة ، حافلة: 3,500 أوقية جديدة ، سيارة رباعية: 4,500 أوقية جديدة ، مركبة خدمات: 5,500 أوقية جديدة ، شاحنة 8 طن: 5,500 أوقية جديدة ، شاحنة 8-12 طن: 6,500 أوقية جديدة »\n- Mutation de Titre Foncier (fee): FR « - Bordereau: 20 MRU. - Timbre: 50 MRU. - Droits: 3,2%. » / AR « - الجدول: 14 أوقية جديدة . - الطابع: 20 أوقية جديدة . - الرسوم: 3.2٪. »",
+   "retrieved": [
+    "Renseignements sur un Titre Foncier",
+    "Création d'un Titre Foncier (après arrêté de cession définitive)",
+    "Morcellement d'un Titre Foncier",
+    "Carte grise (Pour les Immatriculations des véhicules neufs)",
+    "Mutation de Titre Foncier"
+   ]
+  },
+  {
+   "stage": "S2",
+   "lang": "ar",
+   "question": "كم يكلف الطابع للحصول على معلومات حول رسم عقاري؟",
+   "refused": false,
+   "answer": "RÉPONSE SUSPENDUE / الإجابة معلقة — Les versions officielles française et arabe ne donnent pas la même valeur. L'administration concernée doit confirmer avant toute réponse.\n- Renseignements sur un Titre Foncier (fee): FR « Timbre: 50 MRU » / AR « الطابع: 20 أوقية جديدة »\n- Hypothèques d'un Titre Foncier (fee): FR « Timbre: 50 MRU. - Droits: 3,2% du montant de l'hypothèque prêt. - Bordereau: 16 MRU. » / AR « - الطابع: 20 أوقية جديدة - الرسوم: 1.2٪ من مبلغ القرض. - الانزلاق: 160 أوقية جديدة . »\n- Procédure d'immatriculation (fee): FR « Timbre: 50 MRU Droits: 3,7%( Valeur Investie), Bordereau: 20 MRU » / AR « الطابع: 20 أوقية جديدة الرسوم: 3.7٪ (القيمة المستثمرة)، الحدود: 28 أوقية جديدة ، تتبع الطباعة: 150أوقية جديدة . »\n- Duplicata de Permis d'Occuper et de lettre d'attribution (fee): FR « Timbre: 50 MRU » / AR « الطابع: 20 أوقية جديدة »\n- Duplicata de Permis d'Occuper et de lettre d'attribution (delay): FR « Au plus 10 jours » / AR « 3 أيام على الأكثر »",
+   "retrieved": [
+    "Renseignements sur un Titre Foncier",
+    "Hypothèques d'un Titre Foncier",
+    "Procédure d'immatriculation",
+    "إجراءات التسجيل",
+    "Duplicata de Permis d'Occuper et de lettre d'attribution"
+   ]
+  },
+  {
+   "stage": "S3",
+   "lang": "fr",
+   "question": "Quel est le délai de traitement pour une demande de carte de stage ?",
+   "refused": true,
+   "answer": "RÉPONSE SUSPENDUE / الإجابة معلقة — Les versions officielles française et arabe ne donnent pas la même valeur. L'administration concernée doit confirmer avant toute réponse.\n- Demande de la carte de stage (delay): FR « 5 jours » / AR « خمسة عشر(15) يوما »",
+   "retrieved": [
+    "Demande de la carte de stage",
+    "Demande de stage",
+    "Demande de stage",
+    "Certificat de constat de vérification des instruments de mesure",
+    "Certificat d'etalonnage des instruments de mesure"
+   ]
+  },
+  {
+   "stage": "S4",
+   "lang": "ar",
+   "question": "شنهِ لوراق الِّ لازمين باش نخرج بطاگة التعريف؟",
+   "refused": true,
+   "answer": "لم أجد معلومات موثوقة حول هذا الموضوع في قاعدة الإجراءات.",
+   "retrieved": [
+    "Dépistage Vaccination Orientation Institut National d’Hépato-Virologie (INHV)",
+    "Réception de la production des agriculteurs",
+    "Consultation",
+    "Demande de liberté provisoire",
+    "Réquisition en médecine"
+   ]
+  },
+  {
+   "stage": "S4",
+   "lang": "fr",
+   "question": "chnhou lwrag elli lazmin bach nkhrej carte d'identité ?",
+   "refused": true,
+   "answer": "Je n'ai pas trouvé d'information fiable sur ce sujet dans la base des procédures.",
+   "retrieved": []
+  },
+  {
+   "stage": "S5",
+   "lang": "fr",
+   "question": "Mon NNI est [NNI-MASQUÉ] et mon téléphone [TÉL-MASQUÉ], comment renouveler ma carte d'identité ?",
+   "refused": false,
+   "answer": "### 📋 Étapes\n1. Rendez‑vous au **Centre d'accueil des citoyens**.  \n2. Présentez votre **Numéro National d’Identification (NNI)**.  \n3. Payez les frais de renouvellement.  \n4. Attendez le traitement de votre demande (le délai n’est pas précisé).  \n5. Retirez votre nouvelle carte d’identité au même centre.\n\n### 📄 Documents requis\n- **Numéro National d’Identification (NNI)** (à présenter sur place).\n\n### 💰 Coût\n- **100 MRU**.\n\n### 📍 Où s'adresser\n- **Centre d'accueil des citoyens** (lieu de réception et de remise de la carte).  \n- Le traitement de la demande est assuré par l’**Agence Nationale du Registre de la Population et des Titres Sécurisés**.\n\nPour confirmation, contactez directement l'administration compétente.",
+   "retrieved": [
+    "Demande de renouvellement d'une carte d’identité (Titres sécurisés)",
+    "Demande de renouvellement d'une carte d’identité (Titres sécurisés)",
+    "Renouvellement de carte grise",
+    "Demande de renouvellement d'une carte d’identité (Titres sécurisés)",
+    "Demande de renouvellement d'une carte d’identité (Titres sécurisés)"
+   ]
+  },
+  {
+   "stage": "S6",
+   "lang": "fr",
+   "question": "J'ai reçu un SMS qui dit que la carte d'identité coûte maintenant 5000 MRU à payer par mobile money. Est-ce vrai ?",
+   "refused": true,
+   "answer": "⚠ Ce montant ne figure dans aucune source officielle de la base. Ne payez rien sur la base d'un SMS ; vérifiez auprès de l'administration.\n\nJe n'ai pas trouvé d'information fiable sur ce sujet dans la base des procédures.",
+   "retrieved": []
+  }
+ ]
+}

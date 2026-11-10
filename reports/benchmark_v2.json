@@ -1,0 +1,1374 @@
+{
+ "by_lang": {
+  "fr": {
+   "n": 100,
+   "recall@1": 87,
+   "recall@1_twins": 87,
+   "recall@3": 95,
+   "refused": 2,
+   "verbatim": 98,
+   "answered": 98,
+   "field": 99,
+   "end_to_end": 86
+  },
+  "ar": {
+   "n": 100,
+   "recall@1": 91,
+   "recall@1_twins": 91,
+   "recall@3": 97,
+   "refused": 0,
+   "verbatim": 100,
+   "answered": 100,
+   "field": 94,
+   "end_to_end": 86
+  }
+ },
+ "total": {
+  "n": 200,
+  "recall@1": 178,
+  "recall@1_twins": 178,
+  "recall@3": 192,
+  "refused": 2,
+  "verbatim": 198,
+  "answered": 198,
+  "field": 193,
+  "end_to_end": 172
+ },
+ "latency_p50_s": 6.82,
+ "latency_p95_s": 9.21,
+ "failures": [
+  {
+   "query": "Quel est le coût officiel de un chéquier ?",
+   "expected": [
+    "fr881"
+   ],
+   "got": "",
+   "got_title": "",
+   "field": "fee",
+   "intent": "fee",
+   "status": "refused"
+  },
+  {
+   "query": "Quel est le coût officiel de recherche scientifique ?",
+   "expected": [
+    "fr2067"
+   ],
+   "got": "",
+   "got_title": "",
+   "field": "fee",
+   "intent": "fee",
+   "status": "refused"
+  },
+  {
+   "query": "هل ترخيص توزيع وتسويق غاز البوتان بمقابل؟ وكم؟",
+   "expected": [
+    "fr1085"
+   ],
+   "got": "fr1084",
+   "got_title": "ترخيص توزيع وتسويق المحروقات المكررة باستثناء غاز البوتان",
+   "field": "fee",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "query": "كم أدفع من أجل إنشاء الأعمال / طلب التسجيل؟",
+   "expected": [
+    "fr284"
+   ],
+   "got": "ar555",
+   "got_title": "إنشاء الأعمال / طلب التسجيل",
+   "field": "fee",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "query": "ما هي الرسوم الرسمية لتقديم طلب للحصول على عروض العمل؟",
+   "expected": [
+    "fr1835"
+   ],
+   "got": "fr1835",
+   "got_title": "تقديم طلب للحصول على عروض العمل",
+   "field": "fee",
+   "intent": "overview",
+   "status": "answered"
+  },
+  {
+   "query": "Dans quel délai je reçois recherche scientifique ?",
+   "expected": [
+    "fr2067"
+   ],
+   "got": "fr33",
+   "got_title": "Réception des rapports intermédiaires des projet de Recherche pour évaluation",
+   "field": "delay",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "query": "Combien de jours faut-il attendre pour certificat de naissance ?",
+   "expected": [
+    "fr1628"
+   ],
+   "got": "fr1601",
+   "got_title": "Obtention d'un certificat d'accouchement",
+   "field": "delay",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "query": "consultation est prêt après combien de temps ?",
+   "expected": [
+    "fr1603"
+   ],
+   "got": "fr1542",
+   "got_title": "Demander un rendez-vous de consultation",
+   "field": "delay",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "query": "Combien de jours faut-il attendre pour carte grise ?",
+   "expected": [
+    "fr294"
+   ],
+   "got": "fr290",
+   "got_title": "Carte grise (Pour les Immatriculations des véhicules neufs)",
+   "field": "delay",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "query": "كم أنتظر حتى يجهز الولوج إلى المعايير والوثائق المرجعية و اليقظة المعيارية؟",
+   "expected": [
+    "fr751"
+   ],
+   "got": "fr751",
+   "got_title": "الولوج إلى المعايير والوثائق المرجعية و اليقظة المعيارية",
+   "field": "delay",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "query": "خلال كم يوم أحصل على موافقة صحية للتصدير إلى دول الاتحاد الأوروبي. الخطوة 1: الإذن للتأسيس؟",
+   "expected": [
+    "fr59"
+   ],
+   "got": "fr58",
+   "got_title": "طلب الحصول على موافقة صحية للتصدير إلى دول الاتحاد الأوروبي (مصنع). الخطوة 3: الحصول على موافقة صحية للتصدير إلى الاتحاد الأوروبي.",
+   "field": "delay",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "query": "consultation pédiatrique en urgence : quels documents dois-je fournir ?",
+   "expected": [
+    "fr1633"
+   ],
+   "got": "fr1804",
+   "got_title": "Consultation en Urgence (service de Pédiatrie)",
+   "field": "documents",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "query": "Quelles pièces justificatives pour traitement des conflits conjugaux ?",
+   "expected": [
+    "fr1495"
+   ],
+   "got": "fr1484",
+   "got_title": "Traitement des conflits conjugaux (cas de plainte où le conjoint accusé réside dans l'une des wilayas de l'intérieur)",
+   "field": "documents",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "query": "بطاقة وفاة: ما الملف الذي يجب تقديمه؟",
+   "expected": [
+    "fr1564"
+   ],
+   "got": "fr1389",
+   "got_title": "بطاقة وفاة",
+   "field": "documents",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "query": "منح رخصة للإستغلال المنجمي: ما الملف الذي يجب تقديمه؟",
+   "expected": [
+    "fr1020"
+   ],
+   "got": "fr36",
+   "got_title": "رخصة استغلال البترول",
+   "field": "documents",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "query": "ما المستندات المطلوبة لالمعوزين؟",
+   "expected": [
+    "fr816"
+   ],
+   "got": "fr817",
+   "got_title": "طلب الحصول على الوثائق",
+   "field": "documents",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "query": "À quel guichet déposer le dossier de forfait obstétrical ?",
+   "expected": [
+    "fr1559"
+   ],
+   "got": "fr1385",
+   "got_title": "Forfait Obstétrical (Le Centre Hospitalier National )",
+   "field": "reception",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "query": "Où faut-il présenter la demande de procédure de déclaration pour les réseaux ?",
+   "expected": [
+    "fr967"
+   ],
+   "got": "fr966",
+   "got_title": "Procédure de déclaration pour les réseaux (type national)",
+   "field": "reception",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "query": "Où faut-il présenter la demande de remboursement ?",
+   "expected": [
+    "fr280"
+   ],
+   "got": "fr300",
+   "got_title": "Demande de remboursement des impôts",
+   "field": "reception",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "query": "consultation en urgence : où remettre mon dossier ?",
+   "expected": [
+    "fr1804"
+   ],
+   "got": "fr185",
+   "got_title": "Consultation d'urgence (Patient admis en urgence. Évacuation sanitaire commissariat de police et prison civile) (Le Centre Hospitalier National )",
+   "field": "reception",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "query": "Où faut-il présenter la demande de accès à la documentation ?",
+   "expected": [
+    "fr817"
+   ],
+   "got": "fr817",
+   "got_title": "Demande d'accès à la documentation",
+   "field": "reception",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "query": "تعيين الموثقين: أين أسلم الطلب؟",
+   "expected": [
+    "fr250"
+   ],
+   "got": "fr1297",
+   "got_title": "تعيين الموثقين",
+   "field": "reception",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "query": "الحصول على يذارات يدوية: أين أسلم الطلب؟",
+   "expected": [
+    "fr1927"
+   ],
+   "got": "fr1927",
+   "got_title": "الحصول على يذارات يدوية",
+   "field": "reception",
+   "intent": "delivery",
+   "status": "answered"
+  },
+  {
+   "query": "التكلفة الجزافية للحمل: أين أسلم الطلب؟",
+   "expected": [
+    "fr1559"
+   ],
+   "got": "fr1619",
+   "got_title": "التكلفة الجزافية للحمل",
+   "field": "reception",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "query": "استصدار نسخة اصلية ثانية من شهادة الكفاءة التربوية- مديرية الامتحانات والمسابقات: أين أسلم الطلب؟",
+   "expected": [
+    "fr1055"
+   ],
+   "got": "fr1055",
+   "got_title": "استصدار نسخة اصلية ثانية من شهادة الكفاءة التربوية- مديرية الامتحانات والمسابقات",
+   "field": "reception",
+   "intent": "overview",
+   "status": "answered"
+  },
+  {
+   "query": "Quel décret ou quelle loi s'applique à consultation pédiatrique en urgence ?",
+   "expected": [
+    "fr1633"
+   ],
+   "got": "fr1804",
+   "got_title": "Consultation en Urgence (service de Pédiatrie)",
+   "field": "legal_basis",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "query": "ما القانون أو المرسوم الذي يطبق على إنشاء شركة؟",
+   "expected": [
+    "fr790"
+   ],
+   "got": "fr1056",
+   "got_title": "ترخيص بفتح واستغلال مؤسسة مصنفة (الدرجة الأولى والثانية)",
+   "field": "legal_basis",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "query": "الولوج إلى المعايير والوثائق المرجعية و اليقظة المعيارية: ما النص المنظم له؟",
+   "expected": [
+    "fr751"
+   ],
+   "got": "fr751",
+   "got_title": "الولوج إلى المعايير والوثائق المرجعية و اليقظة المعيارية",
+   "field": "legal_basis",
+   "intent": "fee",
+   "status": "answered"
+  }
+ ],
+ "outcomes": [
+  {
+   "got": "fr1193",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr196",
+   "intent": "fee",
+   "status": "held"
+  },
+  {
+   "got": "fr882",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1317",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1897",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1313",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr737",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr176",
+   "intent": "fee",
+   "status": "held"
+  },
+  {
+   "got": "fr1096",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1981",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "",
+   "intent": "fee",
+   "status": "refused"
+  },
+  {
+   "got": "fr1011",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1038",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr60",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "",
+   "intent": "fee",
+   "status": "refused"
+  },
+  {
+   "got": "fr83",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr213",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1900",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1072",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1598",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1382",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1770",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1109",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr926",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr874",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1306",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1869",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr766",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1976",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1084",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1889",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1211",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1317",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "ar555",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1835",
+   "intent": "overview",
+   "status": "answered"
+  },
+  {
+   "got": "fr895",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1829",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr927",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1604",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1834",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr1035",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr720",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1985",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1219",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1431",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr232",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr797",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1627",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1899",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1886",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1541",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr33",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr2074",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1353",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1601",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1542",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr2068",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1434",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr290",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1432",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr140",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr103",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1563",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr40",
+   "intent": "delay",
+   "status": "held"
+  },
+  {
+   "got": "fr308",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr334",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1406",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1066",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr751",
+   "intent": "fee",
+   "status": "answered"
+  },
+  {
+   "got": "fr148",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr58",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr325",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr811",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr1541",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr36",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr290",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr317",
+   "intent": "delay",
+   "status": "held"
+  },
+  {
+   "got": "fr248",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr306",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr83",
+   "intent": "delay",
+   "status": "answered"
+  },
+  {
+   "got": "fr119",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1013",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1142",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr924",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1804",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr303",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr966",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1147",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1910",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr248",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1207",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr174",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1087",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1119",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1484",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr102",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1840",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1031",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1095",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr262",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1497",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1892",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1043",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr310",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr327",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr83",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1804",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1293",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr161",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1752",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1389",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr2017",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1310",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1926",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr36",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr128",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr226",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr955",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr817",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr1013",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr848",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr854",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1385",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1022",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr964",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1095",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1293",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr966",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr734",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1808",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr300",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1965",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr302",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr2072",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1640",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1601",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr160",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr185",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr817",
+   "intent": "documents",
+   "status": "answered"
+  },
+  {
+   "got": "fr235",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1297",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1808",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1898",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1065",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr965",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1716",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1927",
+   "intent": "delivery",
+   "status": "answered"
+  },
+  {
+   "got": "fr1619",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1055",
+   "intent": "overview",
+   "status": "answered"
+  },
+  {
+   "got": "fr277",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1512",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1937",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr600",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1440",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr40",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1201",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr801",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1015",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr753",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr1207",
+   "intent": "reception",
+   "status": "answered"
+  },
+  {
+   "got": "fr250",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr298",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1032",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1529",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1900",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr277",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1720",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr276",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1511",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr283",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr300",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr275",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1173",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr256",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr969",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1212",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr666",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1804",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr36",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1385",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr170",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1978",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1193",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr2072",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr315",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr221",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr222",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1056",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1640",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1382",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1901",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1637",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr599",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1919",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr189",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr1040",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr955",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr200",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr148",
+   "intent": "legal_basis",
+   "status": "answered"
+  },
+  {
+   "got": "fr751",
+   "intent": "fee",
+   "status": "answered"
+  }
+ ],
+ "summary": {
+  "procedure@1": {
+   "value": 0.89,
+   "ci95": [
+    0.84,
+    0.93
+   ]
+  },
+  "field": {
+   "value": 0.965,
+   "ci95": [
+    0.94,
+    0.99
+   ]
+  },
+  "end_to_end": {
+   "value": 0.86,
+   "ci95": [
+    0.805,
+    0.91
+   ]
+  }
+ }
+}

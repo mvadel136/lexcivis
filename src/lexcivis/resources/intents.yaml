@@ -1,0 +1,252 @@
+documents:
+  fr:
+  - quels documents pour {x}
+  - quels sont les documents requis pour {x}
+  - pièces à fournir pour {x}
+  - quels papiers faut-il pour {x}
+  - dossier à constituer pour {x}
+  - liste des documents {x}
+  - que dois-je apporter pour {x}
+  - documents nécessaires {x}
+  - pièces demandées pour {x}
+  - que faut-il fournir pour {x}
+  - documents à joindre pour {x}
+  - constitution du dossier de {x}
+  - '{x} : quelles pièces ?'
+  - il faut quels justificatifs pour {x}
+  ar:
+  - ما هي الوثائق المطلوبة ل{x}
+  - ما الأوراق اللازمة ل{x}
+  - الوثائق المطلوبة {x}
+  - ما هو الملف المطلوب ل{x}
+  - ماذا أحضر ل{x}
+  - ما المستندات المطلوبة {x}
+  - ما الأوراق المطلوبة ل{x}
+  - ما يجب إحضاره ل{x}
+  - مكونات ملف {x}
+  - '{x}: ما الوثائق؟'
+  - ما هي المستندات التي يجب إرفاقها ب{x}
+  hassaniya:
+  - شنهو لوراق الِّ لازمين ل{x}
+  - شنهِ لوراق باش نخرج {x}
+  - chnhou lwrag lazmin l {x}
+  - lwrag elli lazmin bach nkhrej {x}
+fee:
+  fr:
+  - combien coûte {x}
+  - quel est le prix de {x}
+  - quels sont les frais de {x}
+  - tarif de {x}
+  - combien faut-il payer pour {x}
+  - montant à payer {x}
+  - est-ce que {x} est gratuit
+  - coût de {x}
+  - combien coûte le timbre pour {x}
+  - '{x} c''est combien'
+  - le prix à payer pour {x}
+  - frais à prévoir pour {x}
+  - montant des droits pour {x}
+  - '{x} : quels frais ?'
+  - il faut payer combien pour {x}
+  ar:
+  - كم تكلفة {x}
+  - ما هي رسوم {x}
+  - كم يجب أن أدفع ل{x}
+  - سعر {x}
+  - هل {x} مجاني
+  - كم يكلف الطابع ل{x}
+  - ما المبلغ المطلوب ل{x}
+  - ما ثمن {x}
+  - كم المبلغ المطلوب ل{x}
+  - تكلفة {x}
+  - '{x}: كم الرسوم؟'
+  - هل يجب الدفع ل{x}
+  hassaniya:
+  - گداش {x}
+  - كداش يخلص {x}
+  - gaddach {x}
+  - kaddach nkhalles l {x}
+delay:
+  fr:
+  - combien de temps pour {x}
+  - quel est le délai de {x}
+  - délai de traitement {x}
+  - en combien de jours j'obtiens {x}
+  - quand vais-je recevoir {x}
+  - durée de traitement de {x}
+  - temps d'attente pour {x}
+  - en combien de temps est traitée la demande de {x}
+  - quand est-ce que {x} sera prêt
+  - '{x} met combien de temps'
+  - durée d'obtention de {x}
+  - '{x} : quel délai ?'
+  - il faut attendre combien pour {x}
+  ar:
+  - كم من الوقت ل{x}
+  - ما هي مدة معالجة {x}
+  - متى أحصل على {x}
+  - كم يوما يستغرق {x}
+  - مدة {x}
+  - ما هو أجل {x}
+  - ما المدة الضرورية ل{x}
+  - كم تستغرق معالجة {x}
+  - في أي مدة يتم {x}
+  - متى يصبح {x} جاهزا
+  - '{x}: ما المدة؟'
+  - كم يوم أنتظر ل{x}
+  - ما الوقت اللازم لإنجاز {x}
+  hassaniya:
+  - اشحال من يوم ل{x}
+  - achhal men youm l {x}
+  - foqtach nakhdh {x}
+reception:
+  fr:
+  - où déposer la demande de {x}
+  - où faire la demande de {x}
+  - à quel guichet pour {x}
+  - où aller pour {x}
+  - où dois-je m'adresser pour {x}
+  - adresse pour {x}
+  - à quel bureau s'adresser pour {x}
+  - quel service reçoit la demande de {x}
+  - où se rendre pour {x}
+  - lieu de dépôt du dossier {x}
+  - où envoyer la demande de {x}
+  - '{x} : où déposer ?'
+  ar:
+  - أين أقدم طلب {x}
+  - أين أذهب ل{x}
+  - أين يودع طلب {x}
+  - إلى أي جهة أتوجه ل{x}
+  - مكان تقديم طلب {x}
+  - إلى أي مكتب أتوجه ل{x}
+  - ما هو مكان إيداع ملف {x}
+  - أي مصلحة تستقبل طلب {x}
+  - '{x}: أين الإيداع؟'
+  - أين يقدم ملف {x}
+  hassaniya:
+  - منين نمشي ل{x}
+  - mnin nemchi l {x}
+  - emnin ndir {x}
+office:
+  fr:
+  - quelle administration s'occupe de {x}
+  - qui est responsable de {x}
+  - quel ministère gère {x}
+  - quel service traite {x}
+  - qui traite la demande de {x}
+  ar:
+  - ما هي الجهة المسؤولة عن {x}
+  - من يتولى {x}
+  - أي وزارة مسؤولة عن {x}
+  - من يعالج طلب {x}
+  hassaniya:
+  - شكون ال يدير {x}
+  - chkoun idir {x}
+delivery:
+  fr:
+  - où récupérer {x}
+  - où retirer {x}
+  - qui délivre {x}
+  - où est remis {x}
+  ar:
+  - أين أستلم {x}
+  - من يسلم {x}
+  - مكان استلام {x}
+  hassaniya:
+  - منين نشيل {x}
+  - mnin nchil {x}
+complaints:
+  fr:
+  - où faire une réclamation pour {x}
+  - comment porter plainte pour {x}
+  - recours pour {x}
+  - à qui me plaindre pour {x}
+  - réclamation {x} refusée
+  ar:
+  - أين أقدم تظلما بخصوص {x}
+  - كيف أشتكي بخصوص {x}
+  - الطعن في {x}
+  - تظلم {x}
+  hassaniya:
+  - منين نشكي ب{x}
+  - mnin nechki b {x}
+users:
+  fr:
+  - qui peut demander {x}
+  - qui a droit à {x}
+  - est-ce que les étrangers peuvent demander {x}
+  - '{x} est pour qui'
+  - conditions pour bénéficier de {x}
+  ar:
+  - من يحق له {x}
+  - من يمكنه طلب {x}
+  - هل يمكن للأجانب طلب {x}
+  - من المستفيد من {x}
+  hassaniya:
+  - شكون ال يگد يطلب {x}
+  - chkoun yegdar yetlob {x}
+legal_basis:
+  fr:
+  - quelle loi encadre {x}
+  - base juridique de {x}
+  - quel texte réglemente {x}
+  - quel décret pour {x}
+  - fondement légal de {x}
+  - quel est le texte juridique de {x}
+  - références juridiques de {x}
+  - '{x} repose sur quelle loi'
+  - cadre juridique de {x}
+  - texte de référence pour {x}
+  - '{x} : quelle loi ?'
+  ar:
+  - ما هو الأساس القانوني ل{x}
+  - ما القانون المنظم ل{x}
+  - أي مرسوم ينظم {x}
+  - النصوص القانونية ل{x}
+  - ما هو الإطار القانوني ل{x}
+  - المراجع القانونية ل{x}
+  - على أي نص يستند {x}
+  - '{x}: ما القانون؟'
+  - ما النصوص التي تنظم {x}
+  hassaniya:
+  - شنهو القانون ال ينظم {x}
+  - chnhou el qanoun mta3 {x}
+contact:
+  fr:
+  - numéro de téléphone pour {x}
+  - comment contacter le service de {x}
+  - email pour {x}
+  - contact {x}
+  ar:
+  - رقم الهاتف ل{x}
+  - كيف أتصل بخصوص {x}
+  - البريد الإلكتروني ل{x}
+  - الاتصال ب{x}
+  hassaniya:
+  - نمرة التلفون ل{x}
+  - numero mta3 {x}
+overview:
+  fr:
+  - comment obtenir {x}
+  - comment faire {x}
+  - procédure pour {x}
+  - je veux {x}
+  - démarches pour {x}
+  - comment demander {x}
+  - '{x}'
+  - informations sur {x}
+  - étapes pour {x}
+  ar:
+  - كيف أحصل على {x}
+  - ما هي إجراءات {x}
+  - أريد {x}
+  - كيف أطلب {x}
+  - '{x}'
+  - معلومات عن {x}
+  - خطوات {x}
+  hassaniya:
+  - كيف نخرج {x}
+  - ندور {x}
+  - kifach nkhrej {x}
+  - ndour {x}

@@ -1,0 +1,16 @@
+status: locked test wording, written on 2026-11-10 before any tuning on benchmark_200; never used for training or tuning
+fee:
+  fr: ["Est-ce que {x} est payant, et combien ?", "Quel est le coût officiel de {x} ?", "Je dois payer quoi pour {x} ?"]
+  ar: ["هل {x} بمقابل؟ وكم؟", "ما هي الرسوم الرسمية ل{x}؟", "كم أدفع من أجل {x}؟"]
+delay:
+  fr: ["Dans quel délai je reçois {x} ?", "{x} est prêt après combien de temps ?", "Combien de jours faut-il attendre pour {x} ?"]
+  ar: ["خلال كم يوم أحصل على {x}؟", "كم أنتظر حتى يجهز {x}؟", "ما هو أجل معالجة {x}؟"]
+documents:
+  fr: ["Quelles pièces justificatives pour {x} ?", "{x} : quels documents dois-je fournir ?", "Quels papiers sont demandés pour {x} ?"]
+  ar: ["ما المستندات المطلوبة ل{x}؟", "{x}: ما الملف الذي يجب تقديمه؟", "ما هي الوثائق اللازمة ل{x}؟"]
+reception:
+  fr: ["À quel guichet déposer le dossier de {x} ?", "Où faut-il présenter la demande de {x} ?", "{x} : où remettre mon dossier ?"]
+  ar: ["لدى أي شباك أودع ملف {x}؟", "أين أقدم ملف {x}؟", "{x}: أين أسلم الطلب؟"]
+legal_basis:
+  fr: ["Quel décret ou quelle loi s'applique à {x} ?", "Quelle est la base légale de {x} ?", "{x} est réglementé par quel texte ?"]
+  ar: ["ما القانون أو المرسوم الذي يطبق على {x}؟", "ما هو السند القانوني ل{x}؟", "{x}: ما النص المنظم له؟"]

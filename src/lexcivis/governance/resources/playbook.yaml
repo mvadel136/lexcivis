@@ -1,0 +1,45 @@
+signals:
+  unofficial_claim: ["sms", "fake", "faux", "fausse", "arnaque", "escroquerie", "rumeur", "رسالة نصية", "احتيال", "مزيف", "إشاعة", "نصب"]
+  access_request: ["police", "gendarmerie", "tribunal", "court", "réquisition", "requisition", "enquête", "investigation", "procureur",
+                   "law enforcement", "شرطة", "الشرطة", "محكمة", "نيابة", "النيابة", "تحقيق", "الدرك"]
+  data_abroad: ["transfer", "transfert", "training", "entraîn", "logs", "journaux", "cloud", "hébergeur", "abroad", "étranger", "نقل", "تدريب", "الخارج", "سحابة"]
+  rule_change: ["announces", "annonce", "new rule", "new processing delay", "nouvelle règle", "décret", "arrêté", "new fee", "nouveau tarif", "nouveau délai", "loi", "regulator", "régulateur", "قانون", "مرسوم", "رسوم جديدة", "قرار"]
+  outage: ["panne", "outage", "down", "indisponible", "attack", "attaque", "hack", "اختراق", "عطل", "هجوم"]
+
+playbook:
+  OPERATOR:
+    - {when: coverage_gap, action: add_language_gap, target: "questions the assistant could not answer", basis: []}
+    - {when: hassaniya, action: add_language_gap, target: "Hassaniya questions to add to the open test set", basis: []}
+    - {when: held, action: flag_record_for_review, target: "French and Arabic official records disagree", basis: ["procedure record"]}
+    - {when: held, action: request_confirmation, target: "ask the procedure owner for the authoritative value", basis: ["procedure record"]}
+    - {when: masked, action: notify_authority, target: "personal data typed by citizens; logs hosted abroad", basis: ["2017-020 art. 22"]}
+    - {when: data_abroad, action: notify_authority, target: "planned use or transfer of logs outside the country", basis: ["2017-020 art. 22"]}
+    - {when: unofficial_claim, action: show_warning_to_users, target: "a circulating message contradicts the official record", basis: []}
+    - {when: unofficial_claim, action: publish_notice_draft, target: "public warning about the fake message", basis: []}
+    - {when: rule_change, action: flag_record_for_review, target: "records affected by the announced change", basis: ["procedure record"]}
+    - {when: access_request, action: request_confirmation, target: "ask the requesting authority for the legal basis and the court order", basis: ["for expert review"]}
+    - {when: access_request, action: notify_authority, target: "inform the data-protection authority of the access request", basis: ["2017-020 art. 22"]}
+    - {when: outage, action: pause_feature, target: "pause the assistant and show the official channels", basis: []}
+    - {when: outage, action: open_incident, target: "service incident", basis: []}
+  PROCEDURE_OWNER:
+    - {when: held, action: confirm_authoritative_value, target: "one authoritative value for the conflicting field", basis: ["procedure record"]}
+    - {when: held, action: request_record_update, target: "align the French and Arabic records", basis: ["procedure record"]}
+    - {when: stale, action: request_record_update, target: "record not updated after the announced change", basis: ["procedure record"]}
+    - {when: rule_change, action: request_record_update, target: "publish the new rule in the procedure record", basis: ["procedure record"]}
+    - {when: unofficial_claim, action: confirm_authoritative_value, target: "confirm the official fee publicly", basis: ["procedure record"]}
+  DATA_PROTECTION:
+    - {when: access_request, action: request_information, target: "legal basis, scope and retention of the requested disclosure", basis: ["2017-020 art. 76"]}
+    - {when: masked, action: require_notification, target: "prior notification before any transfer", basis: ["2017-020 art. 22"]}
+    - {when: masked, action: request_information, target: "where the logs are and who can read them", basis: ["2017-020 art. 76"]}
+    - {when: data_abroad, action: require_notification, target: "prior notification before any transfer", basis: ["2017-020 art. 22"]}
+    - {when: data_abroad, action: refuse_new_purpose, target: "training a provider's own model is a new purpose", basis: ["2017-020 art. 7", "2017-020 art. 11"]}
+    - {when: data_abroad, action: set_transfer_conditions, target: "conditions for the hosting abroad", basis: ["2017-020 art. 22", "2017-020 art. 23"]}
+  CYBER_RESPONSE:
+    - {when: unofficial_claim, action: open_incident, target: "fraudulent message using a public-service name", basis: []}
+    - {when: unofficial_claim, action: request_takedown, target: "block the sender and the payment number", basis: ["law 2016-007 (for expert review)"]}
+    - {when: unofficial_claim, action: publish_notice_draft, target: "joint warning with the operator", basis: []}
+    - {when: outage, action: open_incident, target: "possible attack on the service", basis: []}
+  CLOUD_HOST:
+    - {when: access_request, action: request_confirmation, target: "refer the request to the controller; disclose nothing directly", basis: ["2017-020 art. 11"]}
+    - {when: masked, action: report_location_of_data, target: "state the data location to the controller", basis: ["2017-020 art. 11"]}
+    - {when: data_abroad, action: request_confirmation, target: "ask the controller for written instructions", basis: ["2017-020 art. 11"]}

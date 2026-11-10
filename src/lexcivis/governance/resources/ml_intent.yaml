@@ -1,0 +1,25 @@
+intent: Answer citizens' questions on Mauritania's administrative procedures from the official records only, in French, Arabic and Hassaniya, and never give a single value when the official versions disagree.
+use_case: Citizen information on public procedures (public sector, Mauritania)
+sources:
+  - data/procedures.json, procedure records in French and Arabic, and the legal texts and forms attached to them (data/documents)
+  - human verdicts on French/Arabic disagreements (data/quality/verdicts.json)
+constraints:
+  answer_from: official record fields, copied word for word
+  languages: [fr, ar, hassaniya]
+  personal_data: masked before search, answer and ledger (ID numbers, phones, e-mails, dates, self-declared names)
+  conflict_policy: hold when the French and Arabic values differ and the verdict is not a false alarm
+  generative_text: optional rephrasing only; rejected if it adds or drops a number or if under 75% of its wording comes from the record
+  data_residency: sandbox hosting in the UAE; no transfer before notification and approved conditions (rule R1)
+  human_oversight: every action with a public or legal effect waits for a named human (rule R3)
+pipeline:
+  refuse_below: 0.002
+  verify_depth: 3
+  challenger_ratio: 5.0
+  clarify_below: 0.01
+  stale_after_months: 12
+targets:
+  procedures_50.recall@3: 0.95
+  field_questions_55.field: 0.90
+  must_refuse_10.refused: 1.0
+  must_refuse_holdout_20.refused: 0.90
+  benchmark_v2.end_to_end: 0.70

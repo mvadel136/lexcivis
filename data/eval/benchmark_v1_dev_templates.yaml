@@ -1,0 +1,16 @@
+status: development wording (benchmark v1); its first run, before any tuning, is reports/benchmark_v1_dev_before_tuning.json; it was then used to improve the training patterns
+fee:
+  fr: ["Je voudrais savoir le tarif à payer pour {x}", "{x} : il faut prévoir quel montant ?"]
+  ar: ["ما المبلغ الذي يجب دفعه مقابل {x}؟", "{x}: كم هي التكلفة؟"]
+delay:
+  fr: ["Au bout de combien de temps est traité le dossier {x} ?", "{x}, ça prend combien de jours ?"]
+  ar: ["ما المدة اللازمة ل{x}؟", "{x}: متى يكون جاهزا؟"]
+documents:
+  fr: ["Je prépare mon dossier pour {x}, il me faut quoi ?", "{x} : liste des pièces exigées"]
+  ar: ["{x}: ما الأوراق التي يجب أن أحضرها؟", "أحتاج قائمة الوثائق ل{x}"]
+reception:
+  fr: ["Pour {x}, je dépose ma demande à quel endroit ?", "Quel bureau reçoit les demandes de {x} ?"]
+  ar: ["أين يتم إيداع طلب {x}؟", "{x}: إلى أي مكتب أقدم الطلب؟"]
+legal_basis:
+  fr: ["Sur quel texte juridique repose {x} ?", "{x} : références légales ?"]
+  ar: ["ما هي النصوص القانونية المتعلقة ب{x}؟", "{x}: ما المرجع القانوني؟"]

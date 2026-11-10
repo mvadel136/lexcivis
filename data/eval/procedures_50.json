@@ -1,0 +1,252 @@
+[
+  {
+    "query": "Comment obtenir un passeport pour la première fois?",
+    "lang": "fr",
+    "expected_fr_id": "1588"
+  },
+  {
+    "query": "Documents requis pour demander une carte d'identité nationale",
+    "lang": "fr",
+    "expected_fr_id": "1119"
+  },
+  {
+    "query": "Procédure de déclaration de naissance d'un enfant",
+    "lang": "fr",
+    "expected_fr_id": "1704"
+  },
+  {
+    "query": "Comment créer une entreprise en Mauritanie?",
+    "lang": "fr",
+    "expected_fr_id": "790"
+  },
+  {
+    "query": "Formalités pour obtenir un visa d'entrée en Mauritanie",
+    "lang": "fr",
+    "expected_fr_id": "1621"
+  },
+  {
+    "query": "Déclarer un mariage dans les délais légaux",
+    "lang": "fr",
+    "expected_fr_id": "1711"
+  },
+  {
+    "query": "Déclaration de décès dans les délais légaux",
+    "lang": "fr",
+    "expected_fr_id": "1716"
+  },
+  {
+    "query": "Obtenir une carte de séjour pour étranger",
+    "lang": "fr",
+    "expected_fr_id": "1579"
+  },
+  {
+    "query": "Agrément pour créer une coopérative agricole",
+    "lang": "fr",
+    "expected_fr_id": "843"
+  },
+  {
+    "query": "Déclaration de divorce en Mauritanie",
+    "lang": "fr",
+    "expected_fr_id": "1715"
+  },
+  {
+    "query": "Comment renouveler son passeport mauritanien?",
+    "lang": "fr",
+    "expected_fr_id": "1589"
+  },
+  {
+    "query": "Renouvellement carte d'identité nationale",
+    "lang": "fr",
+    "expected_fr_id": "1123"
+  },
+  {
+    "query": "Agrément au code des investissements pour entreprise étrangère",
+    "lang": "fr",
+    "expected_fr_id": "791"
+  },
+  {
+    "query": "Aides sociales pour personnes indigentes et malades",
+    "lang": "fr",
+    "expected_fr_id": "666"
+  },
+  {
+    "query": "Approbation d'un acte de naissance délivré à l'étranger",
+    "lang": "fr",
+    "expected_fr_id": "1204"
+  },
+  {
+    "query": "Approbation acte de mariage délivré à l'étranger",
+    "lang": "fr",
+    "expected_fr_id": "1205"
+  },
+  {
+    "query": "Approbation d'un acte de divorce délivré à l'étranger",
+    "lang": "fr",
+    "expected_fr_id": "1206"
+  },
+  {
+    "query": "Distribution d'intrants agricoles semences et engrais",
+    "lang": "fr",
+    "expected_fr_id": "848"
+  },
+  {
+    "query": "Distribution de matériel agricole tracteurs et équipements",
+    "lang": "fr",
+    "expected_fr_id": "849"
+  },
+  {
+    "query": "Programme national de financement des activités productives ELBARAKA",
+    "lang": "fr",
+    "expected_fr_id": "898"
+  },
+  {
+    "query": "Soins dentaires à l'hôpital national stomatologie",
+    "lang": "fr",
+    "expected_fr_id": "1736"
+  },
+  {
+    "query": "Exonération douanière pour véhicules des parlementaires",
+    "lang": "fr",
+    "expected_fr_id": "232"
+  },
+  {
+    "query": "Rapport d'évaluation enseignement supérieur financement recherche",
+    "lang": "fr",
+    "expected_fr_id": "34"
+  },
+  {
+    "query": "Agrément sanitaire exportation vers l'Union européenne pêche",
+    "lang": "fr",
+    "expected_fr_id": "58"
+  },
+  {
+    "query": "Enrôlement au registre biométrique national enfant de parents mauritaniens",
+    "lang": "fr",
+    "expected_fr_id": "1105"
+  },
+  {
+    "query": "Remplacer un passeport perdu ou volé",
+    "lang": "fr",
+    "expected_fr_id": "1585"
+  },
+  {
+    "query": "Remplacer un passeport abîmé ou détérioré",
+    "lang": "fr",
+    "expected_fr_id": "1583"
+  },
+  {
+    "query": "Coût forfaitaire de grossesse maternité santé",
+    "lang": "fr",
+    "expected_fr_id": "1619"
+  },
+  {
+    "query": "Aménagement infrastructures rurales pistes agricoles",
+    "lang": "fr",
+    "expected_fr_id": "1450"
+  },
+  {
+    "query": "Obtenir grillage et outils de clôture pour élevage",
+    "lang": "fr",
+    "expected_fr_id": "1940"
+  },
+  {
+    "query": "كيف أحصل على جواز سفر لأول مرة؟",
+    "lang": "ar",
+    "expected_fr_id": "1588"
+  },
+  {
+    "query": "طلب بطاقة التعريف الوطنية لأول مرة",
+    "lang": "ar",
+    "expected_fr_id": "1119"
+  },
+  {
+    "query": "التصريح بالميلاد إجراءات وثائق",
+    "lang": "ar",
+    "expected_fr_id": "1704"
+  },
+  {
+    "query": "إنشاء شركة في موريتانيا",
+    "lang": "ar",
+    "expected_fr_id": "790"
+  },
+  {
+    "query": "إجراء الحصول على تأشيرة دخول موريتانيا",
+    "lang": "ar",
+    "expected_fr_id": "1621"
+  },
+  {
+    "query": "التصريح بالزواج في الآجال القانونية",
+    "lang": "ar",
+    "expected_fr_id": "1711"
+  },
+  {
+    "query": "التصريح بالوفاة ووثائق الحالة المدنية",
+    "lang": "ar",
+    "expected_fr_id": "1716"
+  },
+  {
+    "query": "الحصول على بطاقة الإقامة للأجانب",
+    "lang": "ar",
+    "expected_fr_id": "1579"
+  },
+  {
+    "query": "اعتماد تعاونية فلاحية زراعية",
+    "lang": "ar",
+    "expected_fr_id": "843"
+  },
+  {
+    "query": "التصريح بالطلاق والوثائق المطلوبة",
+    "lang": "ar",
+    "expected_fr_id": "1715"
+  },
+  {
+    "query": "تجديد جواز السفر الموريتاني",
+    "lang": "ar",
+    "expected_fr_id": "1589"
+  },
+  {
+    "query": "ترخيص الاستثمار للشركات الأجنبية",
+    "lang": "ar",
+    "expected_fr_id": "791"
+  },
+  {
+    "query": "المساعدات الاجتماعية للفقراء والمرضى",
+    "lang": "ar",
+    "expected_fr_id": "666"
+  },
+  {
+    "query": "توزيع المدخلات الزراعية البذور والأسمدة",
+    "lang": "ar",
+    "expected_fr_id": "848"
+  },
+  {
+    "query": "البرنامج الوطني لتمويل الأنشطة الإنتاجية",
+    "lang": "ar",
+    "expected_fr_id": "898"
+  },
+  {
+    "query": "علاجات الأسنان في المستشفى الوطني",
+    "lang": "ar",
+    "expected_fr_id": "1736"
+  },
+  {
+    "query": "إعفاء جمركي لسيارات البرلمانيين",
+    "lang": "ar",
+    "expected_fr_id": "232"
+  },
+  {
+    "query": "اعتماد عقد ميلاد صادر بالخارج",
+    "lang": "ar",
+    "expected_fr_id": "1204"
+  },
+  {
+    "query": "تسجيل مولود من أبوين موريتانيين في السجل البيومتري",
+    "lang": "ar",
+    "expected_fr_id": "1105"
+  },
+  {
+    "query": "استبدال جواز السفر الضائع أو المسروق",
+    "lang": "ar",
+    "expected_fr_id": "1585"
+  }
+]

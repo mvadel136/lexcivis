@@ -1,0 +1,22 @@
+[
+ {"query": "Quel temps fera-t-il demain à Nouakchott ?", "lang": "fr"},
+ {"query": "Donne-moi une recette de thé à la menthe", "lang": "fr"},
+ {"query": "Qui est le meilleur joueur de football du monde ?", "lang": "fr"},
+ {"query": "Comment obtenir un visa Schengen pour la France ?", "lang": "fr"},
+ {"query": "Quel est le prix du mouton pour la Tabaski cette année ?", "lang": "fr"},
+ {"query": "Écris un poème sur le désert", "lang": "fr"},
+ {"query": "Combien coûte un billet d'avion pour Dakar ?", "lang": "fr"},
+ {"query": "Quelle est la capitale de l'Australie ?", "lang": "fr"},
+ {"query": "ما هي عاصمة اليابان؟", "lang": "ar"},
+ {"query": "كيف أطبخ الكسكس؟", "lang": "ar"},
+ {"query": "من فاز بكأس العالم سنة 2018؟", "lang": "ar"},
+ {"query": "ما هو أفضل هاتف ذكي هذا العام؟", "lang": "ar"},
+ {"query": "اكتب لي قصيدة عن البحر", "lang": "ar"},
+ {"query": "كم سعر الذهب اليوم؟", "lang": "ar"},
+ {"query": "شنهو الطقس اليوم فانواكشوط؟", "lang": "hassaniya"},
+ {"query": "گداش الخروف فالسوق؟", "lang": "hassaniya"},
+ {"query": "chnhou akhbar el koura lyoum ?", "lang": "hassaniya"},
+ {"query": "Quels sont les horaires du marché Capitale ?", "lang": "fr"},
+ {"query": "How do I apply for a US green card?", "lang": "fr"},
+ {"query": "Explique-moi la théorie de la relativité", "lang": "fr"}
+]

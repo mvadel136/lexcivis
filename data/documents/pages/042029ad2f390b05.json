@@ -1,0 +1,12 @@
+[
+{
+"page": 1,
+"method": "text_layer",
+"text": "SOCIETE DE TRANSPORT PUBLIC \nPôle Marketing & Communication \nFormulaire de demande de devis location bus \nEtablissement / Nom  : ……………….…………………………………………………………………………………… \nAdresse complète : …………………………………………………………………………………………………………. \nTéléphone : ………………………………………………………………………………....................................... \nFax : ………………………………………………………………………………………..........................................  \nEmail :…………………………………………………………………………………………………………………………….. \n Aller simple : □                     Aller retour : □              Nouakchott, le ……………………………………                                \nLieu de départ : …………………………………………………………………………………………………………………. \nHoraires de départ : ………………………………………………………………………………………………………….. \nLieu de destination : ………………………………………………………………………………………………………….. \nLe kilométrage du trajet : …………………………………………………………………………………………………. \nTypes de bus : VIP   □          Yountong    □         Howo-ville □      Minibus  □      MAN  □ \nNombre véhicule demandé : …………………………. Nombre de rotations : ………………………………. \nA quelle date cette sortie est-elle prévue : …………………………………………… \nNombres de personnes estimées : ………………………..... \nDurée de location : Jour  □                   Semaine □                    Mois  □                 Année  □   \nPrésence de bagages : Oui  □    Nature…………………………………………………………..Non  □ \nMode de paiement :   Espèce   □                     Virement   □ \nBus Yountong urbain : capacité de 105 dont 24 places assises ; \nBus Yountong Climatisé : capacité de 40 places assises ; \nBus VIP : capacité de 51 places assises ; \nBus Man : Capacité 100 dont 37 places assises \nMinibus : capacité de 14 et 24 places assises ; \nLocataire                                                                                 Pôle Marketing & Communication"
+},
+{
+"page": 2,
+"method": "ocr",
+"text": ""
+}
+]

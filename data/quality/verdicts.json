@@ -1,0 +1,754 @@
+[
+ {
+  "key": "fr32",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr38",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr174",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr161",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr164",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr183",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr198",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr170",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr196",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr179",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr166",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr176",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr185",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "500 old ouguiya = 50 new ouguiya (2018 redenomination): same value",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr189",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr195",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr192",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr187",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr200",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr268",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr290",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "same values, different format",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr299",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr300",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr296",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "same values, different format",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr298",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr292",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "same values, different format",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr294",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "same values, different format",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr281",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr301",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr297",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr303",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "same value (typo in AR)",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1056",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "same values",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1674",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "same values (truncated)",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1680",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "OCR-like typo 13O00 in FR",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1722",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "typo 5O in FR",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1805",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "unclear (FR truncated)",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1806",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "unclear (truncated)",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr24",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr40",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr26",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr60",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr106",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr102",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "same",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr99",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr100",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "same",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr118",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr124",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr116",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr129",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr151",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr132",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr192",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr213",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr187",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr283",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr284",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr298",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr297",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr322",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr310",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr685",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "01 vs 1",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr679",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "01 vs 1",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr686",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "01 vs 1",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr687",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "01 vs 1",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr317",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr720",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "02 vs 2",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr688",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "01 vs 1",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr801",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr802",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr796",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "01 vs 1",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr795",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "01 vs 1",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr821",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr896",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "03 vs 3",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr879",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr952",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr984",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1057",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1064",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1149",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1442",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "01 vs 1",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1838",
+  "field": "delay",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1835",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "07 vs 7",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1829",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "07 vs 7",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1910",
+  "field": "delay",
+  "status": "false_alarm",
+  "note": "same range",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr37",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr283",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr284",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr688",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr801",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr802",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr952",
+  "field": "fee",
+  "status": "confirmed",
+  "note": "",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr214",
+  "field": "fee",
+  "status": "misfiled",
+  "note": "the Arabic fee field holds a decree reference (field filled wrongly)",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr265",
+  "field": "fee",
+  "status": "false_alarm",
+  "note": "the Arabic text cites the fee decision number, not an amount",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1840",
+  "field": "fee",
+  "status": "misfiled",
+  "note": "the Arabic fee and delay fields are swapped",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ },
+ {
+  "key": "fr1840",
+  "field": "delay",
+  "status": "misfiled",
+  "note": "the Arabic fee and delay fields are swapped",
+  "checked_on": "2026-11-10",
+  "reviewer": "LexCivis team, read both texts (2026-11-10)"
+ }
+]

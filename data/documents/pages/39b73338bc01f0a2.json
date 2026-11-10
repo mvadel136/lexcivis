@@ -1,0 +1,7 @@
+[
+{
+"page": 1,
+"method": "text_layer",
+"text": "Liste des Actes \nCode \nNom \nService \nActe \nopératoire \nPrix \n2266 \nBiopsie \ngastrique + \nRecherche de \nHP \nANAPATH \nNon \n800 \n2267 \nBiopsie \nMultiples  \nANAPATH \nNon \n900 \n4 \nCYTOPONCTION ANAPATH \nNon \n765 \n2 \nExamen anapath \nde pièce \nopératoire \nANAPATH \nNon \n600 \n2265 \nFrottis cercivico \nvaginaux + \ncytoponctions \nmultiples \nANAPATH \nNon \n600 \n2276 \nImmuno \nLymphome \nANAPATH \nNon \n3000 \n2275 \nImmuno Sein  \nANAPATH \nNon \n3000 \n2277 \nImmuno tumeur \nindifférentciée \nANAPATH \nNon \n4000 \n2264 \nLIQUIDES + \nCYTOPONCTION \nUNIQUE  \nANAPATH \nNon \n500 \n2272 \nPIECE \nOPERATOIRE + \nCURAGE  \nANAPATH \nNon \n1500 \n2268 \nPièce opératoire \nsans autre \nprécision  \nANAPATH \nNon \n1100 \n2271 \nSEIN \nANAPATH \nNon \n1300 \n2269 \nThyroïde  \nANAPATH \nNon \n1200 \n2274 \nUTERUS + \nMYOMES \nANAPATH \nNon \n1300 \n2273 \nUTERUS AVEC \nTUMEUR \nANAPATH \nNon \n1400 \n2270 \nVESICULE \nANAPATH \nNon \n1000"
+}
+]

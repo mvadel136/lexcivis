@@ -1,0 +1,124 @@
+dimensions:
+  1: Data/Model Marketplace
+  2: Generated Content Marketplace
+  3: Cross-Domain Correlation Analysis
+  4: Contextualization and Regional Impact
+  5: Level of Integration of AI in Workflows
+  6: Human Interface
+  7: Strategy Alignment
+  8: Collaboration with AI
+  9: Impacts of Humans in AI Integration
+  10: AI & Policies
+  11: AI for Inclusion
+  12: Granular Priorities
+  13: Digital Infrastructure
+
+gaps:
+  - id: G1
+    type: standards
+    node: PP
+    title: "No rule on which language version of an official procedure record is authoritative"
+    evidence: "MEASURED: 54 of 812 FR/AR pairs (6.7%) give a different fee or delay. 94 automatic flags were reviewed one by one: 63 confirmed, 28 false alarms, 3 misfiled fields. Typical case: stamp 50 MRU (FR) vs 20 new ouguiya (AR) in land-registry and customs records; 'gratuit' (FR) vs a 20 MRU stamp (AR). Stages S2, S3."
+    effect: "An assistant answering from one version gives a citizen a wrong amount or deadline and cannot know which is right."
+    proposal: "A data standard for bilingual public-service records: one value per field, both language versions linked, a 'verified on' date and a named owner. Until then the assistant holds the answer (rule R2)."
+    global_example: "Canada, Official Languages Act s. 13: both language versions of federal acts are equally authoritative, which forces reconciliation at the source."
+    readiness: [3, 4, 7]
+
+  - id: G2
+    type: implementation
+    node: SRC
+    title: "Records carry a last-update date but no validity period and no change notice"
+    evidence: "MEASURED: last update 2023 for 527 records, 2024 for 190, 2025 for 119. Stage S3: the assistant can only show the publication date."
+    effect: "Changes announced elsewhere (radio, decree) are invisible to the assistant and to citizens."
+    proposal: "Add valid_from, superseded_by and the source act to each record; notify registered AI services of every change."
+    global_example: "EU Single Digital Gateway Regulation (EU) 2018/1724, art. 9(1)(b) and (f): information must be accurate and show the date of its last update; art. 10(1)(f)-(g): fees and deadlines of each procedure."
+    readiness: [1, 4, 13]
+
+  - id: G3
+    type: policy
+    node: P
+    title: "One third of procedures cite no legal basis"
+    evidence: "MEASURED: 279 of 812 pairs have an empty legal-basis field in both languages."
+    effect: "The assistant cannot trace an answer back to a law, which weakens auditability and the citizen's right to contest."
+    proposal: "Make the legal basis a required field before a procedure can be served to an AI channel."
+    global_example: "EU Regulation (EU) 2018/1724, art. 9(1)(c): information includes references and links to the legal acts."
+    readiness: [7, 10]
+
+  - id: G4
+    type: implementation
+    node: SRC
+    title: "The same procedure is published more than once"
+    evidence: "MEASURED: 11 groups of identical titles (23 records), e.g. 'Mutation de titre foncier' (fr161, fr2009), 'Permis de conduire' (fr316, fr1666). Part of the retrieval misses in the evaluation are these twins."
+    effect: "Citizens and AI systems may follow the copy that is out of date."
+    proposal: "One canonical identifier per procedure, with redirects from duplicates."
+    global_example: "For comparison, EU Regulation (EU) 2018/1724 art. 9(1)(d) requires each piece of information to name the authority responsible for its content, which gives every record a single owner."
+    readiness: [1, 13]
+
+  - id: G5
+    type: implementation
+    node: PP
+    title: "Fields filled in the wrong place"
+    evidence: "MEASURED during the review of flags: on fr1840 the Arabic fee and delay fields are swapped; on fr214 the Arabic fee field holds a decree reference."
+    effect: "A field-level assistant reads a delay as a fee."
+    proposal: "Field validation at publication (a fee field must hold an amount or 'free'; a delay field a duration)."
+    global_example: "EU Regulation (EU) 2018/1724, art. 10(1)(f)-(g): fees and deadlines are distinct required elements."
+    readiness: [1, 3]
+
+  - id: G6
+    type: standards
+    node: M
+    title: "No Hassaniya test set for public-service AI"
+    evidence: "MEASURED: 10 Hassaniya questions (Arabic and Latin script) in the evaluation; seed lexicon of about 60 terms written by the team."
+    effect: "Hassaniya speakers, the majority spoken language, are served less well than readers of Arabic or French."
+    proposal: "An open Hassaniya question set for public services (both scripts), with coverage reported before deployment."
+    global_example: "Mauritania's National AI Strategy 2025-2029 (final, 26 July 2024), Objective 4.8.4: machine translation between national languages including Hassaniya and Arabic/French, for use from public administration onwards (p. 27)."
+    readiness: [4, 11]
+
+  - id: G7
+    type: policy
+    node: D
+    title: "Citizens' logs used to train a provider's own model"
+    evidence: "OBSERVED: stage S5; the request is blocked by the mandate guard, the transfer by the legal-order rule."
+    effect: "Law 2017-020 covers it only indirectly (processor acts on the controller's instruction, art. 11; purpose limitation, art. 7; transfers, arts. 20-22). It predates generative AI and says nothing about model training."
+    proposal: "A model-training clause in public AI procurement: no training on citizen data without the controller's written instruction and the authority's opinion."
+    global_example: "EU GDPR art. 28(3)(a): a processor processes personal data only on documented instructions from the controller. UAE PDPL (Federal Decree-Law 45/2021) art. 2(2) excludes government data and government authorities from its scope, so how it covers a foreign public service hosted in the UAE is unclear (for expert review)."
+    readiness: [7, 10, 13]
+
+  - id: G8
+    type: implementation
+    node: PP
+    title: "Personal data typed by citizens reaches logs and models"
+    evidence: "OBSERVED: stage S5; LexCivis masks ID numbers, phone numbers and e-mails before search, answer and ledger."
+    effect: "Without masking, every log export to a host abroad is a transfer of personal data (arts. 20-22)."
+    proposal: "Masking at the pre-processor as a deployment requirement, tested by the authority in the sandbox."
+    global_example: "EU GDPR art. 25(1) and art. 32(1)(a): data protection by design, including pseudonymisation."
+    readiness: [1, 10]
+
+  - id: G9
+    type: policy
+    node: SINK
+    title: "No rule that a public-service AI says it is an AI and points to the official channel"
+    evidence: "OBSERVED: stages S1 and S6."
+    effect: "Fake 'official' messages are easier to believe; there is no verified channel to check against."
+    proposal: "Transparency notice and an official verification channel in every public AI service."
+    global_example: "EU AI Act art. 50(1): people must be informed that they are interacting with an AI system."
+    readiness: [6, 10]
+
+  - id: G10
+    type: implementation
+    node: SINK
+    title: "No verified sender for official SMS"
+    evidence: "OBSERVED: stage S6 (fake fee message)."
+    effect: "Citizens cannot tell a real government SMS from a scam."
+    proposal: "A registered sender-ID scheme for government SMS, run by the telecom regulator with the cyber-incident team."
+    global_example: "Singapore SMS Sender ID Registry (IMDA): registration mandatory for organisations using alphanumeric sender IDs since 31 January 2023."
+    readiness: [6, 8, 13]
+  - id: G11
+    type: standards
+    node: SRC
+    title: "Legal texts attached to procedures are files, not identified documents"
+    evidence: "MEASURED: 106 procedures attach 242 files, but only 98 distinct documents (141 copies of the same file under other names). 3 attachments are macOS metadata files, not documents. 28 documents are scans without text (154 pages, read here by OCR). 2 attachments are titled with a phone-scanner file name ('CamScanner …'), one of them on 16 procedures. 4 titles point to different files."
+    effect: "A citizen or an AI cannot tell which text is the legal basis, which version is current, or cite it reliably."
+    proposal: "Give each legal text a stable identifier and metadata (type, number, date, Journal Officiel issue, version) and publish it with a text layer; procedures then cite the identifier, not a file."
+    global_example: "EU Council conclusions on the European Legislation Identifier (ELI), 6 November 2017 (doc. 14172/17): unique identifiers and structured metadata for national legislation in official journals, published in a re-usable format."
+    readiness: [1, 3, 13]

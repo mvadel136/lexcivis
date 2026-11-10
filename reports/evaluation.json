@@ -1,0 +1,1107 @@
+{
+ "procedures_50": {
+  "by_lang": {
+   "fr": {
+    "n": 30,
+    "recall@1": 26,
+    "recall@1_twins": 26,
+    "recall@3": 30,
+    "refused": 0,
+    "verbatim": 30,
+    "answered": 30
+   },
+   "ar": {
+    "n": 20,
+    "recall@1": 15,
+    "recall@1_twins": 15,
+    "recall@3": 19,
+    "refused": 0,
+    "verbatim": 20,
+    "answered": 20
+   }
+  },
+  "total": {
+   "n": 50,
+   "recall@1": 41,
+   "recall@1_twins": 41,
+   "recall@3": 49,
+   "refused": 0,
+   "verbatim": 50,
+   "answered": 50
+  },
+  "latency_p50_s": 5.75,
+  "latency_p95_s": 8.62,
+  "failures": [
+   {
+    "query": "Procédure de déclaration de naissance d'un enfant",
+    "expected": [
+     "fr1704"
+    ],
+    "got": "fr1193",
+    "got_title": "Déclaration de naissance d’un enfant à l’étranger dans un pays où il existe un centre d’accueil des citoyens (enregistrement des événements d’état civil à l’étranger)",
+    "field": null,
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "query": "Formalités pour obtenir un visa d'entrée en Mauritanie",
+    "expected": [
+     "fr1621"
+    ],
+    "got": "fr1217",
+    "got_title": "Demander un visa à l'étranger",
+    "field": null,
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "query": "Obtenir une carte de séjour pour étranger",
+    "expected": [
+     "fr1579"
+    ],
+    "got": "fr1217",
+    "got_title": "Demander un visa à l'étranger",
+    "field": null,
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "query": "Comment renouveler son passeport mauritanien?",
+    "expected": [
+     "fr1589"
+    ],
+    "got": "fr1219",
+    "got_title": "demande de laissez-passer",
+    "field": null,
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "query": "إجراء الحصول على تأشيرة دخول موريتانيا",
+    "expected": [
+     "fr1621"
+    ],
+    "got": "fr1217",
+    "got_title": "طلب تأشيرة للخارج",
+    "field": null,
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "query": "التصريح بالوفاة ووثائق الحالة المدنية",
+    "expected": [
+     "fr1716"
+    ],
+    "got": "fr1202",
+    "got_title": "تصريح بوفاة في الخارج ببلد يوجد به مركز لاستقبال المواطنين(تسجيل أحداث الحالة المدنية في الخارج)",
+    "field": null,
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "query": "اعتماد تعاونية فلاحية زراعية",
+    "expected": [
+     "fr843"
+    ],
+    "got": "fr1947",
+    "got_title": "اعتماد التعاونيات/اتحاد التعاونيات",
+    "field": null,
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "query": "تجديد جواز السفر الموريتاني",
+    "expected": [
+     "fr1589"
+    ],
+    "got": "fr226",
+    "got_title": "جوازات سفر الموريتانيين المقيمين بالخارج",
+    "field": null,
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "query": "المساعدات الاجتماعية للفقراء والمرضى",
+    "expected": [
+     "fr666"
+    ],
+    "got": "fr816",
+    "got_title": "المعوزين (الفقراء والفقراء المرضى والفقراء المعاقين والفقراء المعاقين والمرضى)",
+    "field": null,
+    "intent": "overview",
+    "status": "answered"
+   }
+  ],
+  "outcomes": [
+   {
+    "got": "fr1588",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1119",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr1193",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr790",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1217",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1711",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1716",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1217",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr843",
+    "intent": "complaints",
+    "status": "answered"
+   },
+   {
+    "got": "fr1715",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr1219",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1123",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr791",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr666",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr1204",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1205",
+    "intent": "delivery",
+    "status": "answered"
+   },
+   {
+    "got": "fr1206",
+    "intent": "delivery",
+    "status": "answered"
+   },
+   {
+    "got": "fr848",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr849",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr898",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr1736",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr232",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr34",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr58",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1105",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1585",
+    "intent": "reception",
+    "status": "answered"
+   },
+   {
+    "got": "fr1583",
+    "intent": "delivery",
+    "status": "answered"
+   },
+   {
+    "got": "fr1619",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr1450",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1940",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1588",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1119",
+    "intent": "reception",
+    "status": "answered"
+   },
+   {
+    "got": "fr1704",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr790",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1217",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1711",
+    "intent": "legal_basis",
+    "status": "answered"
+   },
+   {
+    "got": "fr1202",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr1579",
+    "intent": "users",
+    "status": "answered"
+   },
+   {
+    "got": "fr1947",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1715",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr226",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr791",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr816",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr848",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr898",
+    "intent": "reception",
+    "status": "answered"
+   },
+   {
+    "got": "fr1736",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr232",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr1204",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr1105",
+    "intent": "office",
+    "status": "answered"
+   },
+   {
+    "got": "fr1585",
+    "intent": "fee",
+    "status": "answered"
+   }
+  ]
+ },
+ "field_questions_55": {
+  "by_lang": {
+   "fr": {
+    "n": 30,
+    "recall@1": 26,
+    "recall@1_twins": 27,
+    "recall@3": 28,
+    "refused": 1,
+    "verbatim": 28,
+    "answered": 29,
+    "field": 28,
+    "end_to_end": 24
+   },
+   "ar": {
+    "n": 15,
+    "recall@1": 13,
+    "recall@1_twins": 13,
+    "recall@3": 13,
+    "refused": 0,
+    "verbatim": 15,
+    "answered": 15,
+    "field": 14,
+    "end_to_end": 12
+   },
+   "hassaniya": {
+    "n": 10,
+    "recall@1": 7,
+    "recall@1_twins": 7,
+    "recall@3": 8,
+    "refused": 1,
+    "verbatim": 9,
+    "answered": 9,
+    "field": 10,
+    "end_to_end": 7
+   }
+  },
+  "total": {
+   "n": 55,
+   "recall@1": 46,
+   "recall@1_twins": 47,
+   "recall@3": 49,
+   "refused": 2,
+   "verbatim": 52,
+   "answered": 53,
+   "field": 52,
+   "end_to_end": 43
+  },
+  "latency_p50_s": 6.71,
+  "latency_p95_s": 8.75,
+  "failures": [
+   {
+    "query": "Pour créer une société, quels papiers je dois préparer ?",
+    "expected": [
+     "fr790"
+    ],
+    "got": "ar526",
+    "got_title": "إجراءات التسجيل",
+    "field": "documents",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "query": "Je veux légaliser mon BEPC, c'est immédiat ?",
+    "expected": [
+     "fr1069"
+    ],
+    "got": "fr1069",
+    "got_title": "Légalisation du BEPC - Direction des Examens et des Concours",
+    "field": "delay",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "query": "Combien coûte une mutation de titre foncier ?",
+    "expected": [
+     "fr161"
+    ],
+    "got": "fr2009",
+    "got_title": "mutation de titre foncier",
+    "field": "fee",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "query": "À qui m'adresser si ma demande de licence d'agence de voyages est refusée ?",
+    "expected": [
+     "fr102"
+    ],
+    "got": "fr102",
+    "got_title": "Licence pour l'Exploitation d'une Agence ou d'un Bureau de Voyages",
+    "field": "complaints",
+    "intent": "reception",
+    "status": "answered"
+   },
+   {
+    "query": "Je vis à l'étranger, combien coûte le passeport ?",
+    "expected": [
+     "fr226"
+    ],
+    "got": "",
+    "got_title": "",
+    "field": "fee",
+    "intent": "fee",
+    "status": "refused"
+   },
+   {
+    "query": "Comment obtenir mon permis de conduire pour la première fois ?",
+    "expected": [
+     "fr316"
+    ],
+    "got": "",
+    "got_title": "",
+    "field": "overview",
+    "intent": "overview",
+    "status": "clarify"
+   },
+   {
+    "query": "ما هي الوثائق اللازمة لإنشاء شركة؟",
+    "expected": [
+     "fr790"
+    ],
+    "got": "fr59",
+    "got_title": "طلب الحصول على موافقة صحية للتصدير إلى دول الاتحاد الأوروبي. الخطوة 1: الإذن للتأسيس",
+    "field": "documents",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "query": "متى أستلم البطاقة الرمادية لسيارة جديدة؟",
+    "expected": [
+     "fr290"
+    ],
+    "got": "fr290",
+    "got_title": "البطاقة الرمادية (لتسجيل المركبات الجديدة)",
+    "field": "delay",
+    "intent": "delivery",
+    "status": "answered"
+   },
+   {
+    "query": "كيف أحصل على رخصة السياقة لأول مرة؟",
+    "expected": [
+     "fr316"
+    ],
+    "got": "fr1588",
+    "got_title": "طلب الحصول على جواز السفر لأول مرة(الوثائق المؤمنة)",
+    "field": "overview",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "query": "شنهو لوراق الِّ لازمين باش نفتح شركة؟",
+    "expected": [
+     "fr790"
+    ],
+    "got": "",
+    "got_title": "",
+    "field": "documents",
+    "intent": "documents",
+    "status": "refused"
+   },
+   {
+    "query": "اشحال من يوم باش نشيل البطاقة الرمادية للوطو الجديدة؟",
+    "expected": [
+     "fr290"
+    ],
+    "got": "fr309",
+    "got_title": "تجديد البطاقة الرمادية",
+    "field": "delay",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "query": "chnhou lwrag lazmin bach ncree entreprise ?",
+    "expected": [
+     "fr790"
+    ],
+    "got": "fr1828",
+    "got_title": "Demande de permis de travail",
+    "field": "documents",
+    "intent": "documents",
+    "status": "answered"
+   }
+  ],
+  "outcomes": [
+   {
+    "got": "fr324",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr268",
+    "intent": "fee",
+    "status": "held"
+   },
+   {
+    "got": "fr290",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "fr323",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr920",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "ar526",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr790",
+    "intent": "reception",
+    "status": "answered"
+   },
+   {
+    "got": "fr1066",
+    "intent": "legal_basis",
+    "status": "answered"
+   },
+   {
+    "got": "fr1063",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr1070",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr1069",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr2009",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr183",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "fr292",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr326",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr85",
+    "intent": "users",
+    "status": "answered"
+   },
+   {
+    "got": "fr91",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "fr102",
+    "intent": "reception",
+    "status": "answered"
+   },
+   {
+    "got": "fr102",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "",
+    "intent": "fee",
+    "status": "refused"
+   },
+   {
+    "got": "fr1061",
+    "intent": "delivery",
+    "status": "answered"
+   },
+   {
+    "got": "fr300",
+    "intent": "contact",
+    "status": "answered"
+   },
+   {
+    "got": "fr301",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "fr248",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr75",
+    "intent": "office",
+    "status": "answered"
+   },
+   {
+    "got": "fr309",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "fr312",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "",
+    "intent": "overview",
+    "status": "clarify"
+   },
+   {
+    "got": "fr170",
+    "intent": "fee",
+    "status": "held"
+   },
+   {
+    "got": "fr55",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr324",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr268",
+    "intent": "fee",
+    "status": "held"
+   },
+   {
+    "got": "fr59",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr290",
+    "intent": "delivery",
+    "status": "answered"
+   },
+   {
+    "got": "fr1070",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr161",
+    "intent": "fee",
+    "status": "held"
+   },
+   {
+    "got": "fr85",
+    "intent": "users",
+    "status": "answered"
+   },
+   {
+    "got": "fr323",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "fr1066",
+    "intent": "legal_basis",
+    "status": "answered"
+   },
+   {
+    "got": "fr309",
+    "intent": "reception",
+    "status": "answered"
+   },
+   {
+    "got": "fr226",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr300",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "fr1588",
+    "intent": "overview",
+    "status": "answered"
+   },
+   {
+    "got": "fr170",
+    "intent": "fee",
+    "status": "held"
+   },
+   {
+    "got": "fr83",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "fr324",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "",
+    "intent": "documents",
+    "status": "refused"
+   },
+   {
+    "got": "fr309",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "fr309",
+    "intent": "reception",
+    "status": "answered"
+   },
+   {
+    "got": "fr268",
+    "intent": "fee",
+    "status": "held"
+   },
+   {
+    "got": "fr324",
+    "intent": "fee",
+    "status": "answered"
+   },
+   {
+    "got": "fr1828",
+    "intent": "documents",
+    "status": "answered"
+   },
+   {
+    "got": "fr290",
+    "intent": "delay",
+    "status": "answered"
+   },
+   {
+    "got": "fr268",
+    "intent": "fee",
+    "status": "held"
+   },
+   {
+    "got": "fr309",
+    "intent": "reception",
+    "status": "answered"
+   }
+  ]
+ },
+ "must_refuse_10": {
+  "by_lang": {
+   "fr": {
+    "n": 6,
+    "refused": 6
+   },
+   "ar": {
+    "n": 4,
+    "refused": 4
+   }
+  },
+  "total": {
+   "n": 10,
+   "refused": 10
+  },
+  "latency_p50_s": 9.2,
+  "latency_p95_s": 10.83,
+  "failures": [],
+  "outcomes": [
+   {
+    "got": "",
+    "intent": "legal_basis",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "users",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "overview",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "delay",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "fee",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "documents",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "overview",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "documents",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "fee",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "overview",
+    "status": "refused"
+   }
+  ]
+ },
+ "must_refuse_holdout_20": {
+  "by_lang": {
+   "fr": {
+    "n": 11,
+    "refused": 10
+   },
+   "ar": {
+    "n": 6,
+    "refused": 6
+   },
+   "hassaniya": {
+    "n": 3,
+    "refused": 3
+   }
+  },
+  "total": {
+   "n": 20,
+   "refused": 19
+  },
+  "latency_p50_s": 7.28,
+  "latency_p95_s": 12.34,
+  "failures": [
+   {
+    "query": "Comment obtenir un visa Schengen pour la France ?",
+    "got": ""
+   }
+  ],
+  "outcomes": [
+   {
+    "got": "",
+    "intent": "delay",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "reception",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "users",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "overview",
+    "status": "clarify"
+   },
+   {
+    "got": "",
+    "intent": "fee",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "overview",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "fee",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "legal_basis",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "fee",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "overview",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "users",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "delay",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "office",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "fee",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "legal_basis",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "fee",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "legal_basis",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "fee",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "overview",
+    "status": "refused"
+   },
+   {
+    "got": "",
+    "intent": "reception",
+    "status": "refused"
+   }
+  ]
+ },
+ "benchmark_v2": {
+  "summary": {
+   "procedure@1": {
+    "value": 0.89,
+    "ci95": [
+     0.84,
+     0.93
+    ]
+   },
+   "field": {
+    "value": 0.965,
+    "ci95": [
+     0.94,
+     0.99
+    ]
+   },
+   "end_to_end": {
+    "value": 0.86,
+    "ci95": [
+     0.805,
+     0.91
+    ]
+   }
+  }
+ },
+ "intent_check": [
+  {
+   "target": "procedures_50.recall@3",
+   "goal": 0.95,
+   "value": 0.98,
+   "met": true
+  },
+  {
+   "target": "field_questions_55.field",
+   "goal": 0.9,
+   "value": 0.945,
+   "met": true
+  },
+  {
+   "target": "must_refuse_10.refused",
+   "goal": 1.0,
+   "value": 1.0,
+   "met": true
+  },
+  {
+   "target": "must_refuse_holdout_20.refused",
+   "goal": 0.9,
+   "value": 0.95,
+   "met": true
+  },
+  {
+   "target": "benchmark_v2.end_to_end",
+   "goal": 0.7,
+   "value": 0.86,
+   "met": true
+  }
+ ]
+}

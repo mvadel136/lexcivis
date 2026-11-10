@@ -1,0 +1,1602 @@
+[
+ {
+  "query": "Est-ce que déclaration de naissance d’un enfant à l’étranger dans un pays où il existe un centre d’accueil des citoyens est payant, et combien ?",
+  "lang": "fr",
+  "keys": [
+   "fr1193"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Quel est le coût officiel de correction de superficie d'un terrain ?",
+  "lang": "fr",
+  "keys": [
+   "fr196"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Est-ce que bulletin de pension et bon de caisse pension est payant, et combien ?",
+  "lang": "fr",
+  "keys": [
+   "fr882"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Quel est le coût officiel de création de mahadras pilotes ?",
+  "lang": "fr",
+  "keys": [
+   "fr1317"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Quel est le coût officiel de pollinisation palmier ?",
+  "lang": "fr",
+  "keys": [
+   "fr1897"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Je dois payer quoi pour autorisation des instituts et centres islamiques ?",
+  "lang": "fr",
+  "keys": [
+   "fr1313"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Je dois payer quoi pour réalisation des usines de dessalement ?",
+  "lang": "fr",
+  "keys": [
+   "fr737"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Quel est le coût officiel de création d'un titre foncier ?",
+  "lang": "fr",
+  "keys": [
+   "fr176"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Je dois payer quoi pour cession de grés à grés société iskan ?",
+  "lang": "fr",
+  "keys": [
+   "fr1096"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Est-ce que concours d'entrée en médiation sociale est payant, et combien ?",
+  "lang": "fr",
+  "keys": [
+   "fr1981"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Quel est le coût officiel de un chéquier ?",
+  "lang": "fr",
+  "keys": [
+   "fr881"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Est-ce que légalisation de l'attestation de muezzin est payant, et combien ?",
+  "lang": "fr",
+  "keys": [
+   "fr1011"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Est-ce que intégration des rapatriés de l'étranger dans l'enseignement secondaire - direction de l'enseignement secondaire est payant, et combien ?",
+  "lang": "fr",
+  "keys": [
+   "fr1038"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Quel est le coût officiel de la carte professionnelle de mareyeur ?",
+  "lang": "fr",
+  "keys": [
+   "fr60"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Quel est le coût officiel de recherche scientifique ?",
+  "lang": "fr",
+  "keys": [
+   "fr2067"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Je dois payer quoi pour pension de nouveau retraité ?",
+  "lang": "fr",
+  "keys": [
+   "fr83"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Je dois payer quoi pour dépistage et confirmation du vih/sida ?",
+  "lang": "fr",
+  "keys": [
+   "fr213"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Je dois payer quoi pour palmiers ornementaux ?",
+  "lang": "fr",
+  "keys": [
+   "fr1900"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Je dois payer quoi pour légalisation des certificats de travail ?",
+  "lang": "fr",
+  "keys": [
+   "fr1072"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "Est-ce que récupération de l'abonnement au cas de perte est payant, et combien ?",
+  "lang": "fr",
+  "keys": [
+   "fr1598"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "كم أدفع من أجل دعم المعوزين؟",
+  "lang": "ar",
+  "keys": [
+   "fr1382"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "ما هي الرسوم الرسمية لمنح المتفوقين في البكالوريا؟",
+  "lang": "ar",
+  "keys": [
+   "fr1770"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "ما هي الرسوم الرسمية لالتقييد في السجل السكاني لمولود لأب مجهول؟",
+  "lang": "ar",
+  "keys": [
+   "fr1109"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "كم أدفع من أجل برنامج النفاذ إلى الخدمات القاعدية \"الشيلا\"؟",
+  "lang": "ar",
+  "keys": [
+   "fr926"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "هل سحب الضمانة الانتخابية بمقابل؟ وكم؟",
+  "lang": "ar",
+  "keys": [
+   "fr874"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "كم أدفع من أجل المسابقات الرمضانية؟",
+  "lang": "ar",
+  "keys": [
+   "fr1306"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "ما هي الرسوم الرسمية لاعتماد المطورين العقاريين؟",
+  "lang": "ar",
+  "keys": [
+   "fr1869"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "هل المعدات التقنية بمقابل؟ وكم؟",
+  "lang": "ar",
+  "keys": [
+   "fr766"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "ما هي الرسوم الرسمية لاعتماد المؤسسات المنتجة للبذور والشتلات؟",
+  "lang": "ar",
+  "keys": [
+   "fr1976"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "هل ترخيص توزيع وتسويق غاز البوتان بمقابل؟ وكم؟",
+  "lang": "ar",
+  "keys": [
+   "fr1085"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "كم أدفع من أجل الإرشاد الزراعي؟",
+  "lang": "ar",
+  "keys": [
+   "fr1889"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "ما هي الرسوم الرسمية لأقساط شركة إسكان؟",
+  "lang": "ar",
+  "keys": [
+   "fr1211"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "هل إنشاء المحاظر النموذجية بمقابل؟ وكم؟",
+  "lang": "ar",
+  "keys": [
+   "fr1317"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "كم أدفع من أجل إنشاء الأعمال / طلب التسجيل؟",
+  "lang": "ar",
+  "keys": [
+   "fr284"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "ما هي الرسوم الرسمية لتقديم طلب للحصول على عروض العمل؟",
+  "lang": "ar",
+  "keys": [
+   "fr1835"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "هل فتح الحسابات البريدية الجارية بمقابل؟ وكم؟",
+  "lang": "ar",
+  "keys": [
+   "fr895"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "ما هي الرسوم الرسمية لترخيص مؤقت؟",
+  "lang": "ar",
+  "keys": [
+   "fr1829"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "كم أدفع من أجل تصريح لنقل الأشخاص أو البضائع؟",
+  "lang": "ar",
+  "keys": [
+   "fr927"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "كم أدفع من أجل معاينة وفاة؟",
+  "lang": "ar",
+  "keys": [
+   "fr1604"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "ما هي الرسوم الرسمية لنشر عروص التشغيل؟",
+  "lang": "ar",
+  "keys": [
+   "fr1834"
+  ],
+  "field": "fee"
+ },
+ {
+  "query": "rectification de l'état civil des élèves de l'enseignement secondaire - direction de l'enseignement secondaire est prêt après combien de temps ?",
+  "lang": "fr",
+  "keys": [
+   "fr1035"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Dans quel délai je reçois appui aux associations pour participation aux colloques régionaux et internationaux ?",
+  "lang": "fr",
+  "keys": [
+   "fr720"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Dans quel délai je reçois exonération des intrants et matériels agricoles ?",
+  "lang": "fr",
+  "keys": [
+   "fr1985"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "laissez-passer est prêt après combien de temps ?",
+  "lang": "fr",
+  "keys": [
+   "fr1219"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "le certificat de vie individuel est prêt après combien de temps ?",
+  "lang": "fr",
+  "keys": [
+   "fr1431"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Combien de jours faut-il attendre pour exonérations véhicules parlementaires ?",
+  "lang": "fr",
+  "keys": [
+   "fr232"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Dans quel délai je reçois etude d'impact environnemental -avis de faisabilité environnementale ?",
+  "lang": "fr",
+  "keys": [
+   "fr797"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "césarienne est prêt après combien de temps ?",
+  "lang": "fr",
+  "keys": [
+   "fr1627"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Dans quel délai je reçois techniques culturales dattier ?",
+  "lang": "fr",
+  "keys": [
+   "fr1899"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "alimentation des lacs de surface est prêt après combien de temps ?",
+  "lang": "fr",
+  "keys": [
+   "fr1886"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Dans quel délai je reçois r un rendez-vous pour des examens externes au centre national de cardiologie ?",
+  "lang": "fr",
+  "keys": [
+   "fr1541"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Dans quel délai je reçois recherche scientifique ?",
+  "lang": "fr",
+  "keys": [
+   "fr2067"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Combien de jours faut-il attendre pour importation des gaz de refroidissement ?",
+  "lang": "fr",
+  "keys": [
+   "fr2074"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Dans quel délai je reçois attestation de domiciliation ?",
+  "lang": "fr",
+  "keys": [
+   "fr1353"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Combien de jours faut-il attendre pour certificat de naissance ?",
+  "lang": "fr",
+  "keys": [
+   "fr1628"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "consultation est prêt après combien de temps ?",
+  "lang": "fr",
+  "keys": [
+   "fr1603"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Dans quel délai je reçois consultation de la base des données et -sig ?",
+  "lang": "fr",
+  "keys": [
+   "fr2068"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Dans quel délai je reçois le certificat de non divorce et de non remariage ou certificat de non remariage ?",
+  "lang": "fr",
+  "keys": [
+   "fr1434"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Combien de jours faut-il attendre pour carte grise ?",
+  "lang": "fr",
+  "keys": [
+   "fr294"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Combien de jours faut-il attendre pour le certificat de vie collectif ?",
+  "lang": "fr",
+  "keys": [
+   "fr1432"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "ما هو أجل معالجة البدلات والمزايا لموظفي الخدمة المدنية؟",
+  "lang": "ar",
+  "keys": [
+   "fr140"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "كم أنتظر حتى يجهز معاش الوالدين؟",
+  "lang": "ar",
+  "keys": [
+   "fr103"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "خلال كم يوم أحصل على التدريب الداخلي؟",
+  "lang": "ar",
+  "keys": [
+   "fr1563"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "خلال كم يوم أحصل على الترخيص بالصيد القاري؟",
+  "lang": "ar",
+  "keys": [
+   "fr40"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "خلال كم يوم أحصل على شهادة الوصفة؟",
+  "lang": "ar",
+  "keys": [
+   "fr308"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "ما هو أجل معالجة اعتماد مطور عقاري؟",
+  "lang": "ar",
+  "keys": [
+   "fr334"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "ما هو أجل معالجة إرسال حوالة وطنية؟",
+  "lang": "ar",
+  "keys": [
+   "fr1406"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "خلال كم يوم أحصل على ترخيص استيراد غاز البوتان؟",
+  "lang": "ar",
+  "keys": [
+   "fr1066"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "كم أنتظر حتى يجهز الولوج إلى المعايير والوثائق المرجعية و اليقظة المعيارية؟",
+  "lang": "ar",
+  "keys": [
+   "fr751"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "خلال كم يوم أحصل على التعويضات والمزايا لموظفي الخدمة المدنية والمساعدين المتقاعدين أو المتوفين؟",
+  "lang": "ar",
+  "keys": [
+   "fr148"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "خلال كم يوم أحصل على موافقة صحية للتصدير إلى دول الاتحاد الأوروبي. الخطوة 1: الإذن للتأسيس؟",
+  "lang": "ar",
+  "keys": [
+   "fr59"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "ما هو أجل معالجة أصالة رخصة السياقة؟",
+  "lang": "ar",
+  "keys": [
+   "fr325"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "خلال كم يوم أحصل على مذكرة الأثر البيئي - رأي بالجدوى البيئية؟",
+  "lang": "ar",
+  "keys": [
+   "fr811"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "ما هو أجل معالجة موعد الفحوصات الخارجية؟",
+  "lang": "ar",
+  "keys": [
+   "fr1541"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "ما هو أجل معالجة رخصة استغلال البترول؟",
+  "lang": "ar",
+  "keys": [
+   "fr36"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "كم أنتظر حتى يجهز البطاقة الرمادية؟",
+  "lang": "ar",
+  "keys": [
+   "fr290"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "كم أنتظر حتى يجهز دفع شيك الخزينة عن طريق التحويل المصرفي؟",
+  "lang": "ar",
+  "keys": [
+   "fr317"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "خلال كم يوم أحصل على تصديق الوثائق الرسمية؟",
+  "lang": "ar",
+  "keys": [
+   "fr248"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "ما هو أجل معالجة فتح حسابات جزئية للحساب الجاري للخزانة في البنك المركزي الموريتاني؟",
+  "lang": "ar",
+  "keys": [
+   "fr306"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "كم أنتظر حتى يجهز معاش المتقاعدين حديثاً؟",
+  "lang": "ar",
+  "keys": [
+   "fr83"
+  ],
+  "field": "delay"
+ },
+ {
+  "query": "Quelles pièces justificatives pour autorisation d'exercice de l'activité artisanale ?",
+  "lang": "fr",
+  "keys": [
+   "fr119"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quelles pièces justificatives pour subvention annuelle aux imams ?",
+  "lang": "fr",
+  "keys": [
+   "fr1013"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "rehabilitation des digues et barrages : quels documents dois-je fournir ?",
+  "lang": "fr",
+  "keys": [
+   "fr1142"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quels papiers sont demandés pour création des unités de recherche ?",
+  "lang": "fr",
+  "keys": [
+   "fr924"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "consultation pédiatrique en urgence : quels documents dois-je fournir ?",
+  "lang": "fr",
+  "keys": [
+   "fr1633"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "remboursement des cautions : quels documents dois-je fournir ?",
+  "lang": "fr",
+  "keys": [
+   "fr303"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quels papiers sont demandés pour procédure de déclaration pour les réseaux ?",
+  "lang": "fr",
+  "keys": [
+   "fr966"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quels papiers sont demandés pour réintégrer le salarié dans son emploi et le nommer à un poste public ?",
+  "lang": "fr",
+  "keys": [
+   "fr1147"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quelles pièces justificatives pour rencontre pour accompagnement ?",
+  "lang": "fr",
+  "keys": [
+   "fr1910"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "légalisation de copies de documents officiels : quels documents dois-je fournir ?",
+  "lang": "fr",
+  "keys": [
+   "fr248"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quelles pièces justificatives pour approbation d’un acte de décès délivré à l’étranger ?",
+  "lang": "fr",
+  "keys": [
+   "fr1207"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "main levée sur un titre foncier : quels documents dois-je fournir ?",
+  "lang": "fr",
+  "keys": [
+   "fr174"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quelles pièces justificatives pour classification d'un site historique ?",
+  "lang": "fr",
+  "keys": [
+   "fr1087"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "carte d’identité pour la première fois : quels documents dois-je fournir ?",
+  "lang": "fr",
+  "keys": [
+   "fr1119"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quelles pièces justificatives pour traitement des conflits conjugaux ?",
+  "lang": "fr",
+  "keys": [
+   "fr1495"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quels papiers sont demandés pour licence pour l'exploitation d'une agence ou d'un bureau de voyages ?",
+  "lang": "fr",
+  "keys": [
+   "fr102"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quelles pièces justificatives pour contrôle des établissements publics et privés qui s'occupent des enfants en conflit avec la loi ?",
+  "lang": "fr",
+  "keys": [
+   "fr1840"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "délivrance des attestations d'orientation - direction de l'enseignement secondaire : quels documents dois-je fournir ?",
+  "lang": "fr",
+  "keys": [
+   "fr1031"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quelles pièces justificatives pour edition badge adu ?",
+  "lang": "fr",
+  "keys": [
+   "fr1095"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "Quels papiers sont demandés pour détachement ?",
+  "lang": "fr",
+  "keys": [
+   "fr262"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لاستخراج كشف الراتب لموظفي قطاع التهذيب؟",
+  "lang": "ar",
+  "keys": [
+   "fr1497"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لبيع المنتج النهائي؟",
+  "lang": "ar",
+  "keys": [
+   "fr1892"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لدمج الاطفال ذوي الاحتياجات الخاصة في التعليم النظامي - مديرية التعليم الأساسي؟",
+  "lang": "ar",
+  "keys": [
+   "fr1043"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما هي الوثائق اللازمة لفتح حساب وديعة؟",
+  "lang": "ar",
+  "keys": [
+   "fr310"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما هي الوثائق اللازمة لتحويل الرخصة العسكرية إلى الرخصة المدنية؟",
+  "lang": "ar",
+  "keys": [
+   "fr327"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لمعاش المتقاعدين حديثاً؟",
+  "lang": "ar",
+  "keys": [
+   "fr83"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما هي الوثائق اللازمة لاستشارة الطوارئ؟",
+  "lang": "ar",
+  "keys": [
+   "fr1804"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لالاعتماد والاتفاق مع الصندوق الوطني للتضامن الصحي؟",
+  "lang": "ar",
+  "keys": [
+   "fr1293"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لتغيير ملكية الأرض؟",
+  "lang": "ar",
+  "keys": [
+   "fr161"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "وثيقة تدخل: ما الملف الذي يجب تقديمه؟",
+  "lang": "ar",
+  "keys": [
+   "fr1752"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "بطاقة وفاة: ما الملف الذي يجب تقديمه؟",
+  "lang": "ar",
+  "keys": [
+   "fr1564"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "زيارة مركز التغذية الجماعية القريب على المستوى المحلي أو البلدي: ما الملف الذي يجب تقديمه؟",
+  "lang": "ar",
+  "keys": [
+   "fr2017"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لمسابقة فخامة رئيس الجمهورية لحفظ وفهم المتون المحظرية؟",
+  "lang": "ar",
+  "keys": [
+   "fr1310"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لالحصول على معدات الحماية؟",
+  "lang": "ar",
+  "keys": [
+   "fr1926"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "منح رخصة للإستغلال المنجمي: ما الملف الذي يجب تقديمه؟",
+  "lang": "ar",
+  "keys": [
+   "fr1020"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لإعتماد إمام المسجد؟",
+  "lang": "ar",
+  "keys": [
+   "fr128"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لجوازات سفر الموريتانيين المقيمين بالخارج؟",
+  "lang": "ar",
+  "keys": [
+   "fr226"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ترخيص الإعتراف: ما الملف الذي يجب تقديمه؟",
+  "lang": "ar",
+  "keys": [
+   "fr955"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما المستندات المطلوبة لالمعوزين؟",
+  "lang": "ar",
+  "keys": [
+   "fr816"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "ما هي الوثائق اللازمة لالإعانة السنوية للإمام؟",
+  "lang": "ar",
+  "keys": [
+   "fr1013"
+  ],
+  "field": "documents"
+ },
+ {
+  "query": "À quel guichet déposer le dossier de distribution des intrants agricoles ?",
+  "lang": "fr",
+  "keys": [
+   "fr848"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "À quel guichet déposer le dossier de autorisation de tournage ?",
+  "lang": "fr",
+  "keys": [
+   "fr854"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "À quel guichet déposer le dossier de forfait obstétrical ?",
+  "lang": "fr",
+  "keys": [
+   "fr1559"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "À quel guichet déposer le dossier de renouvellement d'un permis de recherche minière ?",
+  "lang": "fr",
+  "keys": [
+   "fr1022"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "Où faut-il présenter la demande de remise de garde ?",
+  "lang": "fr",
+  "keys": [
+   "fr964"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "Où faut-il présenter la demande de edition badge adu ?",
+  "lang": "fr",
+  "keys": [
+   "fr1095"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "accréditation et de conventionnement à la cnass : où remettre mon dossier ?",
+  "lang": "fr",
+  "keys": [
+   "fr1293"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "Où faut-il présenter la demande de procédure de déclaration pour les réseaux ?",
+  "lang": "fr",
+  "keys": [
+   "fr967"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "réalisation des stations de traitement des eaux de surface : où remettre mon dossier ?",
+  "lang": "fr",
+  "keys": [
+   "fr734"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "À quel guichet déposer le dossier de réanimation et néonatologie ?",
+  "lang": "fr",
+  "keys": [
+   "fr1808"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "Où faut-il présenter la demande de remboursement ?",
+  "lang": "fr",
+  "keys": [
+   "fr280"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "concours d'entrée en formateur en autisme et déficience intellectuelle : où remettre mon dossier ?",
+  "lang": "fr",
+  "keys": [
+   "fr1965"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "À quel guichet déposer le dossier de attestation de non paiement des bons de caisse égarés ?",
+  "lang": "fr",
+  "keys": [
+   "fr302"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "notice d'impact environnemental et social : où remettre mon dossier ?",
+  "lang": "fr",
+  "keys": [
+   "fr2072"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "enlever un corps étranger : où remettre mon dossier ?",
+  "lang": "fr",
+  "keys": [
+   "fr1640"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "Où faut-il présenter la demande de obtention d'un certificat d'accouchement ?",
+  "lang": "fr",
+  "keys": [
+   "fr1601"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "contrat dans le domaine de la lutte contre l'analphabétisme : où remettre mon dossier ?",
+  "lang": "fr",
+  "keys": [
+   "fr160"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "consultation en urgence : où remettre mon dossier ?",
+  "lang": "fr",
+  "keys": [
+   "fr1804"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "Où faut-il présenter la demande de accès à la documentation ?",
+  "lang": "fr",
+  "keys": [
+   "fr817"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "Où faut-il présenter la demande de autorisation de levée d'acquits ?",
+  "lang": "fr",
+  "keys": [
+   "fr235"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "تعيين الموثقين: أين أسلم الطلب؟",
+  "lang": "ar",
+  "keys": [
+   "fr250"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "لدى أي شباك أودع ملف الإنعاش وحديثي الولادة؟",
+  "lang": "ar",
+  "keys": [
+   "fr1808"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "لدى أي شباك أودع ملف تشخيص الحالة الصحية لنخيل التمر؟",
+  "lang": "ar",
+  "keys": [
+   "fr1898"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "أين أقدم ملف سحب كشف درجات المسابقة- مديرية الامتحانات والمسابقات؟",
+  "lang": "ar",
+  "keys": [
+   "fr1065"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "أين أقدم ملف إجراءات التصريح بالنسبة للهيئات؟",
+  "lang": "ar",
+  "keys": [
+   "fr965"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "أين أقدم ملف التصريح بالوفاة في الآجال القانونية؟",
+  "lang": "ar",
+  "keys": [
+   "fr1716"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "الحصول على يذارات يدوية: أين أسلم الطلب؟",
+  "lang": "ar",
+  "keys": [
+   "fr1927"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "التكلفة الجزافية للحمل: أين أسلم الطلب؟",
+  "lang": "ar",
+  "keys": [
+   "fr1559"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "استصدار نسخة اصلية ثانية من شهادة الكفاءة التربوية- مديرية الامتحانات والمسابقات: أين أسلم الطلب؟",
+  "lang": "ar",
+  "keys": [
+   "fr1055"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "لدى أي شباك أودع ملف إجراءات التكوين المستمر والتدريب وتحسين الخبرة؟",
+  "lang": "ar",
+  "keys": [
+   "fr277"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "لدى أي شباك أودع ملف الدعم الفني والتاطير والارشاد؟",
+  "lang": "ar",
+  "keys": [
+   "fr1512"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "لدى أي شباك أودع ملف الحصول على وحدات لتصنيع الأعلاف؟",
+  "lang": "ar",
+  "keys": [
+   "fr1937"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "أين أقدم ملف تصريح فتح مؤسسة تعليمية خاصة؟",
+  "lang": "ar",
+  "keys": [
+   "fr600"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "إفادة تكفل: أين أسلم الطلب؟",
+  "lang": "ar",
+  "keys": [
+   "fr1440"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "أين أقدم ملف الترخيص بالصيد القاري؟",
+  "lang": "ar",
+  "keys": [
+   "fr40"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "أين أقدم ملف تصريح بزواج في الخارج ببلد يوجد به مركز لاستقبال المواطنين؟",
+  "lang": "ar",
+  "keys": [
+   "fr1201"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "شهادة ضريبة الاقتطاع: أين أسلم الطلب؟",
+  "lang": "ar",
+  "keys": [
+   "fr801"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "أين أقدم ملف نقل ملكية رخصة للبحث المنجمي؟",
+  "lang": "ar",
+  "keys": [
+   "fr1015"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "اصدار ضمانة مرضى الفشل الكلوي: أين أسلم الطلب؟",
+  "lang": "ar",
+  "keys": [
+   "fr753"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "اعتماد عقد وفاة صادر بالخارج: أين أسلم الطلب؟",
+  "lang": "ar",
+  "keys": [
+   "fr1207"
+  ],
+  "field": "reception"
+ },
+ {
+  "query": "Quel décret ou quelle loi s'applique à désignation des mouslihs au sein des tribunaux des moughataas ?",
+  "lang": "fr",
+  "keys": [
+   "fr250"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quelle est la base légale de attestation de précomptes ?",
+  "lang": "fr",
+  "keys": [
+   "fr298"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quel décret ou quelle loi s'applique à orientation les élèves du secondaire - direction de l'enseignement secondaire ?",
+  "lang": "fr",
+  "keys": [
+   "fr1032"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quel décret ou quelle loi s'applique à disponibilité ?",
+  "lang": "fr",
+  "keys": [
+   "fr1529"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quelle est la base légale de palmiers ornementaux ?",
+  "lang": "fr",
+  "keys": [
+   "fr1900"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "procédures de formation continue, de stage et de perfectionnement est réglementé par quel texte ?",
+  "lang": "fr",
+  "keys": [
+   "fr277"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "suivi externe est réglementé par quel texte ?",
+  "lang": "fr",
+  "keys": [
+   "fr1720"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "mise à disposition est réglementé par quel texte ?",
+  "lang": "fr",
+  "keys": [
+   "fr276"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "mesurer les périmètres cultivés et déterminer leur productivité est réglementé par quel texte ?",
+  "lang": "fr",
+  "keys": [
+   "fr1511"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "attestation de régularité fiscale est réglementé par quel texte ?",
+  "lang": "fr",
+  "keys": [
+   "fr283"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quelle est la base légale de remboursement des impôts ?",
+  "lang": "fr",
+  "keys": [
+   "fr300"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quelle est la base légale de retraite anticipée ?",
+  "lang": "fr",
+  "keys": [
+   "fr275"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "licence de pêche hauturière est réglementé par quel texte ?",
+  "lang": "fr",
+  "keys": [
+   "fr1173"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "attestation des états de service effectués est réglementé par quel texte ?",
+  "lang": "fr",
+  "keys": [
+   "fr256"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quelle est la base légale de l'appel ?",
+  "lang": "fr",
+  "keys": [
+   "fr969"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quel décret ou quelle loi s'applique à litige double attribution ?",
+  "lang": "fr",
+  "keys": [
+   "fr1212"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quel décret ou quelle loi s'applique à aides sociales ?",
+  "lang": "fr",
+  "keys": [
+   "fr666"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quel décret ou quelle loi s'applique à consultation pédiatrique en urgence ?",
+  "lang": "fr",
+  "keys": [
+   "fr1633"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "permis d’exploitation pétrolière est réglementé par quel texte ?",
+  "lang": "fr",
+  "keys": [
+   "fr36"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "Quel décret ou quelle loi s'applique à forfait obstétrical ?",
+  "lang": "fr",
+  "keys": [
+   "fr1385"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما القانون أو المرسوم الذي يطبق على الرهون العقارية؟",
+  "lang": "ar",
+  "keys": [
+   "fr170"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما القانون أو المرسوم الذي يطبق على مسابقة الدخول لتخصص مكون مساعد في الكتابة بطريقة برايل؟",
+  "lang": "ar",
+  "keys": [
+   "fr1978"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما القانون أو المرسوم الذي يطبق على تصريح بميلاد طفل في الخارج ببلد يوجد به مركز لاستقبال المواطنين؟",
+  "lang": "ar",
+  "keys": [
+   "fr1193"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "مذكرة الأثر البيئي والاجتماعي: ما النص المنظم له؟",
+  "lang": "ar",
+  "keys": [
+   "fr2072"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما هو السند القانوني لالدفع بشيك أمين الصندوق؟",
+  "lang": "ar",
+  "keys": [
+   "fr315"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما القانون أو المرسوم الذي يطبق على شهادة معادلة الدبلوم؟",
+  "lang": "ar",
+  "keys": [
+   "fr221"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما هو السند القانوني لمنازعات ودعاوى الموريتانيين بالخارج أو الأجانب في موريتانيا؟",
+  "lang": "ar",
+  "keys": [
+   "fr222"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما القانون أو المرسوم الذي يطبق على إنشاء شركة؟",
+  "lang": "ar",
+  "keys": [
+   "fr790"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما القانون أو المرسوم الذي يطبق على إزالة جسم غريب؟",
+  "lang": "ar",
+  "keys": [
+   "fr1640"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "دعم المعوزين: ما النص المنظم له؟",
+  "lang": "ar",
+  "keys": [
+   "fr1382"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "شتلات مخبرية للبطاطس: ما النص المنظم له؟",
+  "lang": "ar",
+  "keys": [
+   "fr1901"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما هو السند القانوني لالمسح الضوئي؟",
+  "lang": "ar",
+  "keys": [
+   "fr1637"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ترخيص تشغيل مؤسسة تعليمية خاصة: ما النص المنظم له؟",
+  "lang": "ar",
+  "keys": [
+   "fr599"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما هو السند القانوني لتسجيل الموقع في الدليل الوطني للمواقع العلفية؟",
+  "lang": "ar",
+  "keys": [
+   "fr1919"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ما القانون أو المرسوم الذي يطبق على تصريح الإشغال؟",
+  "lang": "ar",
+  "keys": [
+   "fr189"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "تحويل التلاميذ في التعليم الثانوي -مديرية التعليم الثانوي: ما النص المنظم له؟",
+  "lang": "ar",
+  "keys": [
+   "fr1040"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "ترخيص الإعتراف: ما النص المنظم له؟",
+  "lang": "ar",
+  "keys": [
+   "fr955"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "تجهيز ملفات المنطقة الصناعية: ما النص المنظم له؟",
+  "lang": "ar",
+  "keys": [
+   "fr200"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "التعويضات والمزايا لموظفي الخدمة المدنية والمساعدين المتقاعدين أو المتوفين: ما النص المنظم له؟",
+  "lang": "ar",
+  "keys": [
+   "fr148"
+  ],
+  "field": "legal_basis"
+ },
+ {
+  "query": "الولوج إلى المعايير والوثائق المرجعية و اليقظة المعيارية: ما النص المنظم له؟",
+  "lang": "ar",
+  "keys": [
+   "fr751"
+  ],
+  "field": "legal_basis"
+ }
+]

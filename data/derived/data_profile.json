@@ -1,0 +1,360 @@
+{
+ "procedures": 836,
+ "languages": {
+  "fr+ar": 812,
+  "fr": 19,
+  "ar": 5
+ },
+ "field_completeness": {
+  "fr": {
+   "documents": {
+    "filled": 788,
+    "placeholder": 4,
+    "records": 831
+   },
+   "fee": {
+    "filled": 673,
+    "placeholder": 64,
+    "records": 831
+   },
+   "delay": {
+    "filled": 757,
+    "placeholder": 88,
+    "records": 831
+   },
+   "office": {
+    "filled": 830,
+    "placeholder": 0,
+    "records": 831
+   },
+   "reception": {
+    "filled": 803,
+    "placeholder": 1,
+    "records": 831
+   },
+   "processing": {
+    "filled": 800,
+    "placeholder": 2,
+    "records": 831
+   },
+   "delivery": {
+    "filled": 789,
+    "placeholder": 2,
+    "records": 831
+   },
+   "complaints": {
+    "filled": 731,
+    "placeholder": 11,
+    "records": 831
+   },
+   "users": {
+    "filled": 774,
+    "placeholder": 0,
+    "records": 831
+   },
+   "legal_basis": {
+    "filled": 529,
+    "placeholder": 18,
+    "records": 831
+   },
+   "contact": {
+    "filled": 652,
+    "placeholder": 0,
+    "records": 831
+   },
+   "description": {
+    "filled": 246,
+    "placeholder": 1,
+    "records": 831
+   }
+  },
+  "ar": {
+   "documents": {
+    "filled": 771,
+    "placeholder": 2,
+    "records": 817
+   },
+   "fee": {
+    "filled": 615,
+    "placeholder": 21,
+    "records": 817
+   },
+   "delay": {
+    "filled": 737,
+    "placeholder": 104,
+    "records": 817
+   },
+   "office": {
+    "filled": 814,
+    "placeholder": 0,
+    "records": 817
+   },
+   "reception": {
+    "filled": 783,
+    "placeholder": 0,
+    "records": 817
+   },
+   "processing": {
+    "filled": 782,
+    "placeholder": 0,
+    "records": 817
+   },
+   "delivery": {
+    "filled": 773,
+    "placeholder": 0,
+    "records": 817
+   },
+   "complaints": {
+    "filled": 699,
+    "placeholder": 3,
+    "records": 817
+   },
+   "users": {
+    "filled": 728,
+    "placeholder": 0,
+    "records": 817
+   },
+   "legal_basis": {
+    "filled": 518,
+    "placeholder": 7,
+    "records": 817
+   },
+   "contact": {
+    "filled": 632,
+    "placeholder": 0,
+    "records": 817
+   },
+   "description": {
+    "filled": 265,
+    "placeholder": 1,
+    "records": 817
+   }
+  }
+ },
+ "fee_kinds": {
+  "free": 327,
+  "amount": 193,
+  "missing": 158,
+  "unspecified": 64,
+  "depends": 55,
+  "other": 37,
+  "percentage": 2
+ },
+ "fee_old_currency_mentions": 4,
+ "fee_amount_mru": {
+  "n": 288,
+  "median": 2000.0,
+  "max": 3000000.0
+ },
+ "delay_buckets": {
+  "≤ 1 week": 114,
+  "≤ 2 days": 102,
+  "≤ 1 month": 115,
+  "≤ 3 months": 56,
+  "> 3 months": 20,
+  "same day": 100
+ },
+ "delay_kinds": {
+  "duration": 507,
+  "not a duration": 158,
+  "other": 97,
+  "missing": 74
+ },
+ "documents_per_procedure": {
+  "median": 1.0,
+  "mean": 2.27,
+  "none": 44,
+  "fr_ar_count_differs": 190
+ },
+ "with_legal_basis": 527,
+ "generic_contact_only": 506,
+ "generic_contacts": [
+  "45252486 mlehacen@masef,gov,mr",
+  "45258182 contact@commerce.gov.mr",
+  "46190022 anrpts.gov.mr",
+  "49667409-22470023",
+  "contact@education.gov.mr",
+  "contact@finances.gov.mr",
+  "contact@habitat.gov.mr",
+  "contact@justice.gov.mr",
+  "contact@mesrs.gov.mr",
+  "contact@peches.gov.mr",
+  "contact@petrole.gov.mr",
+  "contact@sante.gov.mr",
+  "contact@transport.gov.mr"
+ ],
+ "related_links": {
+  "total": 13160,
+  "broken": 104
+ },
+ "duplicate_titles": [
+  [
+   "fr161",
+   "fr2009"
+  ],
+  [
+   "fr138",
+   "fr262"
+  ],
+  [
+   "fr189",
+   "fr2004"
+  ],
+  [
+   "fr254",
+   "fr263"
+  ],
+  [
+   "fr320",
+   "fr818"
+  ],
+  [
+   "fr316",
+   "fr1666"
+  ],
+  [
+   "fr764",
+   "fr1839",
+   "fr1050"
+  ],
+  [
+   "fr1788",
+   "fr1161"
+  ],
+  [
+   "fr1838",
+   "fr1041"
+  ],
+  [
+   "fr1870",
+   "fr1869"
+  ],
+  [
+   "fr1992",
+   "fr1990"
+  ]
+ ],
+ "ministries": 31,
+ "least_complete_ministries": [
+  {
+   "ministry": "Ministère de la Formation Professionnelle, de l’Artisanat et des Métiers",
+   "procedures": 5,
+   "completeness": 0.467,
+   "with_legal_basis": 4,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Ministère des domaines, du patrimoine de l’état et de la reforme foncière",
+   "procedures": 30,
+   "completeness": 0.533,
+   "with_legal_basis": 17,
+   "with_conflict": 15
+  },
+  {
+   "ministry": "Commissariat à la Sécurité Alimentaire",
+   "procedures": 11,
+   "completeness": 0.576,
+   "with_legal_basis": 0,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Ministère des Affaires Islamiques et de l'Enseignement Originel",
+   "procedures": 26,
+   "completeness": 0.615,
+   "with_legal_basis": 5,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Ministère de la Culture, des Arts, de la Communication et des Relations avec le Parlement",
+   "procedures": 14,
+   "completeness": 0.667,
+   "with_legal_basis": 5,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Ministère de l’autonomisation des Jeunes, de l’Emploi, des Sports et du Service Civique",
+   "procedures": 24,
+   "completeness": 0.729,
+   "with_legal_basis": 5,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Ministère de la Fonction Publique et du Travail",
+   "procedures": 27,
+   "completeness": 0.747,
+   "with_legal_basis": 21,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Ministère de l’Intérieur, de la Promotion de la Décentralisation et du Développement Local",
+   "procedures": 70,
+   "completeness": 0.764,
+   "with_legal_basis": 59,
+   "with_conflict": 1
+  }
+ ],
+ "most_complete_ministries": [
+  {
+   "ministry": "Ministère de l’Élevage",
+   "procedures": 7,
+   "completeness": 1.0,
+   "with_legal_basis": 7,
+   "with_conflict": 1
+  },
+  {
+   "ministry": "Ministère de l'Hydraulique et de l'Assainissement",
+   "procedures": 7,
+   "completeness": 0.952,
+   "with_legal_basis": 6,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Ministère de la Justice",
+   "procedures": 37,
+   "completeness": 0.937,
+   "with_legal_basis": 34,
+   "with_conflict": 4
+  },
+  {
+   "ministry": "Ministère de l'Énergie et du Pétrole",
+   "procedures": 16,
+   "completeness": 0.927,
+   "with_legal_basis": 15,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Ministère de l'Environnement et du développement durable",
+   "procedures": 18,
+   "completeness": 0.917,
+   "with_legal_basis": 14,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Ministère de la Transformation Numérique et de la Modernisation de l’Administration",
+   "procedures": 12,
+   "completeness": 0.917,
+   "with_legal_basis": 11,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Commissariat aux Droits de l’Homme, à l’Action Humanitaire et aux Relations avec la Société Civile",
+   "procedures": 11,
+   "completeness": 0.894,
+   "with_legal_basis": 5,
+   "with_conflict": 0
+  },
+  {
+   "ministry": "Ministère de l’Éducation et de la Réforme du Système d'Enseignement",
+   "procedures": 43,
+   "completeness": 0.884,
+   "with_legal_basis": 23,
+   "with_conflict": 1
+  }
+ ],
+ "update_years": {
+  "2023": 527,
+  "2024": 190,
+  "2025": 119
+ },
+ "completeness_mean": 0.809
+}

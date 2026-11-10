@@ -1,0 +1,2517 @@
+{
+ "source_rows": 836,
+ "attachments": 242,
+ "documents": [
+  {
+   "id": "042029ad2f390b05",
+   "sha256": "042029ad2f390b0577173154661cb0d7989a1f1c43d1afef6f3f93e49dd384c9",
+   "file": "files/042029ad2f390b05.pdf",
+   "pdf": "files/042029ad2f390b05.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202404241624-formulaire location bus pdf.pdf"
+   ],
+   "labels": [
+    "Formulaire de demande de devis location bus"
+   ],
+   "procedures": [
+    597
+   ],
+   "pages": 2,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "0720b0a396e48d68",
+   "sha256": "0720b0a396e48d68880c395bd7cd4944a93e6069b6e45851265e729b525404a6",
+   "file": "files/0720b0a396e48d68.pdf",
+   "pdf": "files/0720b0a396e48d68.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202502251320-CamScanner 20-02-2025 14.37 (1).pdf",
+    "basejuridiques/202502251330-CamScanner 20-02-2025 14.37 (1).pdf",
+    "basejuridiques/202502251333-CamScanner 20-02-2025 14.37 (1).pdf",
+    "basejuridiques/202502251336-CamScanner 20-02-2025 14.37 (1).pdf",
+    "basejuridiques/202502251340-CamScanner 20-02-2025 14.37 (1).pdf"
+   ],
+   "labels": [
+    "CamScanner 20-02-2025 14.37 (1)"
+   ],
+   "procedures": [
+    313,
+    795,
+    796,
+    797,
+    800
+   ],
+   "pages": 1,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "0e99b93f59705449",
+   "sha256": "0e99b93f5970544901b76c5a2387769727370b4e4d9746ef3cc9a9f57d27cddf",
+   "file": "files/0e99b93f59705449.pdf",
+   "pdf": "files/0e99b93f59705449.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202501201525-Nouveau Décret TECHGHIL (2).pdf",
+    "basejuridiques/202501201538-Nouveau Décret TECHGHIL (2).pdf",
+    "basejuridiques/202501201539-Nouveau Décret TECHGHIL (2).pdf",
+    "basejuridiques/202501201540-Nouveau Décret TECHGHIL (2).pdf",
+    "basejuridiques/202501211101-Nouveau Décret TECHGHIL (2).pdf"
+   ],
+   "labels": [
+    "Nouveau Décret TECHGHIL"
+   ],
+   "procedures": [
+    682,
+    697,
+    702,
+    709,
+    713
+   ],
+   "pages": 9,
+   "ocr_pages": 9,
+   "script": "fra"
+  },
+  {
+   "id": "1442dd88eff6444e",
+   "sha256": "1442dd88eff6444e111b5a0ab6ea787a87304fa5847c8416f8110e03198046b9",
+   "file": "files/1442dd88eff6444e.docx",
+   "pdf": "rendered/1442dd88eff6444e.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/Demande de précision.docx"
+   ],
+   "labels": [
+    "Modèle de demande"
+   ],
+   "procedures": [
+    235
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "1771d0afc481eba5",
+   "sha256": "1771d0afc481eba5e803d27959d70c4a4dc43ee8a92489b17fd9f3a1c00a202f",
+   "file": "files/1771d0afc481eba5.docx",
+   "pdf": "rendered/1771d0afc481eba5.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/طلب توضيح بشأن المعايير والوثائق المرجعية.docx"
+   ],
+   "labels": [
+    "نموذج الطلب"
+   ],
+   "procedures": [
+    235
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "18f5643a719a5044",
+   "sha256": "18f5643a719a50444d3b147c39468af288df03a6bd500a93e104825601801909",
+   "file": "files/18f5643a719a5044.pdf",
+   "pdf": "files/18f5643a719a5044.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202312251645-مطلب حســـاب رقمـي بريدكـاش DEMANDE DE COMPTE DIGITAL.pdf",
+    "formulaires/202401261315-202312251645-مطلب حســـاب رقمـي بريدكـاش.pdf"
+   ],
+   "labels": [
+    "demande compte baridcash",
+    "مطلب حساب رقمي بريدكاش"
+   ],
+   "procedures": [
+    284
+   ],
+   "pages": 3,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "1a54db9fbff02f3b",
+   "sha256": "1a54db9fbff02f3bced169a4b97ca560f9a6fc9223b5d5035ad1b3a7f217e9e2",
+   "file": "files/1a54db9fbff02f3b.pdf",
+   "pdf": "files/1a54db9fbff02f3b.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311202222-loi_miniere_2009.fr-2.pdf",
+    "basejuridiques/202311202242-loi_miniere_2009.fr-2.pdf",
+    "basejuridiques/202311202249-loi_miniere_2009.fr-2.pdf",
+    "basejuridiques/202311202254-loi_miniere_2009.fr-2.pdf",
+    "basejuridiques/202311202259-loi_miniere_2009.fr-2.pdf",
+    "basejuridiques/202311202303-loi_miniere_2009.fr-2.pdf",
+    "basejuridiques/202311202307-loi_miniere_2009.fr-2.pdf",
+    "basejuridiques/202311202312-loi_miniere_2009.fr-2.pdf",
+    "basejuridiques/202311202316-loi_miniere_2009.fr-2.pdf",
+    "basejuridiques/202311202320-loi_miniere_2009.fr-2.pdf"
+   ],
+   "labels": [
+    "Loi 2009-026 modifiant certaines dispositions de la loi 2008.011 du 27 Avril 2008"
+   ],
+   "procedures": [
+    2,
+    40,
+    325,
+    326,
+    329,
+    330,
+    339,
+    348,
+    349,
+    354
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "241ca2869654e9a1",
+   "sha256": "241ca2869654e9a14ffca47334f70401e5defe6890243c20d13e476a390d0e67",
+   "file": "files/241ca2869654e9a1.pdf",
+   "pdf": "files/241ca2869654e9a1.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311202221-loi_2008_fr.pdf",
+    "basejuridiques/202311202241-loi_2008_fr.pdf",
+    "basejuridiques/202311202249-loi_2008_fr.pdf",
+    "basejuridiques/202311202254-loi_2008_fr.pdf",
+    "basejuridiques/202311202258-loi_2008_fr.pdf",
+    "basejuridiques/202311202303-loi_2008_fr.pdf",
+    "basejuridiques/202311202307-loi_2008_fr.pdf",
+    "basejuridiques/202311202312-loi_2008_fr.pdf",
+    "basejuridiques/202311202316-loi_2008_fr.pdf",
+    "basejuridiques/202311202320-loi_2008_fr.pdf"
+   ],
+   "labels": [
+    "Loi 2008.011 du 27 Avril 2008 portant Code Minier"
+   ],
+   "procedures": [
+    2,
+    40,
+    325,
+    326,
+    329,
+    330,
+    339,
+    348,
+    349,
+    354
+   ],
+   "pages": 41,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "26d0993678f7fb80",
+   "sha256": "26d0993678f7fb80baf80ebda2015ad7974fa6898a2e0ddfa692daba0751a417",
+   "file": "files/26d0993678f7fb80.pdf",
+   "pdf": "files/26d0993678f7fb80.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311230856-cpccafr mis à jours 2021.pdf"
+   ],
+   "labels": [
+    "La loi N° 99-035 portant CODE DE PROCEDURE CIVILE, COMMERCIALE ET ADMINISTRATIVE"
+   ],
+   "procedures": [
+    327
+   ],
+   "pages": 174,
+   "ocr_pages": 3,
+   "script": "fra"
+  },
+  {
+   "id": "279e2bd2748585af",
+   "sha256": "279e2bd2748585afe290805e21ad1f4e29b6b75b1dd9aa04260ecb4425732d48",
+   "file": "files/279e2bd2748585af.pdf",
+   "pdf": "files/279e2bd2748585af.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311151558-cep_type_definitif_-_23_octobre_2011.pdf",
+    "basejuridiques/202311151649-cep_type_definitif_-_23_octobre_2011.pdf"
+   ],
+   "labels": [
+    "Contrat Type Exploration-Production"
+   ],
+   "procedures": [
+    6,
+    27
+   ],
+   "pages": 85,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "281366588b10f047",
+   "sha256": "281366588b10f04705a5ffb54d0ea4e39119291457af5ee894ed27d27e2a81f7",
+   "file": "files/281366588b10f047.docx",
+   "pdf": "rendered/281366588b10f047.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/Modèle_Demande_Stage.docx"
+   ],
+   "labels": [
+    "Modèle de demande"
+   ],
+   "procedures": [
+    272
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "2a36f0f9eafafd9b",
+   "sha256": "2a36f0f9eafafd9b3c0c1b7a59080c96b18c2c134a43526ab4bf87c3a7c34f44",
+   "file": "files/2a36f0f9eafafd9b.pdf",
+   "pdf": "files/2a36f0f9eafafd9b.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202312261102-Bulletin d'expédition colis postaux (2).pdf",
+    "formulaires/202401261254-202312261102-Bulletin d'expédition colis postaux (2).pdf"
+   ],
+   "labels": [
+    "Bulletin d'expédition d'un colis postal",
+    "مذكرة إرسال الطرود البريدية (2)"
+   ],
+   "procedures": [
+    285
+   ],
+   "pages": 2,
+   "ocr_pages": 2,
+   "script": "fra"
+  },
+  {
+   "id": "2a5e7a97102f5028",
+   "sha256": "2a5e7a97102f50286fa02ec618bdcef644d4e27a1585238edeb94009f43db21c",
+   "file": "files/2a5e7a97102f5028.pdf",
+   "pdf": "files/2a5e7a97102f5028.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202502261316-Arrete n° 008 MASEF portant création du PNN.pdf"
+   ],
+   "labels": [
+    "Arrêté n° 008 MASEF portant création du PNN"
+   ],
+   "procedures": [
+    784
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "2b35c16822f23301",
+   "sha256": "2b35c16822f233012f301983d6a9f487f26ea6c262e980a1a02b2a2e2c6589ae",
+   "file": "files/2b35c16822f23301.pdf",
+   "pdf": "files/2b35c16822f23301.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311151554-code_des_hydrocarbures_jo.pdf",
+    "basejuridiques/202311151645-code_des_hydrocarbures_jo.pdf",
+    "basejuridiques/202311151714-code_des_hydrocarbures_jo.pdf"
+   ],
+   "labels": [
+    "Code des Hydrocarbures (Journal Officiel)"
+   ],
+   "procedures": [
+    6,
+    27,
+    319
+   ],
+   "pages": 28,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "2b89c42d7e2fb34b",
+   "sha256": "2b89c42d7e2fb34ba25f4837e42f865a06394d79a707dfc5b94184df51a1500f",
+   "file": "files/2b89c42d7e2fb34b.doc",
+   "pdf": "rendered/2b89c42d7e2fb34b.pdf",
+   "type": "doc",
+   "kind": "form",
+   "names": [
+    "formulaires/202311211235-Fomulaire DEM PEPM.doc"
+   ],
+   "labels": [
+    "FORMULAIRE DE DEMANDE D´UN PERMIS DE PETITE EXPLOITATION MINIERE"
+   ],
+   "procedures": [
+    354
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "2b985e42342e808f",
+   "sha256": "2b985e42342e808ff0acff445eb2fbd95eadb79ef72ab5aeb7710e3a05735518",
+   "file": "files/2b985e42342e808f.pdf",
+   "pdf": "files/2b985e42342e808f.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202312261142-formule émission d'un  mandat national.pdf"
+   ],
+   "labels": [
+    "Envoi d'un mandat national"
+   ],
+   "procedures": [
+    501
+   ],
+   "pages": 1,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "3327e45273ffb998",
+   "sha256": "3327e45273ffb9984e01ee70134f22a9de069e91c503d20df13955c312719b4c",
+   "file": "files/3327e45273ffb998.pdf",
+   "pdf": "files/3327e45273ffb998.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202312220847-la loi postale.pdf"
+   ],
+   "labels": [
+    "Loi postale"
+   ],
+   "procedures": [
+    285
+   ],
+   "pages": 14,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "347d681a2d9a6c14",
+   "sha256": "347d681a2d9a6c14bc9f0b44f8c9bcce974f3ada44775854db7bb51d5c45de05",
+   "file": "files/347d681a2d9a6c14.docx",
+   "pdf": "rendered/347d681a2d9a6c14.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/نموذج طلب الحصول على الوثائق.docx"
+   ],
+   "labels": [
+    "نموذج طلب"
+   ],
+   "procedures": [
+    267
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "39b73338bc01f0a2",
+   "sha256": "39b73338bc01f0a2c5d75551617e3181206c4461d4388cbd5088fb36e36a4aea",
+   "file": "files/39b73338bc01f0a2.pdf",
+   "pdf": "files/39b73338bc01f0a2.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202408051200-prix des organes CHN.pdf"
+   ],
+   "labels": [
+    "prix des organes"
+   ],
+   "procedures": [
+    683
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "39d3c2a44830cd90",
+   "sha256": "39d3c2a44830cd90b80c9d1f13bd449d7afffb8b23f3352afebb4c4be17dc2e0",
+   "file": "files/39d3c2a44830cd90.pdf",
+   "pdf": "files/39d3c2a44830cd90.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202312261200-رسوم اشتراك سنوي لصناديق بريدي.pdf"
+   ],
+   "labels": [
+    "Envoi d'un colis postal"
+   ],
+   "procedures": [
+    285
+   ],
+   "pages": 2,
+   "ocr_pages": 2,
+   "script": "ara"
+  },
+  {
+   "id": "3ac0fe7e8bcf72bc",
+   "sha256": "3ac0fe7e8bcf72bcf15952310349ecd992efeeacc3f84ceec74c5f8366999176",
+   "file": "files/3ac0fe7e8bcf72bc.pdf",
+   "pdf": "files/3ac0fe7e8bcf72bc.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202312261116-Avis de réception pour une lettre recommndéé.pdf",
+    "formulaires/202401261301-إعلان استلام إرسالية مصمونة.pdf"
+   ],
+   "labels": [
+    "Avis de réception pour une lettre recommandée",
+    "إعلان استلام إرسالية مصمونة"
+   ],
+   "procedures": [
+    316
+   ],
+   "pages": 2,
+   "ocr_pages": 2,
+   "script": "fra"
+  },
+  {
+   "id": "3b9bee048ca13a95",
+   "sha256": "3b9bee048ca13a9594102a2648fcc61e50fd05d8a7c8c8f185491a1e17abfd79",
+   "file": "files/3b9bee048ca13a95.docx",
+   "pdf": "rendered/3b9bee048ca13a95.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/طلب الترخيص بفتح مؤسسة تعليمية خاصة.docx"
+   ],
+   "labels": [
+    "نموذج طلب"
+   ],
+   "procedures": [
+    185
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "3bccfb049f151794",
+   "sha256": "3bccfb049f151794c3154978a065c1a0b2d7176093cd5aef8fdbc8ab7840fa96",
+   "file": "files/3bccfb049f151794.pdf",
+   "pdf": "files/3bccfb049f151794.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202312221128-Document requis du dossier.pdf"
+   ],
+   "labels": [
+    "Document requis du dossier"
+   ],
+   "procedures": [
+    112
+   ],
+   "pages": 1,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "3c3919e172c1646b",
+   "sha256": "3c3919e172c1646b0479b115071d6be609fc400bd840c722c3eb6f96661d59c2",
+   "file": "files/3c3919e172c1646b.pdf",
+   "pdf": "files/3c3919e172c1646b.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311230859-Code du Statut Personnel.pdf"
+   ],
+   "labels": [
+    "Loi N° 2001-052 portant Code du Statut Personnel"
+   ],
+   "procedures": [
+    155
+   ],
+   "pages": 80,
+   "ocr_pages": 2,
+   "script": "fra"
+  },
+  {
+   "id": "3c878117e46b53a0",
+   "sha256": "3c878117e46b53a039cec298cd0eb436a7e1e2ecd6e4543909ab8f35ef991fec",
+   "file": "files/3c878117e46b53a0.pdf",
+   "pdf": "files/3c878117e46b53a0.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311151614-lois_ordonnances_loi_no2021-025_completant_et_modifiant_certaines_dispositions_de_la_no2010-033_du_20_juillet_2010_modifiee_portant_code_des_hydrocarbures_.pdf",
+    "basejuridiques/202311151708-lois_ordonnances_loi_no2021-025_completant_et_modifiant_certaines_dispositions_de_la_no2010-033_du_20_juillet_2010_modifiee_portant_code_des_hydrocarbures_.pdf"
+   ],
+   "labels": [
+    "Loi n°2021-025 complétant et modifiant certaines dispositions de la n°2010-033 du 20 juillet 2010, modifiée, portant code des hydrocarbures"
+   ],
+   "procedures": [
+    6,
+    27
+   ],
+   "pages": 4,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "3e42cebd59144310",
+   "sha256": "3e42cebd591443103d0db852fbab5b1613b6ef16978c9fc3189c67f9a6be9706",
+   "file": "files/3e42cebd59144310.pdf",
+   "pdf": "files/3e42cebd59144310.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202501211449-arreté de création de MPMA (1).pdf"
+   ],
+   "labels": [
+    "arrêté de création de MPMA (1)"
+   ],
+   "procedures": [
+    731
+   ],
+   "pages": 4,
+   "ocr_pages": 4,
+   "script": "fra"
+  },
+  {
+   "id": "41537c36165801ae",
+   "sha256": "41537c36165801ae74d0a56ae7410b3c056d44ba4354a6388b05569eeadc3fb0",
+   "file": "files/41537c36165801ae.pdf",
+   "pdf": "files/41537c36165801ae.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/décret permis de chasse 2019.pdf"
+   ],
+   "labels": [
+    "décret permis chasse 2019"
+   ],
+   "procedures": [
+    251
+   ],
+   "pages": 40,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "41d8dc19d4c7252f",
+   "sha256": "41d8dc19d4c7252fbe77a175a44bc5159c907d929e4ce323ab61378b4ba69df9",
+   "file": "files/41d8dc19d4c7252f.pdf",
+   "pdf": "files/41d8dc19d4c7252f.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202502171241-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171243-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171244-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171245-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171246-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171247-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171249-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171250-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171251-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171252-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171253-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171254-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf",
+    "basejuridiques/202502171255-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf"
+   ],
+   "labels": [
+    "CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1)"
+   ],
+   "procedures": [
+    274,
+    757,
+    758,
+    759,
+    762,
+    763,
+    766,
+    768,
+    770,
+    771,
+    772,
+    773,
+    775,
+    776,
+    778,
+    780
+   ],
+   "pages": 7,
+   "ocr_pages": 7,
+   "script": "fra"
+  },
+  {
+   "id": "422996ad967100fa",
+   "sha256": "422996ad967100fac0d6f8d9e51d3bd0dd29899104e981415746a65e6c2bf44b",
+   "file": "files/422996ad967100fa.pdf",
+   "pdf": "files/422996ad967100fa.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311091224-A.FPDEPP_.PDF",
+    "basejuridiques/202311091333-A.FPDEPP_.PDF"
+   ],
+   "labels": [
+    "Arreté fixant les procedures de declaration et d'elimination des produits périmés",
+    "مقرر رقم 1030 المحدد لإجراءات التصريح بالمواد منتهية الصلاحية و إتلافها"
+   ],
+   "procedures": [
+    299
+   ],
+   "pages": 4,
+   "ocr_pages": 4,
+   "script": "fra"
+  },
+  {
+   "id": "42da9cd165a9126f",
+   "sha256": "42da9cd165a9126f2893ab9da0c4231c80fba9751d99d563b466913aa8c45edd",
+   "file": "files/42da9cd165a9126f.docx",
+   "pdf": "rendered/42da9cd165a9126f.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "basejuridiques/202312241959-Tarifs en vigueur à Mauripost.docx",
+    "formulaires/202312260828-Tarifs en vigueur à Mauripost.docx"
+   ],
+   "labels": [
+    "Affranchissement (vente de timbres)",
+    "Tarifs applicables pour les colis postaux"
+   ],
+   "procedures": [
+    285,
+    287
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "443079f008c8fa29",
+   "sha256": "443079f008c8fa29ca5b05bafda03792ad865727c9131fae196d74899d149d59",
+   "file": "files/443079f008c8fa29.docx",
+   "pdf": "rendered/443079f008c8fa29.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/M_d'enregistrement.docx"
+   ],
+   "labels": [
+    "Modèle de demande"
+   ],
+   "procedures": [
+    213
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "44501b5612a8c92a",
+   "sha256": "44501b5612a8c92a9ad2a79be9c2900e049cafa1b63733820f8d95cdb0978a1c",
+   "file": "files/44501b5612a8c92a.docx",
+   "pdf": "rendered/44501b5612a8c92a.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/Modèle de demande.docx"
+   ],
+   "labels": [
+    "Modèle de demande"
+   ],
+   "procedures": [
+    214
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "445b0091c6f87ce3",
+   "sha256": "445b0091c6f87ce3bbe0ba4a896325c4e875fd4370c824861cad7e00fd18bfae",
+   "file": "files/445b0091c6f87ce3.pdf",
+   "pdf": "files/445b0091c6f87ce3.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311151603-decret_titres_petroliers_1_.pdf",
+    "basejuridiques/202311151653-decret_titres_petroliers_1_.pdf"
+   ],
+   "labels": [
+    "Décret portant modalités d’application des articles 7,8,12,18 et 29 du Code des Hydrocarbures Bruts, relatif aux droits pétroliers"
+   ],
+   "procedures": [
+    6,
+    27
+   ],
+   "pages": 12,
+   "ocr_pages": 12,
+   "script": "fra"
+  },
+  {
+   "id": "4d1c254c3cf81614",
+   "sha256": "4d1c254c3cf816144a36fae2e86a84aa097d7a4f156e8fc6658776d9ca1d80e2",
+   "file": "files/4d1c254c3cf81614.docx",
+   "pdf": "rendered/4d1c254c3cf81614.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/طلب الفحص الطبي للتسجيل.docx"
+   ],
+   "labels": [
+    "نموذج الطلب"
+   ],
+   "procedures": [
+    213
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "4fe9f1754e855fcc",
+   "sha256": "4fe9f1754e855fcc907d987e610935b96ac2f1a7fd127e973b15b89c2ba86bae",
+   "file": "files/4fe9f1754e855fcc.pdf",
+   "pdf": "files/4fe9f1754e855fcc.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311202246-Décret Petites Mines.pdf",
+    "basejuridiques/202311202308-Décret Petites Mines.pdf",
+    "basejuridiques/202311202314-Décret Petites Mines.pdf"
+   ],
+   "labels": [
+    "Décret N°2017-134 portant sur la petite exploitation minière"
+   ],
+   "procedures": [
+    325,
+    348,
+    354
+   ],
+   "pages": 20,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "4ffe2ab55289d0d9",
+   "sha256": "4ffe2ab55289d0d973f88070855adc958e2f095ee3d762a632cd1772b9d653cf",
+   "file": "files/4ffe2ab55289d0d9.pdf",
+   "pdf": "files/4ffe2ab55289d0d9.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311202226-loi_miniere_2014-2.pdf",
+    "basejuridiques/202311202243-loi_miniere_2014-2.pdf",
+    "basejuridiques/202311202250-loi_miniere_2014-2.pdf",
+    "basejuridiques/202311202255-loi_miniere_2014-2.pdf",
+    "basejuridiques/202311202259-loi_miniere_2014-2.pdf",
+    "basejuridiques/202311202304-loi_miniere_2014-2.pdf",
+    "basejuridiques/202311202308-loi_miniere_2014-2.pdf",
+    "basejuridiques/202311202314-loi_miniere_2014-2.pdf",
+    "basejuridiques/202311202317-loi_miniere_2014-2.pdf",
+    "basejuridiques/202311202321-loi_miniere_2014-2.pdf"
+   ],
+   "labels": [
+    "Loi 2014.008 modifiant certaines dispositions de la loi 2008.011 du 27 Avril 2008"
+   ],
+   "procedures": [
+    2,
+    40,
+    325,
+    326,
+    329,
+    330,
+    339,
+    348,
+    349,
+    354
+   ],
+   "pages": 5,
+   "ocr_pages": 4,
+   "script": "fra"
+  },
+  {
+   "id": "56949005d1823bb1",
+   "sha256": "56949005d1823bb155811a405a9116c9059ed972499df0a59c7b123296d946d3",
+   "file": "files/56949005d1823bb1.pdf",
+   "pdf": "files/56949005d1823bb1.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311202232-Décret  Titre Minier Fr 2023.pdf",
+    "basejuridiques/202311202247-Décret  Titre Minier Fr 2023.pdf",
+    "basejuridiques/202311202251-Décret  Titre Minier Fr 2023.pdf",
+    "basejuridiques/202311202256-Décret  Titre Minier Fr 2023.pdf",
+    "basejuridiques/202311202300-Décret  Titre Minier Fr 2023.pdf",
+    "basejuridiques/202311202304-Décret  Titre Minier Fr 2023.pdf",
+    "basejuridiques/202311202310-Décret  Titre Minier Fr 2023.pdf",
+    "basejuridiques/202311202314-Décret  Titre Minier Fr 2023.pdf",
+    "basejuridiques/202311202318-Décret  Titre Minier Fr 2023.pdf",
+    "basejuridiques/202311202322-Décret  Titre Minier Fr 2023.pdf"
+   ],
+   "labels": [
+    "Décret N°2023-048 PM/MPME modifiant certaines dispositions du décret N°2008/159 du 04 Novembre 2008, modifié et complété, portant sur les titres miniers et de carrières",
+    "Décret N°2023-048 modifiant certaines dispositions du décret N°2008/159 du 04 Novembre 2008, modifié et complété, portant sur les titres miniers et de carrières"
+   ],
+   "procedures": [
+    2,
+    40,
+    325,
+    326,
+    329,
+    330,
+    339,
+    348,
+    349,
+    354
+   ],
+   "pages": 6,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "5845af07adff54ec",
+   "sha256": "5845af07adff54ec7ccf954806380c04f2f095ac2ec552f55e7edd3a98790704",
+   "file": "files/5845af07adff54ec.pdf",
+   "pdf": "files/5845af07adff54ec.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/demande d'enregistrement.pdf"
+   ],
+   "labels": [
+    "demande d'enregistrement"
+   ],
+   "procedures": [
+    213
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "598fd8831d52316f",
+   "sha256": "598fd8831d52316f6dfa30cbca0f6290238da422a46ed5fdae0e35ecd2e343e8",
+   "file": "files/598fd8831d52316f.docx",
+   "pdf": "rendered/598fd8831d52316f.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/طلب ترقية الدرجة.docx"
+   ],
+   "labels": [
+    "نموذج طلب"
+   ],
+   "procedures": [
+    127
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "5a77ab88b99c5a55",
+   "sha256": "5a77ab88b99c5a5578ca0f331a5bd529f48a3c4ab6235c3618a9646693da0cf9",
+   "file": "files/5a77ab88b99c5a55.pdf",
+   "pdf": "files/5a77ab88b99c5a55.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202403281622-إجراءات الحصول على بطاقة إقامة. ن. فرنسية.pdf"
+   ],
+   "labels": [
+    "Obtention d'une carte séjour"
+   ],
+   "procedures": [
+    592
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "5cb6b76ba6e4fd0b",
+   "sha256": "5cb6b76ba6e4fd0b5f94ac9a52d2fa65a20726eeb54fe92a4bc67f6b54f99acd",
+   "file": "files/5cb6b76ba6e4fd0b.pdf",
+   "pdf": "files/5cb6b76ba6e4fd0b.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311091000-Décret N° 97-030 du 05-04-97 PORTANT RÉGLEMENTATION DE LA PROFESSION DE GUIDE.pdf"
+   ],
+   "labels": [
+    "Décret N° 97-030 du 05-04-97 PORTANT RÉGLEMENTATION DE LA PROFESSION DE GUIDE"
+   ],
+   "procedures": [
+    45
+   ],
+   "pages": 3,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "6063a673b2c53210",
+   "sha256": "6063a673b2c53210ef46606be50d90e53c04692b9d81ca9fe099bcf96ef7cacb",
+   "file": "files/6063a673b2c53210.pdf",
+   "pdf": "files/6063a673b2c53210.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202312141344-02_Arrêté N°858 fixant les taux de cotisation_VF.pdf"
+   ],
+   "labels": [
+    "Arrêté N°858 MS/MF fixant les taux de cotisation et les modalités d'adhésion"
+   ],
+   "procedures": [
+    474
+   ],
+   "pages": 5,
+   "ocr_pages": 5,
+   "script": "fra"
+  },
+  {
+   "id": "6316bef67ec4fdf5",
+   "sha256": "6316bef67ec4fdf51c7477f681e84d8b02817bb9ba7c4ed41a5877066f581299",
+   "file": "files/6316bef67ec4fdf5.pdf",
+   "pdf": "files/6316bef67ec4fdf5.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/Composition_Agrement_Poulailler.pdf"
+   ],
+   "labels": [
+    "Formulaire demande d'agrément"
+   ],
+   "procedures": [
+    193
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "66ddb87886e5ec34",
+   "sha256": "66ddb87886e5ec3439a0be2a8cd65ccd6f21285dbb18c50e1193c8c1413f79b0",
+   "file": "files/66ddb87886e5ec34.pdf",
+   "pdf": "files/66ddb87886e5ec34.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311090959-Décret N° 98-026 du 18-05-98 FIXANT LES MODALITES D'AGREMENT DES ETABLISSEMENTS D'HEBERGEMENT ET DE RESTAURATION.pdf",
+    "basejuridiques/Décret N° 98-026 du 18-05-98 FIXANT LES MODALITES D'AGREMENT DES ETABLISSEMENTS D'HEBERGEMENT ET DE RESTAURATION.pdf"
+   ],
+   "labels": [
+    "Decret",
+    "Décret N° 98-026 du 18-05-98 FIXANT LES MODALITES D'AGREMENT DES ETABLISSEMENTS D'HEBERGEMENT ET DE RESTAURATION"
+   ],
+   "procedures": [
+    46,
+    48
+   ],
+   "pages": 3,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "66efd7bccbdb10b3",
+   "sha256": "66efd7bccbdb10b3abd873e6792da4e12a7fbf1fe38c137fa7ee4f4fe4d79de9",
+   "file": "files/66efd7bccbdb10b3.pdf",
+   "pdf": "files/66efd7bccbdb10b3.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202312261104-Déclaration En douane (1).pdf"
+   ],
+   "labels": [
+    "formulaire de déclaration à la douane"
+   ],
+   "procedures": [
+    285
+   ],
+   "pages": 1,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "7324f4a8a3902e13",
+   "sha256": "7324f4a8a3902e13a168da56d6065f7b5f98128dce93a1595bfeeee282c5cca2",
+   "file": "files/7324f4a8a3902e13.pdf",
+   "pdf": "files/7324f4a8a3902e13.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202502171359-Décret 184 -2007.pdf",
+    "basejuridiques/202502171400-Décret 184 -2007.pdf"
+   ],
+   "labels": [
+    "Décret 184-2007.pdf"
+   ],
+   "procedures": [
+    765,
+    790
+   ],
+   "pages": 6,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "774785179a1f9ba7",
+   "sha256": "774785179a1f9ba7e14e383627dea974a1f4f73ae78517cc72bdd3335e665b92",
+   "file": "files/774785179a1f9ba7.pdf",
+   "pdf": "files/774785179a1f9ba7.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311221116-القانون النظامي 012-1994.pdf"
+   ],
+   "labels": [
+    "القانون المتضمن النظام الاساسي للقضاة"
+   ],
+   "procedures": [
+    130
+   ],
+   "pages": 28,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "79c1b1e797c5fd5f",
+   "sha256": "79c1b1e797c5fd5f40da5f04d3ea1239cac4b252884eaddc6b14016e8cd0e786",
+   "file": "files/79c1b1e797c5fd5f.docx",
+   "pdf": "rendered/79c1b1e797c5fd5f.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/نموذج طلب رخصة سفريات.docx"
+   ],
+   "labels": [
+    "نموذج طلب رخصة سفريات"
+   ],
+   "procedures": [
+    30
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "79d71abd1b7f228c",
+   "sha256": "79d71abd1b7f228caf8b7df73819a2f0324d11b986e9a11413a2ce1c3b14cd14",
+   "file": "files/79d71abd1b7f228c.pdf",
+   "pdf": "files/79d71abd1b7f228c.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202502171306-Scann (3).pdf",
+    "basejuridiques/202502171308-Scann.pdf",
+    "basejuridiques/202502171310-Scann.pdf"
+   ],
+   "labels": [
+    "Scannpdf"
+   ],
+   "procedures": [
+    764,
+    767,
+    772,
+    779
+   ],
+   "pages": 7,
+   "ocr_pages": 7,
+   "script": "ara"
+  },
+  {
+   "id": "7b3bb4bd1ba56291",
+   "sha256": "7b3bb4bd1ba56291a749a62e5c0656ab58b66bf62919d7e7f50187ec78ab10f8",
+   "file": "files/7b3bb4bd1ba56291.docx",
+   "pdf": "rendered/7b3bb4bd1ba56291.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/M_DMD_AG.docx"
+   ],
+   "labels": [
+    "Modèle de demande"
+   ],
+   "procedures": [
+    127
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "7b73a363be0010c5",
+   "sha256": "7b73a363be0010c5d1ce46743cbae9091f1aab7e7d2f7951a077075bb3a2cfc7",
+   "file": "files/7b73a363be0010c5.pdf",
+   "pdf": "files/7b73a363be0010c5.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202408051146-modèle de demande ANAPATH.pdf"
+   ],
+   "labels": [
+    "Demande anapath"
+   ],
+   "procedures": [
+    683
+   ],
+   "pages": 1,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "7d6ddf99c2b02de7",
+   "sha256": "7d6ddf99c2b02de7c1d02696332c8905c8bd1e7ee3e1ea32d4fd40db7309653a",
+   "file": "files/7d6ddf99c2b02de7.pdf",
+   "pdf": "files/7d6ddf99c2b02de7.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311151613-code_44-2011.pdf",
+    "basejuridiques/202311151657-code_44-2011.pdf"
+   ],
+   "labels": [
+    "Loi n° 2011-044 modifiant et complétant certaines dispositions de la loi n°2010-033 du 20 juillet 2010 portant Code des Hydrocarbures Bruts"
+   ],
+   "procedures": [
+    6,
+    27
+   ],
+   "pages": 7,
+   "ocr_pages": 7,
+   "script": "fra"
+  },
+  {
+   "id": "825a07002114f437",
+   "sha256": "825a07002114f437090bbb7de62257f1192e83ba605697f1ce0b4800d1c07f95",
+   "file": "files/825a07002114f437.pdf",
+   "pdf": "files/825a07002114f437.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311202225-convention_2012_fr.pdf",
+    "basejuridiques/202311202243-convention_2012_fr.pdf",
+    "basejuridiques/202311202249-convention_2012_fr.pdf",
+    "basejuridiques/202311202255-convention_2012_fr.pdf",
+    "basejuridiques/202311202259-convention_2012_fr.pdf",
+    "basejuridiques/202311202303-convention_2012_fr.pdf",
+    "basejuridiques/202311202308-convention_2012_fr.pdf",
+    "basejuridiques/202311202313-convention_2012_fr.pdf",
+    "basejuridiques/202311202317-convention_2012_fr.pdf",
+    "basejuridiques/202311202321-convention_2012_fr.pdf"
+   ],
+   "labels": [
+    "Loi 2012-012 réglementant les conventions minières et approuvant la convention minière type",
+    "Loi 2012.012 réglementant les conventions minières et approuvant la convention minière type",
+    "Loi N°2012-012 réglementant les conventions minières et approuvant la convntion minière type"
+   ],
+   "procedures": [
+    2,
+    40,
+    325,
+    326,
+    329,
+    330,
+    339,
+    348,
+    349,
+    354
+   ],
+   "pages": 22,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "828cee1b2b0863a6",
+   "sha256": "828cee1b2b0863a6f500855c2f6517b0ea902d0b75bf8cf5d5d38905e5b04eb6",
+   "file": "files/828cee1b2b0863a6.pdf",
+   "pdf": "files/828cee1b2b0863a6.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311221102-قانون الإجراءات المدنية والتجارية والإدارية.pdf"
+   ],
+   "labels": [
+    "قانون الاجراءات المدنية و التجارية و الادارية"
+   ],
+   "procedures": [
+    155
+   ],
+   "pages": 173,
+   "ocr_pages": 1,
+   "script": "ara"
+  },
+  {
+   "id": "8306da224f65c452",
+   "sha256": "8306da224f65c4524ae5d6ff868322ba7f01070f49ffa32bcd6cdd15f6958208",
+   "file": "files/8306da224f65c452.pdf",
+   "pdf": "files/8306da224f65c452.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202312220815-Agrément BCM ¨pour Barid Cash.pdf"
+   ],
+   "labels": [
+    "Agrément Banque Centrale de Mauritanie pour l’exploitation de barid csah"
+   ],
+   "procedures": [
+    284
+   ],
+   "pages": 2,
+   "ocr_pages": 2,
+   "script": "fra"
+  },
+  {
+   "id": "859c624c89a3cd6e",
+   "sha256": "859c624c89a3cd6e087940d7b0fd8547ea10fd6fabca3e41d5dda4f9d9484d9e",
+   "file": "files/859c624c89a3cd6e.pdf",
+   "pdf": "files/859c624c89a3cd6e.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311221124-الامر القانون 012-2007.pdf"
+   ],
+   "labels": [
+    "التنظيم القضائي"
+   ],
+   "procedures": [
+    131,
+    475
+   ],
+   "pages": 18,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "860d41026d1328e9",
+   "sha256": "860d41026d1328e91f0f2659ff3a7c069289abd39f868fdc8a643859ce74e570",
+   "file": "files/860d41026d1328e9.pdf",
+   "pdf": "files/860d41026d1328e9.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311091228-OAPI-Accord-Bangui-revise-2015.pdf"
+   ],
+   "labels": [
+    "Accord de Bangui"
+   ],
+   "procedures": [
+    260
+   ],
+   "pages": 189,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "899f3f6d58c867ad",
+   "sha256": "899f3f6d58c867adc38dd19cd69f8a3cb96724640adbd954e5cfe389d41d8d63",
+   "file": "files/899f3f6d58c867ad.docx",
+   "pdf": "rendered/899f3f6d58c867ad.pdf",
+   "type": "docx",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202312251053-Décision portant révision Tarifs EMS.docx",
+    "basejuridiques/202312251101-Décision portant révision Tarifs EMS.docx"
+   ],
+   "labels": [
+    "Décision portant sur les tarifs EMS en vigueur"
+   ],
+   "procedures": [
+    295,
+    300
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "8ca35643b4a47a7d",
+   "sha256": "8ca35643b4a47a7dd6e275a0b92d2259203e926593965b84fa6b39b93072185b",
+   "file": "files/8ca35643b4a47a7d.pdf",
+   "pdf": "files/8ca35643b4a47a7d.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/decret_eie_2007.pdf"
+   ],
+   "labels": [
+    "décret EIE 2004/2007"
+   ],
+   "procedures": [
+    242
+   ],
+   "pages": 16,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "8d3714329c2af5b0",
+   "sha256": "8d3714329c2af5b0c0460d4099c692cd866cac0e708ef894d5968817eb2325bc",
+   "file": "files/8d3714329c2af5b0.pdf",
+   "pdf": "files/8d3714329c2af5b0.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/Réglement intérieur PND.pdf"
+   ],
+   "labels": [
+    "Arrêté 2000-204 règlement intérieur PND"
+   ],
+   "procedures": [
+    248
+   ],
+   "pages": 6,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "8f490cdb442d0247",
+   "sha256": "8f490cdb442d024743c58ac386ebcb4d8d4da5276f75f1320b04ae36b9e357a6",
+   "file": "files/8f490cdb442d0247.pdf",
+   "pdf": "files/8f490cdb442d0247.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202404241311-Formulaire de demande abonnement PDF.pdf"
+   ],
+   "labels": [
+    "Formulaire de demande de carte de transport"
+   ],
+   "procedures": [
+    585
+   ],
+   "pages": 2,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "90c903051fb4ffab",
+   "sha256": "90c903051fb4ffab05919f2d520260992371f518013447fecb5624064426df3a",
+   "file": "files/90c903051fb4ffab.pdf",
+   "pdf": "files/90c903051fb4ffab.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311230853-Code de Procédure Pénale.pdf",
+    "basejuridiques/202311230854-Code de Procédure Pénale.pdf",
+    "basejuridiques/202311230857-Code de Procédure Pénale.pdf",
+    "basejuridiques/202311230900-Code de Procédure Pénale.pdf",
+    "basejuridiques/202311230901-Code de Procédure Pénale.pdf"
+   ],
+   "labels": [
+    "Ordonnance n° 2007-036 portant institution du code de Procédure Pénale"
+   ],
+   "procedures": [
+    138,
+    196,
+    323,
+    327
+   ],
+   "pages": 254,
+   "ocr_pages": 2,
+   "script": "fra"
+  },
+  {
+   "id": "9254cc3ebfa52feb",
+   "sha256": "9254cc3ebfa52feb3666d7338d52ac454c920402e9a2adbbeb5dac394c0dc7a2",
+   "file": "files/9254cc3ebfa52feb.pdf",
+   "pdf": "files/9254cc3ebfa52feb.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311151611-code-hcs_modifs_loi-2015-016_1_.pdf",
+    "basejuridiques/202311151654-code-hcs_modifs_loi-2015-016_1_.pdf"
+   ],
+   "labels": [
+    "Loi N°2015-016 modifiant et complétant certaines dispositions de la Loi N°2010-033 du 20 juillet 2010, telle que modifiée par la Loi N°2011-044 du 25 octobre 2011, portant Code des Hydrocarbures Bruts"
+   ],
+   "procedures": [
+    6,
+    27
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "95ec19e4401c5ab5",
+   "sha256": "95ec19e4401c5ab54e299db3ec90ef8a0b41f67147b34cf426de07bef7c6cce0",
+   "file": "files/95ec19e4401c5ab5.pdf",
+   "pdf": "files/95ec19e4401c5ab5.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311202233-2023-049 Taxes et redevances FR.pdf",
+    "basejuridiques/202311202247-2023-049 Taxes et redevances FR.pdf",
+    "basejuridiques/202311202251-2023-049 Taxes et redevances FR.pdf",
+    "basejuridiques/202311202256-2023-049 Taxes et redevances FR.pdf",
+    "basejuridiques/202311202300-2023-049 Taxes et redevances FR.pdf",
+    "basejuridiques/202311202304-2023-049 Taxes et redevances FR.pdf",
+    "basejuridiques/202311202310-2023-049 Taxes et redevances FR.pdf",
+    "basejuridiques/202311202314-2023-049 Taxes et redevances FR.pdf",
+    "basejuridiques/202311202318-2023-049 Taxes et redevances FR.pdf",
+    "basejuridiques/202311202322-2023-049 Taxes et redevances FR.pdf"
+   ],
+   "labels": [
+    "Décret N°2023-049 PM/MPME/MF fixant les taxes et redevances minières",
+    "Décret N°2023-049 fixant les taxes et redevances minières"
+   ],
+   "procedures": [
+    2,
+    40,
+    325,
+    326,
+    329,
+    330,
+    339,
+    348,
+    349,
+    354
+   ],
+   "pages": 5,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "96ba0ae7412df0f7",
+   "sha256": "96ba0ae7412df0f7fa5c0073c6d1adb77c065e07eda3846d68d9cd4901ae0095",
+   "file": "files/96ba0ae7412df0f7.pdf",
+   "pdf": "files/96ba0ae7412df0f7.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202312141438-04_Arrêté N°0775 definissant les modalités de contractualisation avec l'offre de soins.pdf"
+   ],
+   "labels": [
+    "Arrêté N°0775 définissant les modalités de contractualisation avec l'offre de soins"
+   ],
+   "procedures": [
+    480
+   ],
+   "pages": 6,
+   "ocr_pages": 6,
+   "script": "fra"
+  },
+  {
+   "id": "994c960907b96d3c",
+   "sha256": "994c960907b96d3ce1e62e40b589995f53ac57ba464c5a86892eb222a74989eb",
+   "file": "files/994c960907b96d3c.pdf",
+   "pdf": "files/994c960907b96d3c.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202312220832-convention BID Mauripos et tPoste Tunisienne vession finale signéé.pdf",
+    "basejuridiques/202401261249-202312220832-convention BID Mauripos et tPoste Tunisienne vession finale signéé.pdf"
+   ],
+   "labels": [
+    "convention de partenariat entre la Banque Islamique de Développement, la Mauripost et la Poste Tunisienne",
+    "اتفاقية شراكة بين البنك الإسلامي للتنمية وموريبوست والبريد التونسي"
+   ],
+   "procedures": [
+    284
+   ],
+   "pages": 31,
+   "ocr_pages": 28,
+   "script": "ara"
+  },
+  {
+   "id": "a081d63ab470292d",
+   "sha256": "a081d63ab470292d9f5e48fe23188e648a6a0286dc0064701c286d40480a229e",
+   "file": "files/a081d63ab470292d.pdf",
+   "pdf": "files/a081d63ab470292d.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202312081059-Formulaire PPEM VF 15 09 2021.pdf"
+   ],
+   "labels": [
+    "FORUMULAIRE DE DEMANDE DE PERMIS DE PETITE EXPLOITATION MINERE"
+   ],
+   "procedures": [
+    354
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "a0f847d495d7a4df",
+   "sha256": "a0f847d495d7a4dffa48814550976e4b4f85913686ad5a4e6932b560c134011b",
+   "file": "files/a0f847d495d7a4df.pdf",
+   "pdf": "files/a0f847d495d7a4df.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311221126-القانون 2022-18.pdf"
+   ],
+   "labels": [
+    "النظام الاساسي للموثقين"
+   ],
+   "procedures": [
+    131,
+    475
+   ],
+   "pages": 24,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "a6f1f83b6e332608",
+   "sha256": "a6f1f83b6e332608fd598ba465704cd0ffbc3ed766106a867736ba0c6079e6ac",
+   "file": "files/a6f1f83b6e332608.pdf",
+   "pdf": "files/a6f1f83b6e332608.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311201632-odonnance2002-05.pdf",
+    "basejuridiques/202311201857-odonnance2002-05.pdf",
+    "basejuridiques/202311201908-odonnance2002-05.pdf",
+    "basejuridiques/202311201929-odonnance2002-05.pdf",
+    "basejuridiques/202311201937-odonnance2002-05.pdf",
+    "basejuridiques/202311202004-odonnance2002-05.pdf",
+    "basejuridiques/202311202118-odonnance2002-05.pdf",
+    "basejuridiques/202311202139-odonnance2002-05.pdf",
+    "basejuridiques/202311202152-odonnance2002-05.pdf",
+    "basejuridiques/202311202203-odonnance2002-05.pdf"
+   ],
+   "labels": [
+    "Décret 2019-056 fixant les conditions d'exercice des activités d'importation, d'exportation, de raffiange, de reprise en raffinerie, de stockage, d'enfûtage, de transport, de distribution et de commercialisation des Hydrocarbures",
+    "Ordonnance N°2002-05 relative aux activités aval du secteur des Hydrocarbures"
+   ],
+   "procedures": [
+    364,
+    370,
+    380,
+    384,
+    386,
+    389,
+    390,
+    393,
+    398,
+    399
+   ],
+   "pages": 13,
+   "ocr_pages": 13,
+   "script": "fra"
+  },
+  {
+   "id": "a80066e551eb1943",
+   "sha256": "a80066e551eb19438cbc682c078106bef211799cd1a45a5da80083ce250b0e69",
+   "file": "files/a80066e551eb1943.pdf",
+   "pdf": "files/a80066e551eb1943.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311221052-مدونة الاحوال الشخصية.pdf"
+   ],
+   "labels": [
+    "قانون الاحوال الشخصية"
+   ],
+   "procedures": [
+    155
+   ],
+   "pages": 67,
+   "ocr_pages": 2,
+   "script": "ara"
+  },
+  {
+   "id": "ab68479efe6b4e9c",
+   "sha256": "ab68479efe6b4e9c2bd47c9be19fe1ec5420745369b5fd6960e6f4ced215bcfb",
+   "file": "files/ab68479efe6b4e9c.pdf",
+   "pdf": "files/ab68479efe6b4e9c.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311202223-loi_modif_2012_fr.pdf",
+    "basejuridiques/202311202242-loi_modif_2012_fr.pdf",
+    "basejuridiques/202311202249-loi_modif_2012_fr.pdf",
+    "basejuridiques/202311202255-loi_modif_2012_fr.pdf",
+    "basejuridiques/202311202259-loi_modif_2012_fr.pdf",
+    "basejuridiques/202311202303-loi_modif_2012_fr.pdf",
+    "basejuridiques/202311202307-loi_modif_2012_fr.pdf",
+    "basejuridiques/202311202313-loi_modif_2012_fr.pdf",
+    "basejuridiques/202311202316-loi_modif_2012_fr.pdf",
+    "basejuridiques/202311202321-loi_modif_2012_fr.pdf"
+   ],
+   "labels": [
+    "Loi 2012-014 abrogeant et remplaçant certaines dispositions de la loi 2008.011 du 27 Avril 2008"
+   ],
+   "procedures": [
+    2,
+    40,
+    325,
+    326,
+    329,
+    330,
+    339,
+    348,
+    349,
+    354
+   ],
+   "pages": 6,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "ad76f97c95b203a3",
+   "sha256": "ad76f97c95b203a30681c105b41ea591fd499411f19a1df4967c4afd8ae5ad48",
+   "file": "files/ad76f97c95b203a3.doc",
+   "pdf": "rendered/ad76f97c95b203a3.pdf",
+   "type": "doc",
+   "kind": "form",
+   "names": [
+    "formulaires/202311211205-Fomulaire DEM AECI.doc"
+   ],
+   "labels": [
+    "FORMULAIRE DE DEMANDE D´AUTORISATION D’EXPLOITATION DE CARRIERE INDUSTRIELLE"
+   ],
+   "procedures": [
+    2
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "b0f118ae303af18e",
+   "sha256": "b0f118ae303af18ea5b5d536eac4ed4f1ef8f17a25da064e4a4ecfb76879cde9",
+   "file": "files/b0f118ae303af18e.pdf",
+   "pdf": "files/b0f118ae303af18e.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202312151001-03_Arrêté N°857 fixant les prestations de soins couvertes_VF.pdf"
+   ],
+   "labels": [
+    "Arrêté N°857 fixant les prestations de soins couvertes par la CNASS"
+   ],
+   "procedures": [
+    467
+   ],
+   "pages": 15,
+   "ocr_pages": 15,
+   "script": "fra"
+  },
+  {
+   "id": "b4ea570abbbe9e91",
+   "sha256": "b4ea570abbbe9e91580463556104053c4d1b01a2ac86c34e4edb09f1b66a49e3",
+   "file": "files/b4ea570abbbe9e91.pdf",
+   "pdf": "files/b4ea570abbbe9e91.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311161548-Arrêté d'Explosifs Fr.pdf"
+   ],
+   "labels": [
+    "Arrêté conjoint N°0696 MDN/MIDEC/MPME fixant les modalités relatives à l'ouverture et à l'exploitation des dépôts de substances explosives ainsi que leur importation en Mauritanie"
+   ],
+   "procedures": [
+    15
+   ],
+   "pages": 3,
+   "ocr_pages": 3,
+   "script": "fra"
+  },
+  {
+   "id": "b4ef24262f53592c",
+   "sha256": "b4ef24262f53592c70bfc04aad1f76e98a0111febf0755b05d88d17fa2bd59c9",
+   "file": "files/b4ef24262f53592c.pdf",
+   "pdf": "files/b4ef24262f53592c.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202505261602-arrete1487-20210001.pdf"
+   ],
+   "labels": [
+    "مقرر رقم 1487 /2021 يحدد استمارات طلبات التقييد في سجل التجارة المحلي والتصريح بالمستفيد الحقيقي واستمارات طلب التقييد و البحث في سجل الضمانات المنقولة وقائمة المستندات والوثائق المثبتة"
+   ],
+   "procedures": [
+    158
+   ],
+   "pages": 9,
+   "ocr_pages": 9,
+   "script": "ara"
+  },
+  {
+   "id": "bac85e5997756253",
+   "sha256": "bac85e599775625379789578a11d1ec4a3e5bd4fc2c52461e12523ef7b11a8cd",
+   "file": "files/bac85e5997756253.docx",
+   "pdf": "rendered/bac85e5997756253.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/نموذج طلب.docx"
+   ],
+   "labels": [
+    "نموذج طلب"
+   ],
+   "procedures": [
+    272
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "bc3409933c321ab9",
+   "sha256": "bc3409933c321ab9619795c4ba8d6690b874179883d9da5e97897f6793dbb44b",
+   "file": "files/bc3409933c321ab9.pdf",
+   "pdf": "files/bc3409933c321ab9.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202311211237-Fomulaire DEM PR.pdf"
+   ],
+   "labels": [
+    "FORMULAIRE DE DEMANDE D'UN PERMIS DE RECHERCHE"
+   ],
+   "procedures": [
+    40
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "bd4c62645a218e3f",
+   "sha256": "bd4c62645a218e3f41c3447abcc433ee02ebf5866a6a15b6d41a158c9702e36c",
+   "file": "files/bd4c62645a218e3f.pdf",
+   "pdf": "files/bd4c62645a218e3f.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202312251426-demande ouverture compte personne physique.pdf",
+    "formulaires/202312251430-demande ouverture compte.pdf",
+    "formulaires/202312251930-demande ouverture compte.pdf",
+    "formulaires/202401261307-طلب فتح حساب.pdf",
+    "formulaires/202401261311-طلب فتح حساب.pdf"
+   ],
+   "labels": [
+    "Demande ouverture d'un compte courant postal",
+    "Formulaire d'ouverture de compte d'épargne",
+    "demande ouverture compte Chèques Postaux",
+    "طلب فتح حساب"
+   ],
+   "procedures": [
+    320,
+    512
+   ],
+   "pages": 3,
+   "ocr_pages": 3,
+   "script": "fra"
+  },
+  {
+   "id": "bd60a95d3e1e55a3",
+   "sha256": "bd60a95d3e1e55a39ace94e39b914de50d49aa1b55565967bd4781edd0ef56aa",
+   "file": "files/bd60a95d3e1e55a3.pdf",
+   "pdf": "files/bd60a95d3e1e55a3.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311202231-decret_titres_miniers_fr_vf_19-10-08.pdf",
+    "basejuridiques/202311202246-decret_titres_miniers_fr_vf_19-10-08.pdf",
+    "basejuridiques/202311202250-decret_titres_miniers_fr_vf_19-10-08.pdf",
+    "basejuridiques/202311202256-decret_titres_miniers_fr_vf_19-10-08.pdf",
+    "basejuridiques/202311202300-decret_titres_miniers_fr_vf_19-10-08.pdf",
+    "basejuridiques/202311202304-decret_titres_miniers_fr_vf_19-10-08.pdf",
+    "basejuridiques/202311202309-decret_titres_miniers_fr_vf_19-10-08.pdf",
+    "basejuridiques/202311202314-decret_titres_miniers_fr_vf_19-10-08.pdf",
+    "basejuridiques/202311202317-decret_titres_miniers_fr_vf_19-10-08.pdf",
+    "basejuridiques/202311202321-decret_titres_miniers_fr_vf_19-10-08.pdf"
+   ],
+   "labels": [
+    "Décret N°2008 - 159 portant sur les titres miniers et de carrière"
+   ],
+   "procedures": [
+    2,
+    40,
+    325,
+    326,
+    329,
+    330,
+    339,
+    348,
+    349,
+    354
+   ],
+   "pages": 43,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "c3a89adaef6c0112",
+   "sha256": "c3a89adaef6c01120f30370c78870b63a1f486a78a90df89a393cc1edfe0accc",
+   "file": "files/c3a89adaef6c0112.pdf",
+   "pdf": "files/c3a89adaef6c0112.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311201427-ordonance_1984-136.pdf",
+    "basejuridiques/202311201455-ordonance_1984-136.pdf"
+   ],
+   "labels": [
+    "Ordonnance N°1984-136 portant réglement des Etablissements Classés"
+   ],
+   "procedures": [
+    367,
+    369
+   ],
+   "pages": 6,
+   "ocr_pages": 6,
+   "script": "fra"
+  },
+  {
+   "id": "c46a7334a5d93ca8",
+   "sha256": "c46a7334a5d93ca83b31afc6bdcbe617384c3793b049ba9e26155d47f4985048",
+   "file": "files/c46a7334a5d93ca8.pdf",
+   "pdf": "files/c46a7334a5d93ca8.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311090959-Décret N° 2000-05 du 18-02-00 PORTANT REGLEMENTATION DES AGENCES ET BUREAUX DE VOYAGES.pdf"
+   ],
+   "labels": [
+    "Décret N° 2000-05 du 18-02-00 PORTANT REGLEMENTATION DES AGENCES ET BUREAUX DE VOYAGES"
+   ],
+   "procedures": [
+    30
+   ],
+   "pages": 5,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "c47f01379cc35494",
+   "sha256": "c47f01379cc3549498e9890642fe3c5d31f3a74a2f0206e87bcf4846d585387f",
+   "file": "files/c47f01379cc35494.pdf",
+   "pdf": "files/c47f01379cc35494.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/Fiche individuelle.pdf"
+   ],
+   "labels": [
+    "Fiche individuelle"
+   ],
+   "procedures": [
+    213
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "c9dfb6d2d487d18c",
+   "sha256": "c9dfb6d2d487d18ce1d375dbaff102f2bc97e270a9b8f1c1c13fbd29f2e6e1cf",
+   "file": "files/c9dfb6d2d487d18c.pdf",
+   "pdf": "files/c9dfb6d2d487d18c.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/Code-2000-environnement.pdf"
+   ],
+   "labels": [
+    "Loi cadre sur l'environnement de juillet 2000"
+   ],
+   "procedures": [
+    242
+   ],
+   "pages": 17,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "ca5282ff72035bb2",
+   "sha256": "ca5282ff72035bb266d3068c372255e6c0f5db505ae37a35ba5b0932be9f1e28",
+   "file": "files/ca5282ff72035bb2.pdf",
+   "pdf": "files/ca5282ff72035bb2.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202401241208-TARIFS DES MANDTAS TOUTES CATEGORIES.pdf"
+   ],
+   "labels": [
+    "Mandat postal électronique"
+   ],
+   "procedures": [
+    291
+   ],
+   "pages": 1,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "d6ad4c195ee4dc63",
+   "sha256": "d6ad4c195ee4dc63974229f44a6280f45cc218dfc301de707cf6ec9dfff28731",
+   "file": "files/d6ad4c195ee4dc63.pdf",
+   "pdf": "files/d6ad4c195ee4dc63.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202404221608-demande d'autorisation de recherche.pdf"
+   ],
+   "labels": [
+    "demande d'autorisation de travail scientifique"
+   ],
+   "procedures": [
+    588
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "da8df5f0effe5c48",
+   "sha256": "da8df5f0effe5c48d08e87f9bfba481eb489898bf9ff0081729a2d5a8dba797c",
+   "file": "files/da8df5f0effe5c48.pdf",
+   "pdf": "files/da8df5f0effe5c48.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311161655-ordonn.156.85.pdf"
+   ],
+   "labels": [
+    "Ordonnance réglementant les Substances Explosives en République Islamique de Mauritanie"
+   ],
+   "procedures": [
+    15
+   ],
+   "pages": 3,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "dae14094a326a7f6",
+   "sha256": "dae14094a326a7f62db4433f9b8785ed811a62f25273391eb9f1e92eb52fa397",
+   "file": "files/dae14094a326a7f6.pdf",
+   "pdf": "files/dae14094a326a7f6.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202401241203-formule P3 P4_ pour un envoi EMS et EMS+.pdf",
+    "formulaires/202401241204-formule P3 P4_ pour un envoi EMS et EMS+.pdf"
+   ],
+   "labels": [
+    "Express mail service +(Courrier Rapide",
+    "Express mail service(Courrier Rapide"
+   ],
+   "procedures": [
+    295,
+    300
+   ],
+   "pages": 1,
+   "ocr_pages": 1,
+   "script": "fra"
+  },
+  {
+   "id": "db2d84f480d2d16d",
+   "sha256": "db2d84f480d2d16d573ed46a573bd399af6f089577a10f02a290deff339906cc",
+   "file": "files/db2d84f480d2d16d.pdf",
+   "pdf": "files/db2d84f480d2d16d.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/Décret portant création du PND.pdf"
+   ],
+   "labels": [
+    "Décret n°91-005"
+   ],
+   "procedures": [
+    248
+   ],
+   "pages": 5,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "db8f5e91067200f8",
+   "sha256": "db8f5e91067200f86a55001207a0a63af3577b6c5d0a91652a0eb4b96952d5da",
+   "file": "files/db8f5e91067200f8.pdf",
+   "pdf": "files/db8f5e91067200f8.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/202403131328-إجراءات الحصول على بطاقة إقامة.pdf"
+   ],
+   "labels": [
+    "إجراءات الحصول على بطاقة إقامة"
+   ],
+   "procedures": [
+    592
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "de75d5609f0ab322",
+   "sha256": "de75d5609f0ab322303a456e75886118516975f3b8ff5f01f6ae19e5e6af6dda",
+   "file": "files/de75d5609f0ab322.docx",
+   "pdf": "rendered/de75d5609f0ab322.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/Modèle_DMD_D.docx"
+   ],
+   "labels": [
+    "Modèle de demande"
+   ],
+   "procedures": [
+    191
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "e0b93a5e06c0fe30",
+   "sha256": "e0b93a5e06c0fe301b3740d33863a4cb9e52a19fb316c4ccbea9509e61da22f0",
+   "file": "files/e0b93a5e06c0fe30.docx",
+   "pdf": "rendered/e0b93a5e06c0fe30.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/Modèle_demande_d'acces.docx"
+   ],
+   "labels": [
+    "Modèle de demande"
+   ],
+   "procedures": [
+    267
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "e1327c4e2b1329d2",
+   "sha256": "e1327c4e2b1329d2e3f585478b9777e2f6e5c4414cfe4046ab7a1c360665831f",
+   "file": "files/e1327c4e2b1329d2.docx",
+   "pdf": "rendered/e1327c4e2b1329d2.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/طلب الترخيص بتسيير مؤسسة تعليمية خاصة.docx"
+   ],
+   "labels": [
+    "نموذج الطلب"
+   ],
+   "procedures": [
+    191
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "ec0304e7072f871d",
+   "sha256": "ec0304e7072f871d4efe9dc4381d7a5eab68397c64436efbffc5e30e12091e06",
+   "file": "files/ec0304e7072f871d.pdf",
+   "pdf": "files/ec0304e7072f871d.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311201627-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf",
+    "basejuridiques/202311201855-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf",
+    "basejuridiques/202311201908-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf",
+    "basejuridiques/202311201929-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf",
+    "basejuridiques/202311201937-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf",
+    "basejuridiques/202311202003-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf",
+    "basejuridiques/202311202118-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf",
+    "basejuridiques/202311202138-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf",
+    "basejuridiques/202311202152-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf",
+    "basejuridiques/202311202203-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf"
+   ],
+   "labels": [
+    "Décret 2019-056 fixant les conditions d'exercice des activités d'importation, d'exportation, de raffiange, de reprise en raffinerie, de stockage, d'enfûtage, de transport, de distribution et de commercialisation des Hydrocarbures"
+   ],
+   "procedures": [
+    364,
+    370,
+    380,
+    384,
+    386,
+    389,
+    390,
+    393,
+    398,
+    399
+   ],
+   "pages": 19,
+   "ocr_pages": 19,
+   "script": "fra"
+  },
+  {
+   "id": "ec428527edf2e19b",
+   "sha256": "ec428527edf2e19b10e0f23088e58aac7421db078e4ca6fe9b65ce374bdc18ab",
+   "file": "files/ec428527edf2e19b.docx",
+   "pdf": "rendered/ec428527edf2e19b.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/Modèle_DMD_O.docx"
+   ],
+   "labels": [
+    "Modèle de demande"
+   ],
+   "procedures": [
+    185
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "ed308663cdb83641",
+   "sha256": "ed308663cdb83641ac705fdeef89f6e90c84d06a0aa0b7ee9147a92d6faca38e",
+   "file": "files/ed308663cdb83641.pdf",
+   "pdf": "files/ed308663cdb83641.pdf",
+   "type": "pdf",
+   "kind": "legal_text",
+   "names": [
+    "basejuridiques/202311201422-arrete_348_13mai2019_etablissements_classees_fr.pdf",
+    "basejuridiques/202311201453-arrete_348_13mai2019_etablissements_classees_fr.pdf"
+   ],
+   "labels": [
+    "Arrêté N°348 - 2019 déterminant les formes des demandes de déclaration ou d'autorisation de création, d'exploitation, de suspension et de fermeture des Etablissements Classés",
+    "Arrêté N°348 / MPEM déterminant les formes des demandes de déclaration ou d'autorisation de création, d'exploitation, de suspension et de fermeture des Etablissements Classés"
+   ],
+   "procedures": [
+    367,
+    369
+   ],
+   "pages": 10,
+   "ocr_pages": 10,
+   "script": "fra"
+  },
+  {
+   "id": "f075eb71d64d4b20",
+   "sha256": "f075eb71d64d4b2027fced8c15cf575ec5ff96a13fb437d1c80168eb6f217363",
+   "file": "files/f075eb71d64d4b20.docx",
+   "pdf": "rendered/f075eb71d64d4b20.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/طلب ترخيص لفتح صيدلية أو مستودع أدوية بيطرية.docx"
+   ],
+   "labels": [
+    "نموذج الطلب"
+   ],
+   "procedures": [
+    214
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "ara"
+  },
+  {
+   "id": "f4a87d54a9b16d47",
+   "sha256": "f4a87d54a9b16d472aba948daa4d3e35e1d5c2cfe5bc30f68b49a878545d7dad",
+   "file": "files/f4a87d54a9b16d47.docx",
+   "pdf": "rendered/f4a87d54a9b16d47.pdf",
+   "type": "docx",
+   "kind": "form",
+   "names": [
+    "formulaires/202311161341-Formulaire COMMERCE.docx"
+   ],
+   "labels": [
+    "Formulaire Agrément de consignation des sociétés pour une navire de commerce ou de pêche"
+   ],
+   "procedures": [
+    331
+   ],
+   "pages": 2,
+   "ocr_pages": 0,
+   "script": "fra"
+  },
+  {
+   "id": "fc0618c8e10001af",
+   "sha256": "fc0618c8e10001af8b39d6c9a836745ea52a299b66e67a2e6f48a57f5531489f",
+   "file": "files/fc0618c8e10001af.pdf",
+   "pdf": "files/fc0618c8e10001af.pdf",
+   "type": "pdf",
+   "kind": "form",
+   "names": [
+    "formulaires/demande agence modele.pdf"
+   ],
+   "labels": [
+    "Modele Demande d'Agrément pour l'Exploitation d'une Agence de Voyages"
+   ],
+   "procedures": [
+    30
+   ],
+   "pages": 1,
+   "ocr_pages": 0,
+   "script": "fra"
+  }
+ ],
+ "names": {
+  "basejuridiques/202311090959-Décret N° 2000-05 du 18-02-00 PORTANT REGLEMENTATION DES AGENCES ET BUREAUX DE VOYAGES.pdf": "c46a7334a5d93ca8",
+  "basejuridiques/202311090959-Décret N° 98-026 du 18-05-98 FIXANT LES MODALITES D'AGREMENT DES ETABLISSEMENTS D'HEBERGEMENT ET DE RESTAURATION.pdf": "66ddb87886e5ec34",
+  "basejuridiques/202311091000-Décret N° 97-030 du 05-04-97 PORTANT RÉGLEMENTATION DE LA PROFESSION DE GUIDE.pdf": "5cb6b76ba6e4fd0b",
+  "basejuridiques/202311091224-A.FPDEPP_.PDF": "422996ad967100fa",
+  "basejuridiques/202311091228-OAPI-Accord-Bangui-revise-2015.pdf": "860d41026d1328e9",
+  "basejuridiques/202311091333-A.FPDEPP_.PDF": "422996ad967100fa",
+  "basejuridiques/202311151554-code_des_hydrocarbures_jo.pdf": "2b35c16822f23301",
+  "basejuridiques/202311151558-cep_type_definitif_-_23_octobre_2011.pdf": "279e2bd2748585af",
+  "basejuridiques/202311151603-decret_titres_petroliers_1_.pdf": "445b0091c6f87ce3",
+  "basejuridiques/202311151611-code-hcs_modifs_loi-2015-016_1_.pdf": "9254cc3ebfa52feb",
+  "basejuridiques/202311151613-code_44-2011.pdf": "7d6ddf99c2b02de7",
+  "basejuridiques/202311151614-lois_ordonnances_loi_no2021-025_completant_et_modifiant_certaines_dispositions_de_la_no2010-033_du_20_juillet_2010_modifiee_portant_code_des_hydrocarbures_.pdf": "3c878117e46b53a0",
+  "basejuridiques/202311151645-code_des_hydrocarbures_jo.pdf": "2b35c16822f23301",
+  "basejuridiques/202311151649-cep_type_definitif_-_23_octobre_2011.pdf": "279e2bd2748585af",
+  "basejuridiques/202311151653-decret_titres_petroliers_1_.pdf": "445b0091c6f87ce3",
+  "basejuridiques/202311151654-code-hcs_modifs_loi-2015-016_1_.pdf": "9254cc3ebfa52feb",
+  "basejuridiques/202311151657-code_44-2011.pdf": "7d6ddf99c2b02de7",
+  "basejuridiques/202311151708-lois_ordonnances_loi_no2021-025_completant_et_modifiant_certaines_dispositions_de_la_no2010-033_du_20_juillet_2010_modifiee_portant_code_des_hydrocarbures_.pdf": "3c878117e46b53a0",
+  "basejuridiques/202311151714-code_des_hydrocarbures_jo.pdf": "2b35c16822f23301",
+  "basejuridiques/202311161548-Arrêté d'Explosifs Fr.pdf": "b4ea570abbbe9e91",
+  "basejuridiques/202311161655-ordonn.156.85.pdf": "da8df5f0effe5c48",
+  "basejuridiques/202311201422-arrete_348_13mai2019_etablissements_classees_fr.pdf": "ed308663cdb83641",
+  "basejuridiques/202311201427-ordonance_1984-136.pdf": "c3a89adaef6c0112",
+  "basejuridiques/202311201453-arrete_348_13mai2019_etablissements_classees_fr.pdf": "ed308663cdb83641",
+  "basejuridiques/202311201455-ordonance_1984-136.pdf": "c3a89adaef6c0112",
+  "basejuridiques/202311201627-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf": "ec0304e7072f871d",
+  "basejuridiques/202311201632-odonnance2002-05.pdf": "a6f1f83b6e332608",
+  "basejuridiques/202311201855-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf": "ec0304e7072f871d",
+  "basejuridiques/202311201857-odonnance2002-05.pdf": "a6f1f83b6e332608",
+  "basejuridiques/202311201908-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf": "ec0304e7072f871d",
+  "basejuridiques/202311201908-odonnance2002-05.pdf": "a6f1f83b6e332608",
+  "basejuridiques/202311201929-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf": "ec0304e7072f871d",
+  "basejuridiques/202311201929-odonnance2002-05.pdf": "a6f1f83b6e332608",
+  "basejuridiques/202311201937-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf": "ec0304e7072f871d",
+  "basejuridiques/202311201937-odonnance2002-05.pdf": "a6f1f83b6e332608",
+  "basejuridiques/202311202003-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf": "ec0304e7072f871d",
+  "basejuridiques/202311202004-odonnance2002-05.pdf": "a6f1f83b6e332608",
+  "basejuridiques/202311202118-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf": "ec0304e7072f871d",
+  "basejuridiques/202311202118-odonnance2002-05.pdf": "a6f1f83b6e332608",
+  "basejuridiques/202311202138-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf": "ec0304e7072f871d",
+  "basejuridiques/202311202139-odonnance2002-05.pdf": "a6f1f83b6e332608",
+  "basejuridiques/202311202152-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf": "ec0304e7072f871d",
+  "basejuridiques/202311202152-odonnance2002-05.pdf": "a6f1f83b6e332608",
+  "basejuridiques/202311202203-decret_2019_056_abrogeant_remplacant_dec024_2005_fr.pdf": "ec0304e7072f871d",
+  "basejuridiques/202311202203-odonnance2002-05.pdf": "a6f1f83b6e332608",
+  "basejuridiques/202311202221-loi_2008_fr.pdf": "241ca2869654e9a1",
+  "basejuridiques/202311202222-loi_miniere_2009.fr-2.pdf": "1a54db9fbff02f3b",
+  "basejuridiques/202311202223-loi_modif_2012_fr.pdf": "ab68479efe6b4e9c",
+  "basejuridiques/202311202225-convention_2012_fr.pdf": "825a07002114f437",
+  "basejuridiques/202311202226-loi_miniere_2014-2.pdf": "4ffe2ab55289d0d9",
+  "basejuridiques/202311202231-decret_titres_miniers_fr_vf_19-10-08.pdf": "bd60a95d3e1e55a3",
+  "basejuridiques/202311202232-Décret  Titre Minier Fr 2023.pdf": "56949005d1823bb1",
+  "basejuridiques/202311202233-2023-049 Taxes et redevances FR.pdf": "95ec19e4401c5ab5",
+  "basejuridiques/202311202241-loi_2008_fr.pdf": "241ca2869654e9a1",
+  "basejuridiques/202311202242-loi_miniere_2009.fr-2.pdf": "1a54db9fbff02f3b",
+  "basejuridiques/202311202242-loi_modif_2012_fr.pdf": "ab68479efe6b4e9c",
+  "basejuridiques/202311202243-convention_2012_fr.pdf": "825a07002114f437",
+  "basejuridiques/202311202243-loi_miniere_2014-2.pdf": "4ffe2ab55289d0d9",
+  "basejuridiques/202311202246-Décret Petites Mines.pdf": "4fe9f1754e855fcc",
+  "basejuridiques/202311202246-decret_titres_miniers_fr_vf_19-10-08.pdf": "bd60a95d3e1e55a3",
+  "basejuridiques/202311202247-2023-049 Taxes et redevances FR.pdf": "95ec19e4401c5ab5",
+  "basejuridiques/202311202247-Décret  Titre Minier Fr 2023.pdf": "56949005d1823bb1",
+  "basejuridiques/202311202249-convention_2012_fr.pdf": "825a07002114f437",
+  "basejuridiques/202311202249-loi_2008_fr.pdf": "241ca2869654e9a1",
+  "basejuridiques/202311202249-loi_miniere_2009.fr-2.pdf": "1a54db9fbff02f3b",
+  "basejuridiques/202311202249-loi_modif_2012_fr.pdf": "ab68479efe6b4e9c",
+  "basejuridiques/202311202250-decret_titres_miniers_fr_vf_19-10-08.pdf": "bd60a95d3e1e55a3",
+  "basejuridiques/202311202250-loi_miniere_2014-2.pdf": "4ffe2ab55289d0d9",
+  "basejuridiques/202311202251-2023-049 Taxes et redevances FR.pdf": "95ec19e4401c5ab5",
+  "basejuridiques/202311202251-Décret  Titre Minier Fr 2023.pdf": "56949005d1823bb1",
+  "basejuridiques/202311202254-loi_2008_fr.pdf": "241ca2869654e9a1",
+  "basejuridiques/202311202254-loi_miniere_2009.fr-2.pdf": "1a54db9fbff02f3b",
+  "basejuridiques/202311202255-convention_2012_fr.pdf": "825a07002114f437",
+  "basejuridiques/202311202255-loi_miniere_2014-2.pdf": "4ffe2ab55289d0d9",
+  "basejuridiques/202311202255-loi_modif_2012_fr.pdf": "ab68479efe6b4e9c",
+  "basejuridiques/202311202256-2023-049 Taxes et redevances FR.pdf": "95ec19e4401c5ab5",
+  "basejuridiques/202311202256-Décret  Titre Minier Fr 2023.pdf": "56949005d1823bb1",
+  "basejuridiques/202311202256-decret_titres_miniers_fr_vf_19-10-08.pdf": "bd60a95d3e1e55a3",
+  "basejuridiques/202311202258-loi_2008_fr.pdf": "241ca2869654e9a1",
+  "basejuridiques/202311202259-convention_2012_fr.pdf": "825a07002114f437",
+  "basejuridiques/202311202259-loi_miniere_2009.fr-2.pdf": "1a54db9fbff02f3b",
+  "basejuridiques/202311202259-loi_miniere_2014-2.pdf": "4ffe2ab55289d0d9",
+  "basejuridiques/202311202259-loi_modif_2012_fr.pdf": "ab68479efe6b4e9c",
+  "basejuridiques/202311202300-2023-049 Taxes et redevances FR.pdf": "95ec19e4401c5ab5",
+  "basejuridiques/202311202300-Décret  Titre Minier Fr 2023.pdf": "56949005d1823bb1",
+  "basejuridiques/202311202300-decret_titres_miniers_fr_vf_19-10-08.pdf": "bd60a95d3e1e55a3",
+  "basejuridiques/202311202303-convention_2012_fr.pdf": "825a07002114f437",
+  "basejuridiques/202311202303-loi_2008_fr.pdf": "241ca2869654e9a1",
+  "basejuridiques/202311202303-loi_miniere_2009.fr-2.pdf": "1a54db9fbff02f3b",
+  "basejuridiques/202311202303-loi_modif_2012_fr.pdf": "ab68479efe6b4e9c",
+  "basejuridiques/202311202304-2023-049 Taxes et redevances FR.pdf": "95ec19e4401c5ab5",
+  "basejuridiques/202311202304-Décret  Titre Minier Fr 2023.pdf": "56949005d1823bb1",
+  "basejuridiques/202311202304-decret_titres_miniers_fr_vf_19-10-08.pdf": "bd60a95d3e1e55a3",
+  "basejuridiques/202311202304-loi_miniere_2014-2.pdf": "4ffe2ab55289d0d9",
+  "basejuridiques/202311202307-loi_2008_fr.pdf": "241ca2869654e9a1",
+  "basejuridiques/202311202307-loi_miniere_2009.fr-2.pdf": "1a54db9fbff02f3b",
+  "basejuridiques/202311202307-loi_modif_2012_fr.pdf": "ab68479efe6b4e9c",
+  "basejuridiques/202311202308-Décret Petites Mines.pdf": "4fe9f1754e855fcc",
+  "basejuridiques/202311202308-convention_2012_fr.pdf": "825a07002114f437",
+  "basejuridiques/202311202308-loi_miniere_2014-2.pdf": "4ffe2ab55289d0d9",
+  "basejuridiques/202311202309-decret_titres_miniers_fr_vf_19-10-08.pdf": "bd60a95d3e1e55a3",
+  "basejuridiques/202311202310-2023-049 Taxes et redevances FR.pdf": "95ec19e4401c5ab5",
+  "basejuridiques/202311202310-Décret  Titre Minier Fr 2023.pdf": "56949005d1823bb1",
+  "basejuridiques/202311202312-loi_2008_fr.pdf": "241ca2869654e9a1",
+  "basejuridiques/202311202312-loi_miniere_2009.fr-2.pdf": "1a54db9fbff02f3b",
+  "basejuridiques/202311202313-convention_2012_fr.pdf": "825a07002114f437",
+  "basejuridiques/202311202313-loi_modif_2012_fr.pdf": "ab68479efe6b4e9c",
+  "basejuridiques/202311202314-2023-049 Taxes et redevances FR.pdf": "95ec19e4401c5ab5",
+  "basejuridiques/202311202314-Décret  Titre Minier Fr 2023.pdf": "56949005d1823bb1",
+  "basejuridiques/202311202314-Décret Petites Mines.pdf": "4fe9f1754e855fcc",
+  "basejuridiques/202311202314-decret_titres_miniers_fr_vf_19-10-08.pdf": "bd60a95d3e1e55a3",
+  "basejuridiques/202311202314-loi_miniere_2014-2.pdf": "4ffe2ab55289d0d9",
+  "basejuridiques/202311202316-loi_2008_fr.pdf": "241ca2869654e9a1",
+  "basejuridiques/202311202316-loi_miniere_2009.fr-2.pdf": "1a54db9fbff02f3b",
+  "basejuridiques/202311202316-loi_modif_2012_fr.pdf": "ab68479efe6b4e9c",
+  "basejuridiques/202311202317-convention_2012_fr.pdf": "825a07002114f437",
+  "basejuridiques/202311202317-decret_titres_miniers_fr_vf_19-10-08.pdf": "bd60a95d3e1e55a3",
+  "basejuridiques/202311202317-loi_miniere_2014-2.pdf": "4ffe2ab55289d0d9",
+  "basejuridiques/202311202318-2023-049 Taxes et redevances FR.pdf": "95ec19e4401c5ab5",
+  "basejuridiques/202311202318-Décret  Titre Minier Fr 2023.pdf": "56949005d1823bb1",
+  "basejuridiques/202311202320-loi_2008_fr.pdf": "241ca2869654e9a1",
+  "basejuridiques/202311202320-loi_miniere_2009.fr-2.pdf": "1a54db9fbff02f3b",
+  "basejuridiques/202311202321-convention_2012_fr.pdf": "825a07002114f437",
+  "basejuridiques/202311202321-decret_titres_miniers_fr_vf_19-10-08.pdf": "bd60a95d3e1e55a3",
+  "basejuridiques/202311202321-loi_miniere_2014-2.pdf": "4ffe2ab55289d0d9",
+  "basejuridiques/202311202321-loi_modif_2012_fr.pdf": "ab68479efe6b4e9c",
+  "basejuridiques/202311202322-2023-049 Taxes et redevances FR.pdf": "95ec19e4401c5ab5",
+  "basejuridiques/202311202322-Décret  Titre Minier Fr 2023.pdf": "56949005d1823bb1",
+  "basejuridiques/202311221052-مدونة الاحوال الشخصية.pdf": "a80066e551eb1943",
+  "basejuridiques/202311221102-قانون الإجراءات المدنية والتجارية والإدارية.pdf": "828cee1b2b0863a6",
+  "basejuridiques/202311221116-القانون النظامي 012-1994.pdf": "774785179a1f9ba7",
+  "basejuridiques/202311221124-الامر القانون 012-2007.pdf": "859c624c89a3cd6e",
+  "basejuridiques/202311221126-القانون 2022-18.pdf": "a0f847d495d7a4df",
+  "basejuridiques/202311230853-Code de Procédure Pénale.pdf": "90c903051fb4ffab",
+  "basejuridiques/202311230854-Code de Procédure Pénale.pdf": "90c903051fb4ffab",
+  "basejuridiques/202311230856-cpccafr mis à jours 2021.pdf": "26d0993678f7fb80",
+  "basejuridiques/202311230857-Code de Procédure Pénale.pdf": "90c903051fb4ffab",
+  "basejuridiques/202311230859-Code du Statut Personnel.pdf": "3c3919e172c1646b",
+  "basejuridiques/202311230900-Code de Procédure Pénale.pdf": "90c903051fb4ffab",
+  "basejuridiques/202311230901-Code de Procédure Pénale.pdf": "90c903051fb4ffab",
+  "basejuridiques/202312141344-02_Arrêté N°858 fixant les taux de cotisation_VF.pdf": "6063a673b2c53210",
+  "basejuridiques/202312141438-04_Arrêté N°0775 definissant les modalités de contractualisation avec l'offre de soins.pdf": "96ba0ae7412df0f7",
+  "basejuridiques/202312151001-03_Arrêté N°857 fixant les prestations de soins couvertes_VF.pdf": "b0f118ae303af18e",
+  "basejuridiques/202312220815-Agrément BCM ¨pour Barid Cash.pdf": "8306da224f65c452",
+  "basejuridiques/202312220832-convention BID Mauripos et tPoste Tunisienne vession finale signéé.pdf": "994c960907b96d3c",
+  "basejuridiques/202312220847-la loi postale.pdf": "3327e45273ffb998",
+  "basejuridiques/202312241959-Tarifs en vigueur à Mauripost.docx": "42da9cd165a9126f",
+  "basejuridiques/202312251053-Décision portant révision Tarifs EMS.docx": "899f3f6d58c867ad",
+  "basejuridiques/202312251101-Décision portant révision Tarifs EMS.docx": "899f3f6d58c867ad",
+  "basejuridiques/202312261200-رسوم اشتراك سنوي لصناديق بريدي.pdf": "39d3c2a44830cd90",
+  "basejuridiques/202401261249-202312220832-convention BID Mauripos et tPoste Tunisienne vession finale signéé.pdf": "994c960907b96d3c",
+  "basejuridiques/202501201525-Nouveau Décret TECHGHIL (2).pdf": "0e99b93f59705449",
+  "basejuridiques/202501201538-Nouveau Décret TECHGHIL (2).pdf": "0e99b93f59705449",
+  "basejuridiques/202501201539-Nouveau Décret TECHGHIL (2).pdf": "0e99b93f59705449",
+  "basejuridiques/202501201540-Nouveau Décret TECHGHIL (2).pdf": "0e99b93f59705449",
+  "basejuridiques/202501211101-Nouveau Décret TECHGHIL (2).pdf": "0e99b93f59705449",
+  "basejuridiques/202501211449-arreté de création de MPMA (1).pdf": "3e42cebd59144310",
+  "basejuridiques/202502171241-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171243-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171244-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171245-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171246-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171247-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171249-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171250-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171251-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171252-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171253-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171254-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171255-CamScanner ٠٨-١٠-٢٠٢٤ ١٤.٠٥ (1).pdf": "41d8dc19d4c7252f",
+  "basejuridiques/202502171306-Scann (3).pdf": "79d71abd1b7f228c",
+  "basejuridiques/202502171308-Scann.pdf": "79d71abd1b7f228c",
+  "basejuridiques/202502171310-Scann.pdf": "79d71abd1b7f228c",
+  "basejuridiques/202502171359-Décret 184 -2007.pdf": "7324f4a8a3902e13",
+  "basejuridiques/202502171400-Décret 184 -2007.pdf": "7324f4a8a3902e13",
+  "basejuridiques/202502251320-CamScanner 20-02-2025 14.37 (1).pdf": "0720b0a396e48d68",
+  "basejuridiques/202502251330-CamScanner 20-02-2025 14.37 (1).pdf": "0720b0a396e48d68",
+  "basejuridiques/202502251333-CamScanner 20-02-2025 14.37 (1).pdf": "0720b0a396e48d68",
+  "basejuridiques/202502251336-CamScanner 20-02-2025 14.37 (1).pdf": "0720b0a396e48d68",
+  "basejuridiques/202502251340-CamScanner 20-02-2025 14.37 (1).pdf": "0720b0a396e48d68",
+  "basejuridiques/202502261316-Arrete n° 008 MASEF portant création du PNN.pdf": "2a5e7a97102f5028",
+  "basejuridiques/202505261602-arrete1487-20210001.pdf": "b4ef24262f53592c",
+  "basejuridiques/Code-2000-environnement.pdf": "c9dfb6d2d487d18c",
+  "basejuridiques/Décret N° 98-026 du 18-05-98 FIXANT LES MODALITES D'AGREMENT DES ETABLISSEMENTS D'HEBERGEMENT ET DE RESTAURATION.pdf": "66ddb87886e5ec34",
+  "basejuridiques/Décret portant création du PND.pdf": "db2d84f480d2d16d",
+  "basejuridiques/Réglement intérieur PND.pdf": "8d3714329c2af5b0",
+  "basejuridiques/decret_eie_2007.pdf": "8ca35643b4a47a7d",
+  "basejuridiques/décret permis de chasse 2019.pdf": "41537c36165801ae",
+  "formulaires/202311161341-Formulaire COMMERCE.docx": "f4a87d54a9b16d47",
+  "formulaires/202311211205-Fomulaire DEM AECI.doc": "ad76f97c95b203a3",
+  "formulaires/202311211235-Fomulaire DEM PEPM.doc": "2b89c42d7e2fb34b",
+  "formulaires/202311211237-Fomulaire DEM PR.pdf": "bc3409933c321ab9",
+  "formulaires/202312081059-Formulaire PPEM VF 15 09 2021.pdf": "a081d63ab470292d",
+  "formulaires/202312221128-Document requis du dossier.pdf": "3bccfb049f151794",
+  "formulaires/202312251426-demande ouverture compte personne physique.pdf": "bd4c62645a218e3f",
+  "formulaires/202312251430-demande ouverture compte.pdf": "bd4c62645a218e3f",
+  "formulaires/202312251645-مطلب حســـاب رقمـي بريدكـاش DEMANDE DE COMPTE DIGITAL.pdf": "18f5643a719a5044",
+  "formulaires/202312251930-demande ouverture compte.pdf": "bd4c62645a218e3f",
+  "formulaires/202312260828-Tarifs en vigueur à Mauripost.docx": "42da9cd165a9126f",
+  "formulaires/202312261102-Bulletin d'expédition colis postaux (2).pdf": "2a36f0f9eafafd9b",
+  "formulaires/202312261104-Déclaration En douane (1).pdf": "66efd7bccbdb10b3",
+  "formulaires/202312261116-Avis de réception pour une lettre recommndéé.pdf": "3ac0fe7e8bcf72bc",
+  "formulaires/202312261142-formule émission d'un  mandat national.pdf": "2b985e42342e808f",
+  "formulaires/202401241203-formule P3 P4_ pour un envoi EMS et EMS+.pdf": "dae14094a326a7f6",
+  "formulaires/202401241204-formule P3 P4_ pour un envoi EMS et EMS+.pdf": "dae14094a326a7f6",
+  "formulaires/202401241208-TARIFS DES MANDTAS TOUTES CATEGORIES.pdf": "ca5282ff72035bb2",
+  "formulaires/202401261254-202312261102-Bulletin d'expédition colis postaux (2).pdf": "2a36f0f9eafafd9b",
+  "formulaires/202401261301-إعلان استلام إرسالية مصمونة.pdf": "3ac0fe7e8bcf72bc",
+  "formulaires/202401261307-طلب فتح حساب.pdf": "bd4c62645a218e3f",
+  "formulaires/202401261311-طلب فتح حساب.pdf": "bd4c62645a218e3f",
+  "formulaires/202401261315-202312251645-مطلب حســـاب رقمـي بريدكـاش.pdf": "18f5643a719a5044",
+  "formulaires/202403131328-إجراءات الحصول على بطاقة إقامة.pdf": "db8f5e91067200f8",
+  "formulaires/202403281622-إجراءات الحصول على بطاقة إقامة. ن. فرنسية.pdf": "5a77ab88b99c5a55",
+  "formulaires/202404221608-demande d'autorisation de recherche.pdf": "d6ad4c195ee4dc63",
+  "formulaires/202404241311-Formulaire de demande abonnement PDF.pdf": "8f490cdb442d0247",
+  "formulaires/202404241624-formulaire location bus pdf.pdf": "042029ad2f390b05",
+  "formulaires/202408051146-modèle de demande ANAPATH.pdf": "7b73a363be0010c5",
+  "formulaires/202408051200-prix des organes CHN.pdf": "39b73338bc01f0a2",
+  "formulaires/Composition_Agrement_Poulailler.pdf": "6316bef67ec4fdf5",
+  "formulaires/Demande de précision.docx": "1442dd88eff6444e",
+  "formulaires/Fiche individuelle.pdf": "c47f01379cc35494",
+  "formulaires/M_DMD_AG.docx": "7b3bb4bd1ba56291",
+  "formulaires/M_d'enregistrement.docx": "443079f008c8fa29",
+  "formulaires/Modèle de demande.docx": "44501b5612a8c92a",
+  "formulaires/Modèle_DMD_D.docx": "de75d5609f0ab322",
+  "formulaires/Modèle_DMD_O.docx": "ec428527edf2e19b",
+  "formulaires/Modèle_Demande_Stage.docx": "281366588b10f047",
+  "formulaires/Modèle_demande_d'acces.docx": "e0b93a5e06c0fe30",
+  "formulaires/demande agence modele.pdf": "fc0618c8e10001af",
+  "formulaires/demande d'enregistrement.pdf": "5845af07adff54ec",
+  "formulaires/طلب الترخيص بتسيير مؤسسة تعليمية خاصة.docx": "e1327c4e2b1329d2",
+  "formulaires/طلب الترخيص بفتح مؤسسة تعليمية خاصة.docx": "3b9bee048ca13a95",
+  "formulaires/طلب الفحص الطبي للتسجيل.docx": "4d1c254c3cf81614",
+  "formulaires/طلب ترخيص لفتح صيدلية أو مستودع أدوية بيطرية.docx": "f075eb71d64d4b20",
+  "formulaires/طلب ترقية الدرجة.docx": "598fd8831d52316f",
+  "formulaires/طلب توضيح بشأن المعايير والوثائق المرجعية.docx": "1771d0afc481eba5",
+  "formulaires/نموذج طلب الحصول على الوثائق.docx": "347d681a2d9a6c14",
+  "formulaires/نموذج طلب رخصة سفريات.docx": "79c1b1e797c5fd5f",
+  "formulaires/نموذج طلب.docx": "bac85e5997756253"
+ },
+ "broken": [
+  {
+   "name": "basejuridiques/._Code-2000-environnement.pdf",
+   "reason": "macos_metadata_not_a_document"
+  },
+  {
+   "name": "basejuridiques/._Decret-2004-94-etude-impact-environnemental.pdf",
+   "reason": "macos_metadata_not_a_document"
+  },
+  {
+   "name": "basejuridiques/._loi sur la chasse 2018 .pdf",
+   "reason": "macos_metadata_not_a_document"
+  }
+ ]
+}

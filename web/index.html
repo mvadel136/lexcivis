@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>LexCivis</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230a6b4b'/%3E%3Cpath d='M10 7h9l5 5v13H10z' fill='none' stroke='%23fff' stroke-width='2'/%3E%3Cpath d='M13 16h8M13 20h5' stroke='%23e0b54a' stroke-width='2'/%3E%3C/svg%3E">
+<link rel="preload" href="/static/fonts/plex-arabic-arabic-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body data-view="ask">
+<a class="skip" href="#main" data-i18n="skip">انتقل إلى المحتوى</a>
+<header class="bar">
+  <div class="brand">
+    <svg class="mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8"/><path d="M10 7h9l5 5v13H10z"/><path class="line" d="M13 16h8M13 20h5"/></svg>
+    <div>
+      <p class="name">LexCivis</p>
+      <p class="brand-sub" data-i18n="tagline">دليل الإجراءات الإدارية في موريتانيا</p>
+    </div>
+  </div>
+  <nav class="views" aria-label="Sections">
+    <button type="button" data-view="ask" aria-current="page" data-i18n="nav_ask">اسأل</button>
+    <button type="button" data-view="inst" data-i18n="nav_inst">للمؤسسات</button>
+  </nav>
+  <div class="langs" role="group" aria-label="اللغة / Langue / Language">
+    <button type="button" data-lang="ar" lang="ar">عربي</button>
+    <button type="button" data-lang="fr" lang="fr">FR</button>
+    <button type="button" data-lang="en" lang="en">EN</button>
+  </div>
+</header>
+
+<main id="main">
+  <section id="view-ask" class="view ask-view" aria-labelledby="ask-title">
+    <div class="talk">
+      <div class="thread" id="thread">
+        <div class="hello" id="hello">
+          <h1 id="ask-title" data-i18n="hello">عن أي إجراء إداري تريد أن تسأل؟</h1>
+          <p data-i18n="hello_sub">اكتب سؤالك بالعربية أو الحسانية أو الفرنسية. الإجابة منقولة من البطاقة الرسمية للإجراء، ويمكنك فتح مصدرها بجانبها.</p>
+          <ul class="chips" id="examples"></ul>
+        </div>
+      </div>
+      <form id="ask-form" class="composer" novalidate>
+        <label for="q" class="sr-only" data-i18n="ask_label">سؤالك</label>
+        <div class="field">
+          <textarea id="q" rows="1" maxlength="1000" dir="auto" data-i18n-placeholder="placeholder" aria-describedby="q-error"></textarea>
+          <button type="submit" class="send" data-i18n-label="send" aria-label="أرسل"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h14M12 5l7 7-7 7"/></svg></button>
+        </div>
+        <p id="q-error" class="error-line" role="alert"></p>
+        <div class="composer-foot">
+          <label class="toggle"><input type="checkbox" id="plain"> <span data-i18n="plain">صياغة مبسطة إضافية</span></label>
+          <button type="button" class="text-btn" id="reset" data-i18n="reset" hidden>محادثة جديدة</button>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <section id="view-inst" class="view inst-view" aria-labelledby="inst-title" hidden>
+    <div class="inst">
+      <h1 id="inst-title" data-i18n="inst_title">ما تكشفه البيانات الرسمية، وكيف تتصرف المؤسسات</h1>
+      <p class="lead" data-i18n="inst_lead">هذا الجزء موجّه للإدارات وللمدققين: مشكلات حقيقية في البيانات المنشورة، وتمرين يواجه فيه خمس مؤسسات ستة أخطاء متتالية تحت قواعد مكتوبة.</p>
+
+      <h2 data-i18n="findings_title">ما وجدناه في البيانات</h2>
+      <ol class="findings" id="findings"></ol>
+
+      <h2 data-i18n="exercise_title">تمرين الحوكمة</h2>
+      <p data-i18n="exercise_lead">ستة أحداث مؤرخة تصل إلى خمس مؤسسات. كل مقترح يمر بحارس الصلاحيات وقواعد الترتيب القانوني، وكل إجراء له أثر عام ينتظر قراراً بشرياً. يُختم السجل في النهاية.</p>
+      <div class="run-bar">
+        <button type="button" class="primary" id="run-all" data-i18n="run_all">شغّل المراحل الست</button>
+        <label class="toggle"><input type="checkbox" id="use-llm"> <span data-i18n="use_llm">مقترحات يكتبها نموذج لغوي</span></label>
+      </div>
+      <p class="status-line" id="run-status" role="status"></p>
+      <div id="run-output"></div>
+      <ol class="stages" id="stage-list"></ol>
+      <details class="block" id="inject-block">
+        <summary data-i18n="inject_title">أضف حدثاً من عندك</summary>
+        <form id="inject-form" class="inject">
+          <label for="inject" data-i18n="inject_label">ما الذي يحدث</label>
+          <textarea id="inject" rows="3" maxlength="600" dir="auto"></textarea>
+          <label for="inject-q" data-i18n="inject_q_label">سؤال مواطن (اختياري)</label>
+          <input id="inject-q" maxlength="600" dir="auto">
+          <button type="submit" class="secondary" data-i18n="run_inject">شغّل مع هذا الحدث</button>
+        </form>
+      </details>
+
+      <h2 data-i18n="gaps_title">الثغرات</h2>
+      <p data-i18n="gaps_lead">ثغرات في السياسات والمعايير والتنفيذ، لكل منها دليل ومقترح ومثال من دولة أخرى.</p>
+      <div class="gaps" id="gaps"></div>
+
+      <details class="block">
+        <summary data-i18n="pipeline_title">المطابقة مع مسار ITU-T Y.3172</summary>
+        <dl class="pipeline" id="pipeline"></dl>
+      </details>
+    </div>
+  </section>
+</main>
+
+<aside id="evidence" class="evidence" aria-labelledby="ev-title" tabindex="-1">
+  <div class="ev-head">
+    <div>
+      <p class="ev-kind" id="ev-kind"></p>
+      <h2 id="ev-title" data-i18n="how_title">كيف تُبنى الإجابة</h2>
+    </div>
+    <button type="button" class="icon-btn" id="ev-close" data-i18n-label="close" aria-label="إغلاق" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+  </div>
+  <div class="ev-body" id="ev-body"></div>
+</aside>
+<div class="scrim" id="scrim" hidden></div>
+
+<footer class="foot">
+  <p data-i18n="foot">نموذج أولي مستقل مبني على البيانات العامة للإجراءات الإدارية الموريتانية والقانون 2017-020. الأحداث الموسومة «محاكاة» خيالية.</p>
+  <p id="health"></p>
+</footer>
+<script src="/static/app.js"></script>
+</body>
+</html>

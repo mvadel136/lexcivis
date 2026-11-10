@@ -1,0 +1,71 @@
+agents:
+  OPERATOR:
+    name: "Public-service AI operator (ministry in charge of digital services)"
+    role: "Runs the citizen assistant, its knowledge base and its logs. Controller of the citizens' conversation data. Coordinates the other agents."
+    may: [pause_feature, show_warning_to_users, flag_record_for_review, correct_answer_template, request_confirmation,
+          notify_authority, open_incident, publish_notice_draft, add_language_gap, transfer_logs_abroad]
+    must_not:
+      - "decide the legal fee, delay or document list of a procedure (the procedure owner decides)"
+      - "transfer personal data abroad before informing the data-protection authority (art. 22)"
+      - "let the assistant answer without a cited official source"
+    law: ["2017-020 art. 5", "2017-020 art. 7", "2017-020 art. 11", "2017-020 art. 20", "2017-020 art. 22", "2017-020 art. 46"]
+
+  PROCEDURE_OWNER:
+    name: "Line ministry that owns the procedure (e.g. land registry, fisheries, transport)"
+    role: "Authoritative source for fees, delays, required documents and legal basis of its own procedures."
+    may: [confirm_authoritative_value, request_record_update, request_confirmation, publish_notice_draft]
+    must_not:
+      - "change the AI system or its logs"
+      - "speak for another ministry's procedure"
+    law: ["the legal basis listed in its procedure record, when present"]
+
+  DATA_PROTECTION:
+    name: "Data-protection authority (Autorité de Protection des Données à caractère personnel, law 2017-020 art. 64)"
+    role: "Supervises the processing of personal data, transfers to third countries and processor contracts."
+    may: [require_notification, set_transfer_conditions, request_information, issue_warning, issue_formal_notice,
+          order_interruption_of_processing, order_data_blocking, refuse_new_purpose]
+    must_not:
+      - "operate the AI system"
+      - "decide procedure fees"
+    law: ["2017-020 art. 7", "2017-020 art. 11", "2017-020 art. 20", "2017-020 art. 21", "2017-020 art. 22",
+          "2017-020 art. 23", "2017-020 art. 64", "2017-020 art. 76", "2017-020 art. 77", "2017-020 art. 79"]
+
+  CYBER_RESPONSE:
+    name: "National cyber-incident response team"
+    role: "Handles fraud, phishing and fake official messages; coordinates warnings and takedowns."
+    may: [open_incident, publish_notice_draft, request_takedown, request_information, show_warning_to_users]
+    must_not:
+      - "authorise data transfers"
+      - "change procedure content"
+    law: ["law 2016-007 on cybercrime (offence articles for expert review)"]
+
+  CLOUD_HOST:
+    name: "Hosting provider in the UAE (data residency for the sandbox)"
+    role: "Processor: hosts the model and the logs for the operator under a written contract."
+    may: [provide_logs_to_controller, delete_on_controller_order, report_location_of_data, request_confirmation]
+    must_not:
+      - "use citizens' logs to train its own model (a processor acts only on the controller's instruction, art. 11; new purpose, art. 7)"
+      - "move data to another country on its own (arts. 20-22)"
+    law: ["2017-020 art. 7", "2017-020 art. 11", "2017-020 art. 20", "2017-020 art. 22",
+          "UAE Federal Decree-Law 45/2021 (PDPL), articles for expert review"]
+
+coordination:
+  - id: R1
+    type: order
+    rule: "Personal data may leave the country only after the operator has informed the data-protection authority and the authority's transfer conditions are approved (law 2017-020 arts. 20-22)."
+    actions: [transfer_logs_abroad]
+    requires_all: ["OPERATOR:notify_authority", "DATA_PROTECTION:set_transfer_conditions"]
+  - id: R1b
+    type: order
+    rule: "The authority sets transfer conditions after it has been informed by the controller (law 2017-020 art. 22)."
+    actions: [set_transfer_conditions]
+    requires_all: ["OPERATOR:notify_authority"]
+  - id: R2
+    type: composer
+    rule: "When the French and Arabic official records disagree, the assistant gives no single value; the procedure owner confirms."
+  - id: R3
+    type: human_gate
+    rule: "Every action with a public or legal effect is a proposal until a named human approves it; a proposal does not count as done."
+    actions: [pause_feature, show_warning_to_users, publish_notice_draft, transfer_logs_abroad, confirm_authoritative_value,
+              set_transfer_conditions, issue_warning, issue_formal_notice, order_interruption_of_processing,
+              order_data_blocking, refuse_new_purpose, request_takedown, delete_on_controller_order, provide_logs_to_controller]

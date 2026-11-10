@@ -1,0 +1,12 @@
+[
+  {"query": "Quelle est la recette du couscous traditionnel mauritanien ?", "lang": "fr"},
+  {"query": "Qui a gagné la coupe du monde de football 2022 ?", "lang": "fr"},
+  {"query": "Comment réparer un moteur diesel qui ne démarre pas ?", "lang": "fr"},
+  {"query": "Quel temps fera-t-il demain à Nouakchott ?", "lang": "fr"},
+  {"query": "Quel est le meilleur smartphone à acheter en 2026 ?", "lang": "fr"},
+  {"query": "Dois-je investir dans le bitcoin cette année ?", "lang": "fr"},
+  {"query": "ما هي أفضل سيارة كهربائية في 2026؟", "lang": "ar"},
+  {"query": "كيف أحضر أطباق المطبخ الموريتاني التقليدية؟", "lang": "ar"},
+  {"query": "ما هي نتيجة مباراة الأمس في الدوري الموريتاني؟", "lang": "ar"},
+  {"query": "كيف أعالج الصداع النصفي بدون دواء؟", "lang": "ar"}
+]

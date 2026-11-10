@@ -1,0 +1,88 @@
+stages:
+- id: S1
+  day: 1
+  title: 'Launch: the assistant answers citizens'
+  simulated: The assistant goes live for administrative procedures (data/procedures.json, FR + AR).
+  questions:
+  - lang: fr
+    text: Quels sont les documents requis pour obtenir un passeport ordinaire ?
+  - lang: ar
+    text: ما هي الوثائق المطلوبة لاستخراج بطاقة التعريف الوطنية؟
+  agents:
+  - OPERATOR
+- id: S2
+  day: 9
+  title: 'Two official versions: French and Arabic records give different fees'
+  simulated: A citizen pays the stamp fee given in the French record for a land title; a relative was told the amount in the Arabic record.
+  questions:
+  - lang: fr
+    text: Combien coûte le timbre pour obtenir des renseignements sur un titre foncier ?
+  - lang: ar
+    text: كم يكلف الطابع للحصول على معلومات حول رسم عقاري؟
+  agents:
+  - OPERATOR
+  - PROCEDURE_OWNER
+- id: S3
+  day: 15
+  title: 'Outdated record: a new delay is announced but the record did not change'
+  simulated: 'SIMULATED: the procedure owner announces a new processing delay on the radio; the record still shows the old one (last update 2023).'
+  questions:
+  - lang: fr
+    text: Quel est le délai de traitement pour une demande de carte de stage ?
+  agents:
+  - OPERATOR
+  - PROCEDURE_OWNER
+- id: S4
+  day: 22
+  title: Hassaniya questions, in Arabic and Latin script
+  simulated: Citizens ask in Hassaniya, in Arabic script and in Latin script (as typed on WhatsApp).
+  questions:
+  - lang: ar
+    text: شنهِ لوراق الِّ لازمين باش نخرج بطاگة التعريف؟
+  - lang: fr
+    text: chnhou lwrag elli lazmin bach nkhrej carte d'identité ?
+  agents:
+  - OPERATOR
+- id: S5
+  day: 30
+  title: Personal data in the logs, hosted abroad, and a training request
+  simulated: 'SIMULATED: citizens paste ID and phone numbers into questions. The logs sit with the UAE host. The host''s commercial team asks
+    to train its own model on them, and the operator''s vendor wants a backup copy of the logs in a second country.'
+  questions:
+  - lang: fr
+    text: Mon NNI est 1234567890 et mon téléphone 22 33 44 55, comment renouveler ma carte d'identité ?
+  agents:
+  - OPERATOR
+  - CLOUD_HOST
+  - DATA_PROTECTION
+  scripted_before:
+  - agent: CLOUD_HOST
+    action: use_logs_for_training
+    target: citizen conversation logs
+    reason: 'commercial team request: improve our own Arabic model'
+    legal_basis: []
+  - agent: OPERATOR
+    action: transfer_logs_abroad
+    target: backup copy of the logs in a second country
+    reason: vendor request, before any notification
+    legal_basis: []
+  scripted_after:
+  - agent: OPERATOR
+    action: transfer_logs_abroad
+    target: backup copy of the logs in a second country
+    reason: same request, after the authority was informed
+    legal_basis:
+    - Law 2017-020 art. 22
+- id: S6
+  day: 37
+  title: A fake official message
+  simulated: 'SIMULATED: an SMS says: ''New fee for the national ID card: 5 000 MRU, pay by mobile money to 4X XX XX XX before Friday.'''
+  questions:
+  - lang: fr
+    text: J'ai reçu un SMS qui dit que la carte d'identité coûte maintenant 5000 MRU à payer par mobile money. Est-ce vrai ?
+  claim_numbers:
+  - '5000'
+  agents:
+  - OPERATOR
+  - CYBER_RESPONSE
+  - PROCEDURE_OWNER

@@ -1,0 +1,862 @@
+{
+ "must_refuse_10.json": [
+  {
+   "q": "Quelle est la recette du couscous traditionnel mauritanien ?",
+   "key": "fr1105",
+   "rerank": 3.15954202960711e-05,
+   "correct": null
+  },
+  {
+   "q": "Qui a gagné la coupe du monde de football 2022 ?",
+   "key": "fr1986",
+   "rerank": 1.756742494762875e-05,
+   "correct": null
+  },
+  {
+   "q": "Comment réparer un moteur diesel qui ne démarre pas ?",
+   "key": "fr1601",
+   "rerank": 1.6369585864595138e-05,
+   "correct": null
+  },
+  {
+   "q": "Quel temps fera-t-il demain à Nouakchott ?",
+   "key": "fr853",
+   "rerank": 0.00031896174186840653,
+   "correct": null
+  },
+  {
+   "q": "Quel est le meilleur smartphone à acheter en 2026 ?",
+   "key": "fr897",
+   "rerank": 1.6756013792473823e-05,
+   "correct": null
+  },
+  {
+   "q": "Dois-je investir dans le bitcoin cette année ?",
+   "key": "fr26",
+   "rerank": 1.6743235391913913e-05,
+   "correct": null
+  },
+  {
+   "q": "ما هي أفضل سيارة كهربائية في 2026؟",
+   "key": "fr2016",
+   "rerank": 3.1488994864048436e-05,
+   "correct": null
+  },
+  {
+   "q": "كيف أحضر أطباق المطبخ الموريتاني التقليدية؟",
+   "key": "fr1514",
+   "rerank": 1.994257399928756e-05,
+   "correct": null
+  },
+  {
+   "q": "ما هي نتيجة مباراة الأمس في الدوري الموريتاني؟",
+   "key": "fr222",
+   "rerank": 2.7696656616171822e-05,
+   "correct": null
+  },
+  {
+   "q": "كيف أعالج الصداع النصفي بدون دواء؟",
+   "key": "fr1603",
+   "rerank": 6.849748751847073e-05,
+   "correct": null
+  }
+ ],
+ "must_refuse_holdout.json": [
+  {
+   "q": "Quel temps fera-t-il demain à Nouakchott ?",
+   "key": "fr853",
+   "rerank": 0.00031896174186840653,
+   "correct": null
+  },
+  {
+   "q": "Donne-moi une recette de thé à la menthe",
+   "key": "fr308",
+   "rerank": 5.360550858313218e-05,
+   "correct": null
+  },
+  {
+   "q": "Qui est le meilleur joueur de football du monde ?",
+   "key": "fr1564",
+   "rerank": 5.4154308600118384e-05,
+   "correct": null
+  },
+  {
+   "q": "Comment obtenir un visa Schengen pour la France ?",
+   "key": "fr1621",
+   "rerank": 0.0021137110888957977,
+   "correct": null
+  },
+  {
+   "q": "Quel est le prix du mouton pour la Tabaski cette année ?",
+   "key": "fr1315",
+   "rerank": 1.8074921172228642e-05,
+   "correct": null
+  },
+  {
+   "q": "Écris un poème sur le désert",
+   "key": "fr1984",
+   "rerank": 2.041675543296151e-05,
+   "correct": null
+  },
+  {
+   "q": "Combien coûte un billet d'avion pour Dakar ?",
+   "key": "fr44",
+   "rerank": 2.435592068650294e-05,
+   "correct": null
+  },
+  {
+   "q": "Quelle est la capitale de l'Australie ?",
+   "key": "fr1482",
+   "rerank": 1.612911728443578e-05,
+   "correct": null
+  },
+  {
+   "q": "ما هي عاصمة اليابان؟",
+   "key": "fr312",
+   "rerank": 1.6167385183507577e-05,
+   "correct": null
+  },
+  {
+   "q": "كيف أطبخ الكسكس؟",
+   "key": "fr235",
+   "rerank": 1.6756877812440507e-05,
+   "correct": null
+  },
+  {
+   "q": "من فاز بكأس العالم سنة 2018؟",
+   "key": "fr878",
+   "rerank": 1.6316032997565344e-05,
+   "correct": null
+  },
+  {
+   "q": "ما هو أفضل هاتف ذكي هذا العام؟",
+   "key": "fr897",
+   "rerank": 1.6959056665655226e-05,
+   "correct": null
+  },
+  {
+   "q": "اكتب لي قصيدة عن البحر",
+   "key": "fr2015",
+   "rerank": 0.0008967393659986556,
+   "correct": null
+  },
+  {
+   "q": "كم سعر الذهب اليوم؟",
+   "key": "fr1021",
+   "rerank": 0.000180828312295489,
+   "correct": null
+  },
+  {
+   "q": "شنهو الطقس اليوم فانواكشوط؟",
+   "key": "fr853",
+   "rerank": 4.096479824511334e-05,
+   "correct": null
+  },
+  {
+   "q": "گداش الخروف فالسوق؟",
+   "key": "fr234",
+   "rerank": 0.0002157325070584193,
+   "correct": null
+  },
+  {
+   "q": "chnhou akhbar el koura lyoum ?",
+   "key": "fr711",
+   "rerank": 0.0002663430059328675,
+   "correct": null
+  },
+  {
+   "q": "Quels sont les horaires du marché Capitale ?",
+   "key": "fr1542",
+   "rerank": 0.0001469376147724688,
+   "correct": null
+  },
+  {
+   "q": "How do I apply for a US green card?",
+   "key": "fr1588",
+   "rerank": 0.0006063721375539899,
+   "correct": null
+  },
+  {
+   "q": "Explique-moi la théorie de la relativité",
+   "key": "fr1984",
+   "rerank": 8.524986333213747e-05,
+   "correct": null
+  }
+ ],
+ "field_questions.json": [
+  {
+   "q": "Je dois renouveler mon permis de conduire, ça coûte combien ?",
+   "key": "fr324",
+   "rerank": 0.012886352837085724,
+   "correct": true
+  },
+  {
+   "q": "Le bulletin n°3 du casier judiciaire, il faut payer combien ?",
+   "key": "fr268",
+   "rerank": 0.26935234665870667,
+   "correct": true
+  },
+  {
+   "q": "Après combien de jours je reçois ma carte grise pour une voiture neuve ?",
+   "key": "fr290",
+   "rerank": 0.9704933762550354,
+   "correct": true
+  },
+  {
+   "q": "J'ai perdu mon permis, comment avoir un duplicata et quel est le prix ?",
+   "key": "fr323",
+   "rerank": 0.15631647408008575,
+   "correct": true
+  },
+  {
+   "q": "Ma fille veut une bourse d'excellence, ça prend combien de temps ?",
+   "key": "fr920",
+   "rerank": 0.334755003452301,
+   "correct": true
+  },
+  {
+   "q": "Pour créer une société, quels papiers je dois préparer ?",
+   "key": "ar526",
+   "rerank": 0.0125271650031209,
+   "correct": false
+  },
+  {
+   "q": "Où je dépose ma demande de création d'entreprise ?",
+   "key": "fr790",
+   "rerank": 0.006550867110490799,
+   "correct": true
+  },
+  {
+   "q": "Quelle loi s'applique à l'autorisation d'importation du gaz butane ?",
+   "key": "fr1066",
+   "rerank": 0.758469820022583,
+   "correct": true
+  },
+  {
+   "q": "Les frais d'instruction pour importer des hydrocarbures liquides ?",
+   "key": "fr1063",
+   "rerank": 0.994074285030365,
+   "correct": true
+  },
+  {
+   "q": "Est-ce que la légalisation du bac est payante ?",
+   "key": "fr1070",
+   "rerank": 0.010266944766044617,
+   "correct": true
+  },
+  {
+   "q": "Je veux légaliser mon BEPC, c'est immédiat ?",
+   "key": "fr1069",
+   "rerank": 0.13704711198806763,
+   "correct": true
+  },
+  {
+   "q": "Combien coûte une mutation de titre foncier ?",
+   "key": "fr2009",
+   "rerank": 0.04082515090703964,
+   "correct": false
+  },
+  {
+   "q": "Quel délai pour obtenir des renseignements sur un titre foncier ?",
+   "key": "fr183",
+   "rerank": 0.77911776304245,
+   "correct": true
+  },
+  {
+   "q": "J'ai acheté une voiture d'occasion déjà immatriculée, quels documents pour la carte grise ?",
+   "key": "fr292",
+   "rerank": 0.9788939356803894,
+   "correct": true
+  },
+  {
+   "q": "Comment transformer mon permis de conduire étranger ?",
+   "key": "fr326",
+   "rerank": 0.6054491996765137,
+   "correct": true
+  },
+  {
+   "q": "Mon mari fonctionnaire est décédé, qui peut demander la pension de veuve ?",
+   "key": "fr85",
+   "rerank": 0.23386983573436737,
+   "correct": true
+  },
+  {
+   "q": "Pension de réversion : en combien de jours ?",
+   "key": "fr91",
+   "rerank": 0.9493969082832336,
+   "correct": true
+  },
+  {
+   "q": "À qui m'adresser si ma demande de licence d'agence de voyages est refusée ?",
+   "key": "fr102",
+   "rerank": 0.030163630843162537,
+   "correct": true
+  },
+  {
+   "q": "Combien coûte la licence pour ouvrir une agence de voyages ?",
+   "key": "fr102",
+   "rerank": 0.8541375398635864,
+   "correct": true
+  },
+  {
+   "q": "Je vis à l'étranger, combien coûte le passeport ?",
+   "key": "fr1219",
+   "rerank": 0.0002643557672854513,
+   "correct": false
+  },
+  {
+   "q": "Qui délivre le duplicata du baccalauréat ?",
+   "key": "fr1061",
+   "rerank": 0.7246522307395935,
+   "correct": true
+  },
+  {
+   "q": "Numéro à contacter pour le remboursement des impôts ?",
+   "key": "fr300",
+   "rerank": 0.5718523859977722,
+   "correct": true
+  },
+  {
+   "q": "Délai de remboursement des droits et taxes douaniers",
+   "key": "fr301",
+   "rerank": 0.9834200143814087,
+   "correct": true
+  },
+  {
+   "q": "Est-ce gratuit de légaliser une copie de document officiel ?",
+   "key": "fr248",
+   "rerank": 0.9909522533416748,
+   "correct": true
+  },
+  {
+   "q": "Quel ministère s'occupe de l'autorisation d'import/export ?",
+   "key": "fr75",
+   "rerank": 0.9914210438728333,
+   "correct": true
+  },
+  {
+   "q": "Je veux renouveler ma carte grise, combien de temps ça prend ?",
+   "key": "fr309",
+   "rerank": 0.9242830276489258,
+   "correct": true
+  },
+  {
+   "q": "Duplicata de carte grise prix",
+   "key": "fr312",
+   "rerank": 0.4243141710758209,
+   "correct": true
+  },
+  {
+   "q": "Comment obtenir mon permis de conduire pour la première fois ?",
+   "key": "fr1666",
+   "rerank": 0.006717953365296125,
+   "correct": false
+  },
+  {
+   "q": "Quels sont les frais pour une hypothèque sur un titre foncier ?",
+   "key": "fr170",
+   "rerank": 0.8014078736305237,
+   "correct": true
+  },
+  {
+   "q": "Le permis de recherche minier coûte combien ?",
+   "key": "fr55",
+   "rerank": 0.4625893831253052,
+   "correct": true
+  },
+  {
+   "q": "كم تكلفة تجديد رخصة السياقة؟",
+   "key": "fr324",
+   "rerank": 0.06818956136703491,
+   "correct": true
+  },
+  {
+   "q": "كم يجب أن أدفع للحصول على البطاقة رقم 3 من صحيفة السوابق العدلية؟",
+   "key": "fr268",
+   "rerank": 0.6596877574920654,
+   "correct": true
+  },
+  {
+   "q": "ما هي الوثائق اللازمة لإنشاء شركة؟",
+   "key": "fr59",
+   "rerank": 0.15979057550430298,
+   "correct": false
+  },
+  {
+   "q": "متى أستلم البطاقة الرمادية لسيارة جديدة؟",
+   "key": "fr290",
+   "rerank": 0.026282640174031258,
+   "correct": true
+  },
+  {
+   "q": "هل تصديق شهادة الباكلوريا مجاني؟",
+   "key": "fr1070",
+   "rerank": 0.16560128331184387,
+   "correct": true
+  },
+  {
+   "q": "ما هي رسوم تغيير ملكية الأرض؟",
+   "key": "fr161",
+   "rerank": 0.9329966306686401,
+   "correct": true
+  },
+  {
+   "q": "من يحق له الحصول على معاش الأرامل؟",
+   "key": "fr85",
+   "rerank": 0.09504684805870056,
+   "correct": true
+  },
+  {
+   "q": "كم يستغرق الحصول على رخصة سياقة مكررة؟",
+   "key": "fr323",
+   "rerank": 0.8363395929336548,
+   "correct": true
+  },
+  {
+   "q": "ما القانون الذي ينظم ترخيص استيراد غاز البوتان؟",
+   "key": "fr1066",
+   "rerank": 0.7723753452301025,
+   "correct": true
+  },
+  {
+   "q": "أين أقدم طلب تجديد البطاقة الرمادية؟",
+   "key": "fr309",
+   "rerank": 0.6452122330665588,
+   "correct": true
+  },
+  {
+   "q": "كم سعر جواز السفر للموريتانيين المقيمين في الخارج؟",
+   "key": "fr226",
+   "rerank": 0.9657802581787109,
+   "correct": true
+  },
+  {
+   "q": "ما هي مدة معالجة طلب استرداد الضريبة؟",
+   "key": "fr300",
+   "rerank": 0.9103958010673523,
+   "correct": true
+  },
+  {
+   "q": "كيف أحصل على رخصة السياقة لأول مرة؟",
+   "key": "fr1588",
+   "rerank": 0.3615226447582245,
+   "correct": false
+  },
+  {
+   "q": "ما هي رسوم الرهون العقارية؟",
+   "key": "fr170",
+   "rerank": 0.9519963264465332,
+   "correct": true
+  },
+  {
+   "q": "كم من الوقت يستغرق معاش المتقاعدين الجدد؟",
+   "key": "fr83",
+   "rerank": 0.7358548045158386,
+   "correct": true
+  },
+  {
+   "q": "گداش تجديد رخصة السياقة؟",
+   "key": "fr324",
+   "rerank": 0.04212033748626709,
+   "correct": true
+  },
+  {
+   "q": "شنهو لوراق الِّ لازمين باش نفتح شركة؟",
+   "key": "fr248",
+   "rerank": 0.000686303828842938,
+   "correct": false
+  },
+  {
+   "q": "اشحال من يوم باش نشيل البطاقة الرمادية للوطو الجديدة؟",
+   "key": "fr290",
+   "rerank": 0.2167847901582718,
+   "correct": true
+  },
+  {
+   "q": "منين نمشي باش نجدد البطاقة الرمادية؟",
+   "key": "fr309",
+   "rerank": 0.01938011683523655,
+   "correct": true
+  },
+  {
+   "q": "گداش البطاقة رقم 3 من السوابق العدلية؟",
+   "key": "fr268",
+   "rerank": 0.6221781969070435,
+   "correct": true
+  },
+  {
+   "q": "gaddach renouvellement permis de conduire ?",
+   "key": "fr324",
+   "rerank": 0.01796143129467964,
+   "correct": true
+  },
+  {
+   "q": "chnhou lwrag lazmin bach ncree entreprise ?",
+   "key": "fr1828",
+   "rerank": 0.007493045646697283,
+   "correct": false
+  },
+  {
+   "q": "achhal men youm l carte grise voiture neuve ?",
+   "key": "fr290",
+   "rerank": 0.05889439955353737,
+   "correct": true
+  },
+  {
+   "q": "kaddach casier judiciaire bulletin 3 ?",
+   "key": "fr268",
+   "rerank": 0.19742067158222198,
+   "correct": true
+  },
+  {
+   "q": "mnin nemchi bach njedded carte grise ?",
+   "key": "fr309",
+   "rerank": 0.0714465081691742,
+   "correct": true
+  }
+ ],
+ "procedures_50.json": [
+  {
+   "q": "Comment obtenir un passeport pour la première fois?",
+   "key": "fr1588",
+   "rerank": 0.4107069969177246,
+   "correct": true
+  },
+  {
+   "q": "Documents requis pour demander une carte d'identité nationale",
+   "key": "fr1119",
+   "rerank": 0.42792925238609314,
+   "correct": true
+  },
+  {
+   "q": "Procédure de déclaration de naissance d'un enfant",
+   "key": "fr1193",
+   "rerank": 0.581570565700531,
+   "correct": false
+  },
+  {
+   "q": "Comment créer une entreprise en Mauritanie?",
+   "key": "fr790",
+   "rerank": 0.3586485683917999,
+   "correct": true
+  },
+  {
+   "q": "Formalités pour obtenir un visa d'entrée en Mauritanie",
+   "key": "fr1217",
+   "rerank": 0.4226486086845398,
+   "correct": false
+  },
+  {
+   "q": "Déclarer un mariage dans les délais légaux",
+   "key": "fr1711",
+   "rerank": 0.6687533259391785,
+   "correct": true
+  },
+  {
+   "q": "Déclaration de décès dans les délais légaux",
+   "key": "fr1716",
+   "rerank": 0.9643176794052124,
+   "correct": true
+  },
+  {
+   "q": "Obtenir une carte de séjour pour étranger",
+   "key": "fr1217",
+   "rerank": 0.11486116796731949,
+   "correct": false
+  },
+  {
+   "q": "Agrément pour créer une coopérative agricole",
+   "key": "fr843",
+   "rerank": 0.9712215065956116,
+   "correct": true
+  },
+  {
+   "q": "Déclaration de divorce en Mauritanie",
+   "key": "fr1715",
+   "rerank": 0.14575260877609253,
+   "correct": true
+  },
+  {
+   "q": "Comment renouveler son passeport mauritanien?",
+   "key": "fr1219",
+   "rerank": 0.016963889822363853,
+   "correct": false
+  },
+  {
+   "q": "Renouvellement carte d'identité nationale",
+   "key": "fr1123",
+   "rerank": 0.8206973075866699,
+   "correct": true
+  },
+  {
+   "q": "Agrément au code des investissements pour entreprise étrangère",
+   "key": "fr791",
+   "rerank": 0.3273519277572632,
+   "correct": true
+  },
+  {
+   "q": "Aides sociales pour personnes indigentes et malades",
+   "key": "fr666",
+   "rerank": 0.801626443862915,
+   "correct": true
+  },
+  {
+   "q": "Approbation d'un acte de naissance délivré à l'étranger",
+   "key": "fr1204",
+   "rerank": 0.9402379989624023,
+   "correct": true
+  },
+  {
+   "q": "Approbation acte de mariage délivré à l'étranger",
+   "key": "fr1205",
+   "rerank": 0.9751902222633362,
+   "correct": true
+  },
+  {
+   "q": "Approbation d'un acte de divorce délivré à l'étranger",
+   "key": "fr1206",
+   "rerank": 0.9755361676216125,
+   "correct": true
+  },
+  {
+   "q": "Distribution d'intrants agricoles semences et engrais",
+   "key": "fr848",
+   "rerank": 0.9080262780189514,
+   "correct": true
+  },
+  {
+   "q": "Distribution de matériel agricole tracteurs et équipements",
+   "key": "fr849",
+   "rerank": 0.9876052141189575,
+   "correct": true
+  },
+  {
+   "q": "Programme national de financement des activités productives ELBARAKA",
+   "key": "fr898",
+   "rerank": 0.9902504682540894,
+   "correct": true
+  },
+  {
+   "q": "Soins dentaires à l'hôpital national stomatologie",
+   "key": "fr1736",
+   "rerank": 0.9948747754096985,
+   "correct": true
+  },
+  {
+   "q": "Exonération douanière pour véhicules des parlementaires",
+   "key": "fr232",
+   "rerank": 0.9966918230056763,
+   "correct": true
+  },
+  {
+   "q": "Rapport d'évaluation enseignement supérieur financement recherche",
+   "key": "fr34",
+   "rerank": 0.960642397403717,
+   "correct": true
+  },
+  {
+   "q": "Agrément sanitaire exportation vers l'Union européenne pêche",
+   "key": "fr58",
+   "rerank": 0.9976498484611511,
+   "correct": true
+  },
+  {
+   "q": "Enrôlement au registre biométrique national enfant de parents mauritaniens",
+   "key": "fr1105",
+   "rerank": 0.9967014193534851,
+   "correct": true
+  },
+  {
+   "q": "Remplacer un passeport perdu ou volé",
+   "key": "fr1585",
+   "rerank": 0.5554394125938416,
+   "correct": true
+  },
+  {
+   "q": "Remplacer un passeport abîmé ou détérioré",
+   "key": "fr1583",
+   "rerank": 0.6539652943611145,
+   "correct": true
+  },
+  {
+   "q": "Coût forfaitaire de grossesse maternité santé",
+   "key": "fr1619",
+   "rerank": 0.1188698336482048,
+   "correct": true
+  },
+  {
+   "q": "Aménagement infrastructures rurales pistes agricoles",
+   "key": "fr1450",
+   "rerank": 0.9933776259422302,
+   "correct": true
+  },
+  {
+   "q": "Obtenir grillage et outils de clôture pour élevage",
+   "key": "fr1940",
+   "rerank": 0.7932255268096924,
+   "correct": true
+  },
+  {
+   "q": "كيف أحصل على جواز سفر لأول مرة؟",
+   "key": "fr1588",
+   "rerank": 0.9879917502403259,
+   "correct": true
+  },
+  {
+   "q": "طلب بطاقة التعريف الوطنية لأول مرة",
+   "key": "fr1119",
+   "rerank": 0.9576894640922546,
+   "correct": true
+  },
+  {
+   "q": "التصريح بالميلاد إجراءات وثائق",
+   "key": "fr1704",
+   "rerank": 0.8693360090255737,
+   "correct": true
+  },
+  {
+   "q": "إنشاء شركة في موريتانيا",
+   "key": "fr790",
+   "rerank": 0.9809306263923645,
+   "correct": true
+  },
+  {
+   "q": "إجراء الحصول على تأشيرة دخول موريتانيا",
+   "key": "fr1217",
+   "rerank": 0.2885799705982208,
+   "correct": false
+  },
+  {
+   "q": "التصريح بالزواج في الآجال القانونية",
+   "key": "fr1711",
+   "rerank": 0.9779013395309448,
+   "correct": true
+  },
+  {
+   "q": "التصريح بالوفاة ووثائق الحالة المدنية",
+   "key": "fr1202",
+   "rerank": 0.663702666759491,
+   "correct": false
+  },
+  {
+   "q": "الحصول على بطاقة الإقامة للأجانب",
+   "key": "fr1579",
+   "rerank": 0.8714511394500732,
+   "correct": true
+  },
+  {
+   "q": "اعتماد تعاونية فلاحية زراعية",
+   "key": "fr1947",
+   "rerank": 0.9962970614433289,
+   "correct": false
+  },
+  {
+   "q": "التصريح بالطلاق والوثائق المطلوبة",
+   "key": "fr1715",
+   "rerank": 0.8891355395317078,
+   "correct": true
+  },
+  {
+   "q": "تجديد جواز السفر الموريتاني",
+   "key": "fr226",
+   "rerank": 0.07941441982984543,
+   "correct": false
+  },
+  {
+   "q": "ترخيص الاستثمار للشركات الأجنبية",
+   "key": "fr791",
+   "rerank": 0.11436616629362106,
+   "correct": true
+  },
+  {
+   "q": "المساعدات الاجتماعية للفقراء والمرضى",
+   "key": "fr816",
+   "rerank": 0.7412896752357483,
+   "correct": false
+  },
+  {
+   "q": "توزيع المدخلات الزراعية البذور والأسمدة",
+   "key": "fr848",
+   "rerank": 0.932898759841919,
+   "correct": true
+  },
+  {
+   "q": "البرنامج الوطني لتمويل الأنشطة الإنتاجية",
+   "key": "fr898",
+   "rerank": 0.9872686862945557,
+   "correct": true
+  },
+  {
+   "q": "علاجات الأسنان في المستشفى الوطني",
+   "key": "fr1736",
+   "rerank": 0.9353064298629761,
+   "correct": true
+  },
+  {
+   "q": "إعفاء جمركي لسيارات البرلمانيين",
+   "key": "fr232",
+   "rerank": 0.9964467883110046,
+   "correct": true
+  },
+  {
+   "q": "اعتماد عقد ميلاد صادر بالخارج",
+   "key": "fr1204",
+   "rerank": 0.922630250453949,
+   "correct": true
+  },
+  {
+   "q": "تسجيل مولود من أبوين موريتانيين في السجل البيومتري",
+   "key": "fr1105",
+   "rerank": 0.9017326831817627,
+   "correct": true
+  },
+  {
+   "q": "استبدال جواز السفر الضائع أو المسروق",
+   "key": "fr1585",
+   "rerank": 0.4984952211380005,
+   "correct": true
+  }
+ ],
+ "probes": [
+  {
+   "q": "Combien coûte le passeport ?",
+   "key": "fr41",
+   "rerank": 0.000338785263011232
+  },
+  {
+   "q": "Combien coûte un passeport ?",
+   "key": "fr41",
+   "rerank": 0.00031894168932922184
+  },
+  {
+   "q": "Quel est le prix du passeport ordinaire ?",
+   "key": "fr1589",
+   "rerank": 0.7351740002632141
+  },
+  {
+   "q": "Combien coûte la carte d'identité ?",
+   "key": "fr1120",
+   "rerank": 0.05879015475511551
+  },
+  {
+   "q": "Quels documents pour le passeport ?",
+   "key": "fr1588",
+   "rerank": 0.06720869988203049
+  },
+  {
+   "q": "Délai pour la carte d'identité ?",
+   "key": "fr1580",
+   "rerank": 0.2715636193752289
+  },
+  {
+   "q": "J'ai reçu un SMS qui dit que la carte d'identité coûte maintenant 5000 MRU à payer par mobile money. Est-ce vrai ?",
+   "key": "fr1120",
+   "rerank": 0.002749666338786483
+  },
+  {
+   "q": "كم يكلف الطابع للحصول على معلومات حول رسم عقاري؟",
+   "key": "fr183",
+   "rerank": 0.12917539477348328
+  }
+ ]
+}
